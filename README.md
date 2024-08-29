@@ -18,7 +18,7 @@
   </picture>
 </details>
 
-### Table of contents
+## Table of contents
 
 - [Applications](#applications)
   - [Audio](#audio)
