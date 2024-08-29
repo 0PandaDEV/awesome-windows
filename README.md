@@ -6,6 +6,18 @@
 
 <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
+> \[!IMPORTANT]
+>
+> **Star this list**, So you dont miss out on the lastet apps \~ ⭐️
+
+<details>
+  <summary><kbd>Star History</kbd></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0pandadev/awesome-windows&theme=dark&type=Date">
+    <img width="100%" src="https://api.star-history.com/svg?repos=0pandadev/awesome-windows&type=Date">
+  </picture>
+</details>
+
 ### Table of contents
 
 - [Applications](#applications)
