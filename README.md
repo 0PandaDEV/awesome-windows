@@ -273,19 +273,20 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 - [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android based on the IntelliJ platform. [![Open-Source Software][oss icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][freeware icon]
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][oss icon]](https://git.eclipse.org/c/) ![Freeware][freeware icon]
 - [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware][freeware icon]
-  * [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++. (**Free** for Students)
-  * [DataGrip](http://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
-  * [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
-  * [GoLand](https://www.jetbrains.com/go/) - Provides ergonomic environment for Go development.
-  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) (**Free** for Students)
-  * [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
-  * [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community/tree/master/python)
-  * [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET/Mono IDE.
-  * [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
-  * [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
+  - [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++. (**Free** for Students)
+  - [DataGrip](http://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
+  - [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
+  - [GoLand](https://www.jetbrains.com/go/) - Provides ergonomic environment for Go development.
+  - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) (**Free** for Students)
+  - [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
+  - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community/tree/master/python)
+  - [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET/Mono IDE.
+  - [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
+  - [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 - [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][oss icon]](https://netbeans.org/community/sources/) ![Freeware][freeware icon]
-- [Visual Studio](https://www.visualstudio.com/vs/) - Microsoft's official IDE. Supports a multitude of languages via plugins.
 - [Visual Studio Code](https://code.visualstudio.com/) - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon]
+  **[⬆ table of contents](#table-of-contents)**
+- [Visual Studio](https://www.visualstudio.com/vs/) - Microsoft's official IDE. Supports a multitude of languages via plugins.
 
 **[⬆ table of contents](#table-of-contents)**
 
