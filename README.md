@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+The purpose of this repository is to replace its predecessor Awesome-Windows/awesome which has not been updated in 3 years. The current owner also shows no interest in maintaining it.
+
 > \[!NOTE]
 >
 > Please, consider supporting me
@@ -11,7 +13,7 @@
 
 > \[!IMPORTANT]
 >
-> **Star this list**, So you dont miss out on the lastet apps \~ ⭐️
+> **Star this list**, So you don't miss out on the latest apps \~ ⭐️
 
 <details>
   <summary><kbd>Star History</kbd></summary>
