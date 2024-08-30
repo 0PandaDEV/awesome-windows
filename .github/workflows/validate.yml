@@ -1,0 +1,28 @@
+name: Validate Changes
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Validate changes
+        run: python .github/scripts/checks.py
+
+      - name: Check alphabetical order
+        run: python .github/scripts/check_sorting.py
