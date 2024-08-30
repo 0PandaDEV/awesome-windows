@@ -1,10 +1,14 @@
 # Awesome Windows
 
-> An awesome & curated list of best applications and tools for Windows.
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> \*Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
+An awesome & curated list of best applications and tools for Windows.
 
-<a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+> \[!NOTE]
+>
+> Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
+>
+> <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
 > \[!IMPORTANT]
 >
@@ -42,10 +46,11 @@
   - [Proxy and VPN Tools](#proxy-and-vpn-tools)
   - [Video](#video)
 - [Setup](#setup)
+  - [Free Activation Script](#free-activation-script)
+  - [Windows 11 Setup](#windows-11-setup)
   - [Windows 10 Setup](#windows-10-setup)
   - [Windows 8.1 Setup](#windows-81-setup)
 - [Security](#security)
-- [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
     - [Windows](#windows)
     - [IRC channels](#irc-channels)
@@ -76,6 +81,8 @@
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Chat Clients
 
 - [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) ![Freeware][freeware icon]
@@ -89,6 +96,8 @@
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
 - [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz) ![Freeware][Freeware Icon]
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Compression
 
 - [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][oss icon]](http://www.7-zip.org/download.html) ![Freeware][freeware icon]
@@ -96,6 +105,8 @@
 - [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. [![Open-Source Software][oss icon]](https://osdn.net/projects/peazip/) ![Freeware][freeware icon]
 - [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][freeware icon]
 - [WinRAR](http://www.rarlab.com/) - A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Customization
 
@@ -110,6 +121,8 @@
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
 - [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Data Recovery
 
 - [Data Rescue](https://www.prosofteng.com/datarescuepc3/) - Comprehensive and professional Hard drive recovery software that can recover your photos, videos, documents.
@@ -118,6 +131,8 @@
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
 - [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) - Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Developer Tools
 
@@ -167,6 +182,8 @@
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][freeware icon]
 - [Zsh](http://www.zsh.org/) - A powerful command line shell. [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][freeware icon]
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Documents
 
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice is a complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][freeware icon]
@@ -178,11 +195,15 @@
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][oss icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][freeware icon]
 - [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][freeware icon]
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### E-Book Utilities
 
 - [Bookviser](http://apps.microsoft.com/windows/en-us/app/bookviser-reader/42d4527a-b1fe-479b-ad04-150303dc056f) - Awesome application for Windows 8 devices to read eBooks in a simple way. ![Freeware][freeware icon]
 - [Calibre](http://calibre-ebook.com/) - Powerful software for e-book management and conversion. [![Open-Source Software][oss icon]](http://calibre-ebook.com/get-involved) ![Freeware][freeware icon]
 - [kobo](https://www.kobo.com/desktop) - Incredibly ugly but powerful software for ebook management and conversion. ![Freeware][freeware icon]
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Email
 
@@ -192,6 +213,8 @@
 - [Postbox](https://postbox-inc.com/) - The Power Email App
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build) ![Freeware][freeware icon]
 - [BlueMail](https://www.bluemail.me/desktop/) - beautifully designed, powerful and easy to use email app if you're looking for cross-platform functionality.
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Games
 
@@ -208,6 +231,8 @@
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][freeware icon]
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Graphics
 
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][oss icon]](https://developer.blender.org/) ![Freeware][freeware icon]
@@ -216,6 +241,8 @@
 - [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. [![Open-Source Software][oss icon]](https://krita.org/en/download/krita-desktop/) ![Freeware][freeware icon]
 - [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][freeware icon]
 - [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][freeware icon]
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Text Editors
 
@@ -231,7 +258,11 @@
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon]
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### IDEs
+
+**[⬆ table of contents](#table-of-contents)**
 
 - [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android based on the IntelliJ platform. [![Open-Source Software][oss icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][freeware icon]
 - [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++ that uses CMake as a build system.
@@ -245,6 +276,8 @@
 - [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem.
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Online Storage
 
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
@@ -256,11 +289,15 @@
 - [Mozy](https://mozy.com/product/download)
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Backup
 
 - [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
 - [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
 - [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati) ![Freeware][freeware icon]
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Productivity
 
@@ -292,6 +329,8 @@
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon]
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ![Freeware][freeware icon]
@@ -309,6 +348,8 @@
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus) ![Freeware][freeware icon]
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal) ![Freeware][freeware icon]
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Utilities
 
@@ -340,6 +381,7 @@
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][oss icon]](https://github.com/petrroll/PowerSwitcher)
 - [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 - [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
+- [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source Software][oss icon]](https://github.com/0pandadev/qopy)
 - [Retroshare](https://retroshare.cc/) - A platform for secure communications and file sharing between friends. [![Open-Source Software][oss icon]](https://github.com/RetroShare/RetroShare)
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
@@ -367,9 +409,13 @@
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
+**[⬆ table of contents](#table-of-contents)**
+
 ### Proxy and VPN Tools
 
 - [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+
+**[⬆ table of contents](#table-of-contents)**
 
 ### Video
 
@@ -386,7 +432,17 @@
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
 - [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 
+**[⬆ table of contents](#table-of-contents)**
+
 ## Setup
+
+### Free Activation Script
+
+- https://github.com/massgravel/Microsoft-Activation-Scripts
+
+### Windows 11 Setup
+
+- https://www.microsoft.com/en-us/windowsinsider/cleaninstall
 
 ### Windows 10 Setup
 
@@ -419,10 +475,7 @@
 - [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment. ![Freeware][freeware icon]
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 
-## Miscellaneous
-
-- [Show hidden files](http://www.windows.microsoft.com/en-in/windows/show-hidden-files)
-- [list of Shortcut keys](http://imgur.com/a/TIXvm)
+**[⬆ table of contents](#table-of-contents)**
 
 ## Discussion Forums
 
@@ -449,14 +502,14 @@
 
 Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
 
-**[⬆ back to top](#applications)**
+**[⬆ table of contents](#table-of-contents)**
 
 [oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [freeware icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
 
 ## Backers
 
-> \*Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
+Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
 
 <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
