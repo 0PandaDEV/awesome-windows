@@ -67,7 +67,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) ![Freeware][freeware icon]
 - [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more. ![Freeware][freeware icon]
 - [CDex](http://www.cdex.fr/) - CD Ripper (French site, English program). ![Freeware][freeware icon]
-- [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][freeware icon]
+- [Dopamine](https://github.com/digimezzo/dopamine) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][freeware icon]
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features. ![Freeware][freeware icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][freeware icon]
@@ -88,6 +88,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
 - [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
 - [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati) ![Freeware][freeware icon]
+- [Restic](https://restic.net/) - Free cross-platform backup tool with support for various storage types. [![Open-Source Software][oss icon]](https://github.com/restic/restic/tree/master) ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -115,7 +116,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Bandizip](https://www.bandisoft.com/bandizip/) - A lightweight, fast and free All-In-One Zip Archiver. ![Freeware][freeware icon]
 - [NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience. [![Open-Source Software][oss icon]](https://github.com/M2Team/NanaZip) ![Freeware][freeware icon]
 - [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. [![Open-Source Software][oss icon]](https://osdn.net/projects/peazip/) ![Freeware][freeware icon]
-- [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][freeware icon]
+- [Riot](https://riot-optimizer.com/) - Compress images either by file size or by many other image attributes. ![Freeware][freeware icon]
 - [WinRAR](http://www.rarlab.com/) - A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
 
 **[⬆ table of contents](#table-of-contents)**
@@ -130,7 +131,6 @@ An awesome & curated list of best applications and tools for Windows.
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
 - [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector) ![Freeware][freeware icon]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][freeware icon]
-- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][freeware icon]
 - [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 **[⬆ table of contents](#table-of-contents)**
@@ -151,6 +151,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
 - [DataFlare](https://dataflare.app/) - A modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![Freeware][freeware icon]
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](http://sqlitebrowser.org/)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Containerization for Desktop, built on top of WSL2 ![Freeware][freeware icon]
 - [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester) ![Freeware][freeware icon]
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss icon]](https://download.filezilla-project.org/client/) ![Freeware][freeware icon]
@@ -169,8 +170,10 @@ An awesome & curated list of best applications and tools for Windows.
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon]
 - [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
 - [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][freeware icon]
+- [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency,with an on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of your workflow. ![Freeware][freeware icon]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
+- [Podman Desktop](https://podman.io/) - Open Source Desktop Containerization alternative to Docker [![Open-Source Software][oss icon]](https://github.com/containers/podman-desktop) ![Freeware][freeware icon]
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
 - [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - A powerful task manager. ![Freeware][freeware icon]
@@ -193,6 +196,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client. ![Freeware][freeware icon]
 - [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][oss icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html) ![Freeware][freeware icon]
 - [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
+- [wmWebStack](https://webstack.wikimint.com) - Localhost HTTP server stack with one click live publishing. Localhost websites can be viewed on any devices over public internet. ![Freeware][freeware icon]
 - [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment. ![Freeware][freeware icon]
 - [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][freeware icon]
 - [Zsh](http://www.zsh.org/) - A powerful command line shell. [![Open-Source Software][oss icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/) ![Freeware][freeware icon]
@@ -205,7 +209,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][oss icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][freeware icon]
 - [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
-- [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite. ![Freeware][freeware icon]
+- [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite. [![Open-Source Software][oss icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][freeware icon]
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][oss icon]](http://openoffice.apache.org/source.html) ![Freeware][freeware icon]
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. [![Open-Source Software][oss icon]](https://github.com/sumatrapdfreader/sumatrapdf) ![Freeware][freeware icon]
 - [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][freeware icon]
@@ -251,6 +255,7 @@ An awesome & curated list of best applications and tools for Windows.
 
 ### Graphics
 
+- [Aspect](https://aspect.bildhuus.com/) - Photo organization application with support for peer-to-peer based synchronization across devices. ![Freeware][freeware icon]
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][oss icon]](https://developer.blender.org/) ![Freeware][freeware icon]
 - [Figma](https://www.figma.com/) - Collaborative interface design tool. ![Freeware][freeware icon]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][oss icon]](http://www.gimp.org/source/) ![Freeware][freeware icon]
@@ -313,6 +318,8 @@ An awesome & curated list of best applications and tools for Windows.
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon]
 - [File Juggler](https://www.filejuggler.com/) - Organize files automatically. Monitor folders and execute actions like rename, delete, unzip and more. Finds dates in PDFs and much more.
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
+- [Jan](https://jan.ai) - An offline & private ChatGPT alternative that runs AI directly on Windows CPU (GPU also supported). [![Open-Source Software][oss icon]](https://github.com/janhq/jan) ![Freeware][freeware icon]
+- [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.[![Open-Source Software][oss icon]](https://github.com/0xfrankz/Kaas) ![Freeware][freeware icon]
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][freeware icon]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_. ![Freeware][freeware icon]
 - [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy) ![Freeware][freeware icon]
@@ -328,6 +335,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon]
+- [Flow Launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![Open-Source Software][oss icon]](https://github.com/Flow-Launcher/Flow.Launcher) ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -417,7 +425,6 @@ An awesome & curated list of best applications and tools for Windows.
 - [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) / [Snip & Sketch](https://support.microsoft.com/en-us/help/4488540/windows-10-how-to-take-and-annotate-screenshots) - Windows 10 utility to easily capture and edit selected area in screen.
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - A command line utility that can securely delete a file, or clean the slack space.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
-- [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][oss icon]](https://github.com/ShareX/ShareX) ![Freeware][freeware icon]
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
@@ -450,16 +457,16 @@ An awesome & curated list of best applications and tools for Windows.
 - [Shotcut](https://www.shotcut.org/download/) - Open source, cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ![Freeware][freeware icon]
 - [Shutter Encoder](https://www.shutterencoder.com/) - Versatile tool for converting images, videos, and audio files. ![Freeware][freeware icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that remembers settings for all played files. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][freeware icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - Plays multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/videolan/vlc) ![Freeware][freeware icon]
+- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/videolan/vlc) ![Freeware][freeware icon]
 - [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 
 **[⬆ table of contents](#table-of-contents)**
 
 ## Setup
 
-### Free Activation Script
+### Windows 10/11 Activation
 
-- https://github.com/massgravel/Microsoft-Activation-Scripts
+- [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) - Easy activate Windows 10/11
 
 ### Windows 11 Setup
 
