@@ -46,10 +46,9 @@ An awesome & curated list of tools and apps for Windows 10/11.
   - [Utilities](#utilities)
   - [Video](#video)
 - [Setup](#setup)
-  - [Free Activation Script](#free-activation-script)
+  - [Free Activation](#free-activation)
   - [Windows 11 Setup](#windows-11-setup)
   - [Windows 10 Setup](#windows-10-setup)
-  - [Windows 8.1 Setup](#windows-81-setup)
 - [Security](#security)
 - [Discussion Forums](#discussion-forums)
     - [Windows](#windows)
@@ -464,7 +463,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ## Setup
 
-### Windows 10/11 Activation
+### Free Activation
 
 - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) - Easy activate Windows 10/11
 
@@ -477,6 +476,8 @@ An awesome & curated list of tools and apps for Windows 10/11.
 - http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 - http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
+
+**[⬆ table of contents](#table-of-contents)**
 
 ## Security
 
