@@ -2,11 +2,11 @@ import re
 
 
 def clean_item(item):
-    return re.sub(r'\[|\]|\(|\)|`', '', item[0].split('\n')[0].lower())
+    return re.sub(r'\[|\]|\(|\)|`|!', '', item.split(' - ')[0].strip().lower())
 
 
 def sort_items(items):
-    return sorted(items, key=lambda x: clean_item(x))
+    return sorted(items, key=clean_item)
 
 
 def check_alphabetical_order(file_path):
@@ -26,27 +26,14 @@ def check_alphabetical_order(file_path):
         for subsection in subsections:
             sublines = subsection.strip().split('\n')
             subsection_name = sublines[0].strip()
-            items = []
-            current_item = None
-            for line in sublines[1:]:
-                if line.strip().startswith('- ['):
-                    if current_item:
-                        items.append(current_item)
-                    current_item = [line.strip(), []]
-                elif line.strip() and current_item:
-                    current_item[0] += '\n  ' + line.strip()
-
-            if current_item:
-                items.append(current_item)
+            items = [line.strip() for line in sublines[1:]
+                     if line.strip().startswith('- [')]
 
             sorted_items = sort_items(items)
             if items != sorted_items:
                 all_sorted = False
                 change = f"In section '{section_name}', subsection '{subsection_name}':\n"
-                for item in sorted_items:
-                    change += item[0] + '\n'
-                    for subitem in item[1]:
-                        change += subitem + '\n'
+                change += '\n'.join(sorted_items)
                 changes.append(change.strip())
 
     return all_sorted, changes
