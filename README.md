@@ -315,6 +315,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 - [Executor.dk](http://executor.dk/) - A free multi purpose customizable and light-weight launcher. ![Freeware][freeware icon]
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][freeware icon]
 - [File Juggler](https://www.filejuggler.com/) - Organize files automatically. Monitor folders and execute actions like rename, delete, unzip and more. Finds dates in PDFs and much more.
+- [Flow Launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![Open-Source Software][oss icon]](https://github.com/Flow-Launcher/Flow.Launcher) ![Freeware][freeware icon]
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 - [Jan](https://jan.ai) - An offline & private ChatGPT alternative that runs AI directly on Windows CPU (GPU also supported). [![Open-Source Software][oss icon]](https://github.com/janhq/jan) ![Freeware][freeware icon]
 - [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.[![Open-Source Software][oss icon]](https://github.com/0xfrankz/Kaas) ![Freeware][freeware icon]
@@ -333,7 +334,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][freeware icon]
 - [Wox](http://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/) ![Freeware][freeware icon]
-- [Flow Launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![Open-Source Software][oss icon]](https://github.com/Flow-Launcher/Flow.Launcher) ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -394,8 +394,8 @@ An awesome & curated list of tools and apps for Windows 10/11.
 - [CleanMyPC](http://macpaw.com/cleanmypc) - A clean computer in no time.
 - [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool. ![Freeware][freeware icon]
 - [Econap](https://econap.de) - Prevent sleep mode while your system is busy. ![Freeware][freeware icon]
-- [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon]
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon]
+- [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](http://sourceforge.net/projects/farmanager/)
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
@@ -418,18 +418,18 @@ An awesome & curated list of tools and apps for Windows 10/11.
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
+- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - A command line utility that can securely delete a file, or clean the slack space.
 - [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
+- [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) / [Snip & Sketch](https://support.microsoft.com/en-us/help/4488540/windows-10-how-to-take-and-annotate-screenshots) - Windows 10 utility to easily capture and edit selected area in screen.
-- [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - A command line utility that can securely delete a file, or clean the slack space.
-- [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][Freeware Icon]
-- [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
-- [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows. 
 - [SpeedCrunch](http://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/) ![Freeware][freeware icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
+- [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
+- [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
@@ -455,8 +455,8 @@ An awesome & curated list of tools and apps for Windows 10/11.
 - [Shotcut](https://www.shotcut.org/download/) - Open source, cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ![Freeware][freeware icon]
 - [Shutter Encoder](https://www.shutterencoder.com/) - Versatile tool for converting images, videos, and audio files. ![Freeware][freeware icon]
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that remembers settings for all played files. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][freeware icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/videolan/vlc) ![Freeware][freeware icon]
 - [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
+- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/videolan/vlc) ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
