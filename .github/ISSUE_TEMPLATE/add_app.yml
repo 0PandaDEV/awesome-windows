@@ -1,0 +1,94 @@
+name: Add Application
+description: Suggest an application to be added to the Awesome Windows list
+labels: ["enhancement"]
+title: "[ADD] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest an application for the Awesome Windows list!
+        Please fill out the form below to provide details about the application.
+
+  - type: input
+    id: app-name
+    attributes:
+      label: Application Name
+      description: What is the name of the application?
+      placeholder: e.g., Awesome App
+    validations:
+      required: true
+
+  - type: input
+    id: app-url
+    attributes:
+      label: Application URL
+      description: Provide the official website or download link for the application
+      placeholder: https://example.com/awesome-app
+    validations:
+      required: true
+
+  - type: dropdown
+    id: app-category
+    attributes:
+      label: Category
+      description: Which category does this application belong to?
+      options:
+        - Audio
+        - Backup
+        - Chat Clients
+        - Compression
+        - Customization
+        - Data Recovery
+        - Developer Tools
+        - Documents
+        - E-Book Utilities
+        - Email
+        - Games
+        - Graphics
+        - IDEs
+        - Online Storage
+        - Productivity
+        - Proxy and VPN Tools
+        - Terminal
+        - Text Editors
+        - Utilities
+        - Video
+        - Other (please specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: app-description
+    attributes:
+      label: Description
+      description: Provide a brief description of the application and its key features
+      placeholder: This application is awesome because...
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: app-attributes
+    attributes:
+      label: Application Attributes
+      description: Check all that apply
+      options:
+        - label: Free
+        - label: Open Source
+        - label: Paid
+        - label: Freemium (free with paid features)
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Any other relevant information about the application
+      placeholder: e.g., system requirements, version tested, etc.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/0pandadev/awesome-windows/blob/main/code-of-conduct.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

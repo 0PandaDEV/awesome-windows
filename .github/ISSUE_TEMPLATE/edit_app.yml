@@ -1,0 +1,115 @@
+name: Edit Application
+description: Suggest an edit to an existing application in the Awesome Windows list
+labels: ["enhancement"]
+title: "[EDIT] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest an edit for an application in the Awesome Windows list!
+        Please fill out the form below to provide details about the proposed changes.
+
+  - type: input
+    id: app-name
+    attributes:
+      label: Application Name
+      description: What is the name of the application you want to edit?
+      placeholder: e.g., Awesome App
+    validations:
+      required: true
+
+  - type: input
+    id: app-url
+    attributes:
+      label: Current Application URL
+      description: Provide the current URL listed for the application
+      placeholder: https://example.com/awesome-app
+    validations:
+      required: true
+
+  - type: dropdown
+    id: edit-type
+    attributes:
+      label: Type of Edit
+      description: What kind of edit are you proposing?
+      options:
+        - Update URL
+        - Update Description
+        - Update Category
+        - Update Attributes (Free/Open Source/Paid/Freemium)
+        - Remove Application
+        - Other (please specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: edit-description
+    attributes:
+      label: Edit Description
+      description: Describe the changes you're proposing in detail
+      placeholder: The application URL should be updated to... / The description should be changed to...
+    validations:
+      required: true
+
+  - type: input
+    id: new-url
+    attributes:
+      label: New URL (if applicable)
+      description: If you're proposing a URL change, provide the new URL here
+      placeholder: https://example.com/new-awesome-app-url
+
+  - type: dropdown
+    id: new-category
+    attributes:
+      label: New Category (if applicable)
+      description: If you're proposing a category change, select the new category
+      options:
+        - Audio
+        - Backup
+        - Chat Clients
+        - Compression
+        - Customization
+        - Data Recovery
+        - Developer Tools
+        - Documents
+        - E-Book Utilities
+        - Email
+        - Games
+        - Graphics
+        - IDEs
+        - Online Storage
+        - Productivity
+        - Proxy and VPN Tools
+        - Terminal
+        - Text Editors
+        - Utilities
+        - Video
+        - Other (please specify in description)
+
+  - type: checkboxes
+    id: new-attributes
+    attributes:
+      label: New Application Attributes (if applicable)
+      description: If you're proposing attribute changes, check all that apply
+      options:
+        - label: Free
+        - label: Open Source
+        - label: Paid
+        - label: Freemium (free with paid features)
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Any other relevant information about the proposed edit
+      placeholder: e.g., reason for the change, sources for new information, etc.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/0pandadev/awesome-windows/blob/main/code-of-conduct.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+
