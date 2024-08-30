@@ -1,4 +1,4 @@
-# Awesome Windows
+![Awesome Windows](https://github.com/user-attachments/assets/b5897d15-99a5-42e5-a15a-de13687d70f3)
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
