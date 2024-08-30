@@ -2,8 +2,6 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-An awesome & curated list of tools and apps for Windows 10/11.
-
 > \[!NOTE]
 >
 > Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
