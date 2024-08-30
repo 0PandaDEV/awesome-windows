@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-An awesome & curated list of best applications and tools for Windows.
+An awesome & curated list of tools and apps for Windows 10/11.
 
 > \[!NOTE]
 >
@@ -477,10 +477,6 @@ An awesome & curated list of best applications and tools for Windows.
 - http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 - http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
-
-### Windows 8.1 Setup
-
-- http://windows.microsoft.com/en-IN/windows-8/clean-install
 
 ## Security
 
