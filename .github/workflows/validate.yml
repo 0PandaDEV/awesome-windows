@@ -26,6 +26,27 @@ jobs:
 
       - name: Validate changes
         run: python .github/scripts/checks.py
+        continue-on-error: true
+        id: checks
 
       - name: Check alphabetical order
         run: python .github/scripts/check_sorting.py
+        continue-on-error: true
+        id: sorting
+
+      - name: Summarize results
+        if: always()
+        run: |
+          echo "## Validation Results" >> $GITHUB_STEP_SUMMARY
+          echo "### Checks" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          python .github/scripts/checks.py >> $GITHUB_STEP_SUMMARY 2>&1
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          echo "### Alphabetical Order Check" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          python .github/scripts/check_sorting.py >> $GITHUB_STEP_SUMMARY 2>&1
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Check for failures
+        if: steps.checks.outcome == 'failure' || steps.sorting.outcome == 'failure'
+        run: exit 1
