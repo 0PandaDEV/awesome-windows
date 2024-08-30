@@ -26,6 +26,7 @@ An awesome & curated list of best applications and tools for Windows.
 
 - [Applications](#applications)
   - [Audio](#audio)
+  - [Backup](#backup)
   - [Chat Clients](#chat-clients)
   - [Compression](#compression)
   - [Customization](#customization)
@@ -36,14 +37,13 @@ An awesome & curated list of best applications and tools for Windows.
   - [Email](#email)
   - [Games](#games)
   - [Graphics](#graphics)
-  - [Text Editors](#text-editors)
   - [IDEs](#ides)
   - [Online Storage](#online-storage)
-  - [Backup](#backup)
   - [Productivity](#productivity)
-  - [Terminal](#terminal)
-  - [Utilities](#utilities)
   - [Proxy and VPN Tools](#proxy-and-vpn-tools)
+  - [Terminal](#terminal)
+  - [Text Editors](#text-editors)
+  - [Utilities](#utilities)
   - [Video](#video)
 - [Setup](#setup)
   - [Free Activation Script](#free-activation-script)
@@ -80,6 +80,14 @@ An awesome & curated list of best applications and tools for Windows.
 - [Resonic](https://resonic.at/) - Fast and free audio player.
 - [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support. ![Freeware][Freeware Icon]
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
+
+**[⬆ table of contents](#table-of-contents)**
+
+### Backup
+
+- [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
+- [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
+- [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati) ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -244,22 +252,6 @@ An awesome & curated list of best applications and tools for Windows.
 
 **[⬆ table of contents](#table-of-contents)**
 
-### Text Editors
-
-- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom) ![Freeware][freeware icon]
-- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) ![Freeware][freeware icon]
-- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim) ![Freeware][freeware icon]
-- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable) ![Freeware][freeware icon]
-- [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) ![Freeware][freeware icon]
-- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][freeware icon]
-- [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
-- [Oni](http://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][oss icon]](https://github.com/onivim/oni) ![Freeware][freeware icon]
-- [SpaceVim](https://spacevim.org) - A community-driven vim distribution [![Open-Source Software][oss icon]](https://github.com/onivim/oni) ![Freeware][freeware icon]
-- [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
-- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon]
-
-**[⬆ table of contents](#table-of-contents)**
-
 ### IDEs
 
 **[⬆ table of contents](#table-of-contents)**
@@ -283,19 +275,11 @@ An awesome & curated list of best applications and tools for Windows.
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
 - [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
 - [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
-- [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
-- [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
 - [Mega](https://mega.nz/) - Encrypted file storage.
 - [Mozy](https://mozy.com/product/download)
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
-
-**[⬆ table of contents](#table-of-contents)**
-
-### Backup
-
-- [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
-- [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
-- [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati) ![Freeware][freeware icon]
+- [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
+- [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -331,6 +315,12 @@ An awesome & curated list of best applications and tools for Windows.
 
 **[⬆ table of contents](#table-of-contents)**
 
+### Proxy and VPN Tools
+
+- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+
+**[⬆ table of contents](#table-of-contents)**
+
 ### Terminal
 
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty) ![Freeware][freeware icon]
@@ -348,6 +338,22 @@ An awesome & curated list of best applications and tools for Windows.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus) ![Freeware][freeware icon]
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal) ![Freeware][freeware icon]
+
+**[⬆ table of contents](#table-of-contents)**
+
+### Text Editors
+
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom) ![Freeware][freeware icon]
+- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) ![Freeware][freeware icon]
+- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim) ![Freeware][freeware icon]
+- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable) ![Freeware][freeware icon]
+- [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) ![Freeware][freeware icon]
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][freeware icon]
+- [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
+- [Oni](http://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][oss icon]](https://github.com/onivim/oni) ![Freeware][freeware icon]
+- [SpaceVim](https://spacevim.org) - A community-driven vim distribution [![Open-Source Software][oss icon]](https://github.com/onivim/oni) ![Freeware][freeware icon]
+- [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
+- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -408,12 +414,6 @@ An awesome & curated list of best applications and tools for Windows.
 - [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
-
-**[⬆ table of contents](#table-of-contents)**
-
-### Proxy and VPN Tools
-
-- [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 
 **[⬆ table of contents](#table-of-contents)**
 
