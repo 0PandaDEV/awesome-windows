@@ -4,7 +4,8 @@
 
 > \[!NOTE]
 >
-> Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
+> Please, consider supporting me
+>  as it is a lot of work to maintain this list! Thanks a lot.
 >
 > <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
