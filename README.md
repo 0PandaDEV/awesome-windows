@@ -95,14 +95,17 @@ An awesome & curated list of best applications and tools for Windows.
 
 - [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine) ![Freeware][freeware icon]
 - [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux. ![Freeware][freeware icon]
+- [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz) ![Freeware][Freeware Icon]
+- [Guilded](https://www.guilded.gg/) - A chat platform for gaming communities with features like voice chat, video streaming, and event scheduling. ![Freeware][Freeware Icon]
 - [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][oss icon]](https://hexchat.github.io/) ![Freeware][freeware icon]
 - [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][freeware icon]
+- [Matrix](https://matrix.org/) - An open network for secure, decentralized communication. [![Open-Source Software][OSS Icon]](https://github.com/matrix-org) ![Freeware][Freeware Icon]
 - [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
+- [Revolt](https://revolt.chat/) - A user-first chat platform built with modern web technologies. [![Open-Source Software][OSS Icon]](https://github.com/revoltchat) ![Freeware][Freeware Icon]
 - [Riot](https://about.riot.im/) - A decentralised encrypted comms app for the Matrix.org ecosystem. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web) ![Freeware][Freeware Icon]
-- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
+- [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it's super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
-- [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz) ![Freeware][Freeware Icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -110,6 +113,7 @@ An awesome & curated list of best applications and tools for Windows.
 
 - [7-Zip](http://www.7-zip.org/) - Open source Windows utility for manipulating archives. Formats 7z, ZIP, GZIP, BZIP2 and TAR are supported fully, other formats can be unpacked. [![Open-Source Software][oss icon]](http://www.7-zip.org/download.html) ![Freeware][freeware icon]
 - [Bandizip](https://www.bandisoft.com/bandizip/) - A lightweight, fast and free All-In-One Zip Archiver. ![Freeware][freeware icon]
+- [NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience. [![Open-Source Software][oss icon]](https://github.com/M2Team/NanaZip) ![Freeware][freeware icon]
 - [PeaZip](http://www.peazip.org/) - Archiver and file compressor. Extract 7Z CAB ISO RAR TAR ZIP archive files. [![Open-Source Software][oss icon]](https://osdn.net/projects/peazip/) ![Freeware][freeware icon]
 - [Riot](http://luci.criosweb.ro/riot/) - Compress images either by file size or by many other image attributes. ![Freeware][freeware icon]
 - [WinRAR](http://www.rarlab.com/) - A powerful archive manager. It can backup your data and reduce the size of email attachments, decompress RAR, ZIP and other files.
@@ -145,6 +149,7 @@ An awesome & curated list of best applications and tools for Windows.
 ### Developer Tools
 
 - [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
+- [DataFlare](https://dataflare.app/) - A modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![Freeware][freeware icon]
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](http://sqlitebrowser.org/)
 - [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester) ![Freeware][freeware icon]
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
@@ -153,7 +158,9 @@ An awesome & curated list of best applications and tools for Windows.
 - [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][oss icon]](https://github.com/gitextensions/gitextensions) ![Freeware][freeware icon]
 - [GitHub Desktop](https://desktop.github.com/) - GitHub Desktop is an open source Electron-based GitHub app. [![Open-Source Software][oss icon]](https://github.com/desktop/desktop) ![Freeware][freeware icon]
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][freeware icon]
+- [GitLight](https://github.com/colinlienard/gitlight) - An open-source GitHub & GitLab notifications desktop client. [![Open-Source Software][oss icon]](https://github.com/colinlienard/gitlight) ![Freeware][freeware icon]
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+- [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch) ![Freeware][freeware icon]
 - [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit) ![Freeware][freeware icon]
 - [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][oss icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][freeware icon]
 - [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon] ![Freeware][freeware icon]
@@ -228,6 +235,7 @@ An awesome & curated list of best applications and tools for Windows.
 
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][oss icon]](https://github.com/0ad/0ad) ![Freeware][freeware icon]
 - [Awesome Games](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][freeware icon]
+- [Epic Games](https://www.epicgames.com/store/) - Digital video game storefront for PC and Mac, designed by Epic Games.
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/) ![Freeware][freeware icon]
 - [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][oss icon]](https://github.com/godotengine/godot) ![Freeware][freeware icon]
 - [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
@@ -244,10 +252,11 @@ An awesome & curated list of best applications and tools for Windows.
 ### Graphics
 
 - [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][oss icon]](https://developer.blender.org/) ![Freeware][freeware icon]
+- [Figma](https://www.figma.com/) - Collaborative interface design tool. ![Freeware][freeware icon]
 - [Gimp](http://www.gimp.org/) - Open source image editor. [![Open-Source Software][oss icon]](http://www.gimp.org/source/) ![Freeware][freeware icon]
 - [Inkscape](https://inkscape.org/en/) - Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux. [![Open-Source Software][oss icon]](https://gitlab.com/inkscape/inkscape) ![Freeware][freeware icon]
 - [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. [![Open-Source Software][oss icon]](https://krita.org/en/download/krita-desktop/) ![Freeware][freeware icon]
-- [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system. ![Freeware][freeware icon]
+- [Lunacy](https://icons8.com/lunacy) - Free Figma alternative with built-in design resources and graphic design capabilities. ![Freeware][freeware icon]
 - [Paint.net](http://www.getpaint.net/index.html) - how can you live without paint.net? ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
@@ -257,16 +266,21 @@ An awesome & curated list of best applications and tools for Windows.
 **[⬆ table of contents](#table-of-contents)**
 
 - [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android based on the IntelliJ platform. [![Open-Source Software][oss icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][freeware icon]
-- [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++ that uses CMake as a build system.
 - [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][oss icon]](https://git.eclipse.org/c/) ![Freeware][freeware icon]
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) ![Freeware][freeware icon]
+- [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware][freeware icon]
+  * [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++. (**Free** for Students)
+  * [DataGrip](http://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
+  * [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists
+  * [GoLand](https://www.jetbrains.com/go/) - Provides ergonomic environment for Go development.
+  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) (**Free** for Students)
+  * [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
+  * [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community/tree/master/python)
+  * [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET/Mono IDE.
+  * [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
+  * [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 - [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][oss icon]](https://netbeans.org/community/sources/) ![Freeware][freeware icon]
-- [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE with major frameworks support.
-- [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community/tree/master/python) ![Freeware][freeware icon]
-- [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET/Mono IDE.
-- [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
-- [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
-- [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem.
+- [Visual Studio](https://www.visualstudio.com/vs/) - Microsoft's official IDE. Supports a multitude of languages via plugins.
+- [Visual Studio Code](https://code.visualstudio.com/) - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) ![Freeware][freeware icon]
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -277,6 +291,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
 - [Mega](https://mega.nz/) - Encrypted file storage.
 - [Mozy](https://mozy.com/product/download)
+- [Nextcloud](https://nextcloud.com/) - Open source, self-hosted file share and communication platform.
 - [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
 - [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
 - [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
@@ -306,6 +321,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][freeware icon]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][freeware icon]
 - [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][freeware icon]
+- [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source
 - [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop) ![Freeware][freeware icon]
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][freeware icon]
 - [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration. ![Freeware][freeware icon]
@@ -318,6 +334,10 @@ An awesome & curated list of best applications and tools for Windows.
 ### Proxy and VPN Tools
 
 - [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
+- [Tailscale](https://tailscale.com/) - Zero config VPN for building secure networks. [@Web](https://tailscale.com/compare/wireguard)
+- [Twingate](https://www.twingate.com/) - Modern zero trust network access solution. [@Web](https://www.twingate.com/)
+- [WireGuard](https://www.wireguard.com/) - Fast, modern, and secure VPN tunnel. [@Web](https://www.marksanborn.net/howto/wireguard-a-fast-modern-secure-way-to-connect-home/)
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -426,10 +446,11 @@ An awesome & curated list of best applications and tools for Windows.
 - [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive) ![Freeware][freeware icon]
 - [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
-- [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
-- [Shotcut](https://www.shotcut.org/download/) - Open source cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ![Freeware][freeware icon]
-- [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][freeware icon]
-- [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
+- [ScreenToGif](http://www.screentogif.com/) - Allows recording of a selected area of your screen, saving it as a GIF or video. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][freeware icon]
+- [Shotcut](https://www.shotcut.org/download/) - Open source, cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut) ![Freeware][freeware icon]
+- [Shutter Encoder](https://www.shutterencoder.com/) - Versatile tool for converting images, videos, and audio files. ![Freeware][freeware icon]
+- [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that remembers settings for all played files. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][freeware icon]
+- [VLC](http://www.videolan.org/vlc/index.html) - Plays multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/videolan/vlc) ![Freeware][freeware icon]
 - [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 
 **[⬆ table of contents](#table-of-contents)**
@@ -459,6 +480,7 @@ An awesome & curated list of best applications and tools for Windows.
 - [Acrylic DNS Proxy](http://mayakron.altervista.org/wikibase/show.php?id=AcrylicHome) - A local DNS proxy which caches the responses coming from your DNS servers and helps you fight unwanted ads through a custom HOSTS file. ![Freeware][freeware icon]
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][freeware icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
+- [Bitwarden](https://bitwarden.com/) - Free and open-source password management service that stores sensitive information in an encrypted vault. [![Open-Source Software][oss icon]](https://github.com/bitwarden) ![Freeware][freeware icon]
 - [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][oss icon]](https://github.com/cryptomator/cryptomator) ![Freeware][freeware icon]
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - Make Windows 10 more private and safe. ![Freeware][freeware icon]
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][freeware icon]
@@ -467,6 +489,8 @@ An awesome & curated list of best applications and tools for Windows.
 - [KeePass](http://www.keepass.info) - Free, open-source, easy-to-use password manager. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/) ![Freeware][freeware icon]
 - [Malwarebytes](https://www.malwarebytes.org/) - protects from dangerous threats that antivirus doesn't. ![Freeware][freeware icon]
 - [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool. ![Freeware][freeware icon]
+- [Padloc](https://padloc.app/) - Open-source and end-to-end encrypted password manager. [![Open-Source Software][oss icon]](https://github.com/padloc/padloc) ![Freeware][freeware icon]
+- [ProtonPass](https://proton.me/pass) - Encrypted password manager from the makers of ProtonMail. Features end-to-end encryption and zero-knowledge architecture. ![Freeware][freeware icon]
 - [SpyBot](https://www.safer-networking.org/) - Search and destroy malware, spyware and viruses. ![Freeware][freeware icon]
 - [System Explorer](http://systemexplorer.net) - An enhanced task manager with support for monitoring and modifying system processes, start-up programs, system services, drivers, shell extensions, and more.
 - [Tor Project](https://www.torproject.org/) - Enable anonymous communication. [![Open-Source Software][oss icon]](https://github.com/TheTorProject) ![Freeware][freeware icon]
