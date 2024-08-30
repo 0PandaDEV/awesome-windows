@@ -1,7 +1,9 @@
 name: Edit Application
 description: Suggest an edit to an existing application in the Awesome Windows list
-labels: ["enhancement"]
+labels: ["Edit"]
 title: "[EDIT] "
+assignees:
+  - 0pandadev
 body:
   - type: markdown
     attributes:
