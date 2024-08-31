@@ -126,7 +126,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start)
 * [Clover](https://en.ejie.me/) - Add multi-tab functionality to Windows Explorer.
 * [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet)
-* [Komorebi](https://lgug2z.github.io/komorebi/) - A tiling window manager for Windows [![Open-Source Software][oss icon]](https://github.com/LGUG2Z/komorebi) ![Freeware][freeware icon]
+* [Komorebi](https://lgug2z.github.io/komorebi/) - A tiling window manager for Windows [![Open-Source Software][oss icon]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views.
 * [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter)
 * [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector)
