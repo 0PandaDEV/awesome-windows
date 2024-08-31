@@ -27,17 +27,30 @@ jobs:
 
       - name: Update README.md
         run: |
-          APP_NAME="${{ fromJson(steps.issue.outputs.result).title }}"
-          APP_URL="${{ fromJson(steps.issue.outputs.result).body }}"
-          APP_DESCRIPTION="${{ fromJson(steps.issue.outputs.result).body }}"
-          CATEGORY="${{ fromJson(steps.issue.outputs.result).labels[1].name }}"
+          ISSUE_BODY="${{ fromJson(steps.issue.outputs.result).body }}"
           
           # Extract relevant information from issue body
-          APP_URL=$(echo "$APP_URL" | grep -oP '(?<=Application URL: ).*')
-          APP_DESCRIPTION=$(echo "$APP_DESCRIPTION" | grep -oP '(?<=Description: ).*')
+          APP_NAME=$(echo "$ISSUE_BODY" | grep -oP '(?<=Application Name\n\n).*')
+          APP_URL=$(echo "$ISSUE_BODY" | grep -oP '(?<=Application URL\n\n).*')
+          CATEGORY=$(echo "$ISSUE_BODY" | grep -oP '(?<=Category\n\n).*')
+          APP_DESCRIPTION=$(echo "$ISSUE_BODY" | grep -oP '(?<=Description\n\n).*')
+          
+          # Check if the application is open source
+          if echo "$ISSUE_BODY" | grep -q "\[X\] Open Source"; then
+            OPEN_SOURCE_ICON="[![Open-Source Software][oss icon]]($APP_URL)"
+          else
+            OPEN_SOURCE_ICON=""
+          fi
+          
+          # Check if the application is free
+          if echo "$ISSUE_BODY" | grep -q "\[X\] Free"; then
+            FREE_ICON="![Freeware][freeware icon]"
+          else
+            FREE_ICON=""
+          fi
           
           # Add new entry to README.md
-          sed -i "/## $CATEGORY/a * [$APP_NAME]($APP_URL) - $APP_DESCRIPTION ![Freeware][freeware icon]" README.md
+          sed -i "/## $CATEGORY/a * [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $FREE_ICON" README.md
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
