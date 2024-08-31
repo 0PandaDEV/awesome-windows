@@ -66,13 +66,12 @@ jobs:
           BEGIN {in_category=0; added=0}
           /^## / {
             if (in_category) {
-              asort(entries)
-              for (i in entries) print entries[i]
-              if (!added) print new_entry
+              n = asort(entries)
+              for (i = 1; i <= n; i++) print entries[i]
               delete entries
+              in_category=0
               added=0
             }
-            in_category=0
             print
             if ($0 ~ "^## " category) {
               in_category=1
@@ -80,16 +79,20 @@ jobs:
             }
             next
           }
-          in_category && /^\* / {
-            entries[tolower(substr($0,3,1)) $0] = $0
+          in_category {
+            if (/^\* /) {
+              entries[tolower(substr($0,3,1)) $0] = $0
+            } else {
+              print
+            }
             next
           }
           {print}
           END {
             if (in_category) {
-              asort(entries)
-              for (i in entries) print entries[i]
-              if (!added) print new_entry
+              entries[tolower(substr(new_entry,3,1)) new_entry] = new_entry
+              n = asort(entries)
+              for (i = 1; i <= n; i++) print entries[i]
             }
           }
           ' README.md > README.md.tmp && mv README.md.tmp README.md
