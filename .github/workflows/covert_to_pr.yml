@@ -1,0 +1,65 @@
+name: Convert Issue to Pull Request
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  convert_issue_to_pr:
+    if: github.event.label.name == 'Add'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get issue details
+        id: issue
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const issue = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number
+            });
+            return issue.data;
+
+      - name: Update README.md
+        run: |
+          APP_NAME="${{ fromJson(steps.issue.outputs.result).title }}"
+          APP_URL="${{ fromJson(steps.issue.outputs.result).body }}"
+          APP_DESCRIPTION="${{ fromJson(steps.issue.outputs.result).body }}"
+          CATEGORY="${{ fromJson(steps.issue.outputs.result).labels[1].name }}"
+          
+          # Extract relevant information from issue body
+          APP_URL=$(echo "$APP_URL" | grep -oP '(?<=Application URL: ).*')
+          APP_DESCRIPTION=$(echo "$APP_DESCRIPTION" | grep -oP '(?<=Description: ).*')
+          
+          # Add new entry to README.md
+          sed -i "/## $CATEGORY/a * [$APP_NAME]($APP_URL) - $APP_DESCRIPTION ![Freeware][freeware icon]" README.md
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Add ${{ fromJson(steps.issue.outputs.result).title }} to ${{ fromJson(steps.issue.outputs.result).labels[1].name }} category"
+          title: "Add ${{ fromJson(steps.issue.outputs.result).title }} to ${{ fromJson(steps.issue.outputs.result).labels[1].name }} category"
+          body: |
+            This PR adds ${{ fromJson(steps.issue.outputs.result).title }} to the ${{ fromJson(steps.issue.outputs.result).labels[1].name }} category in the README.md file.
+            
+            Closes #${{ github.event.issue.number }}
+          branch: add-${{ github.event.issue.number }}
+          base: main
+
+      - name: Close Issue
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            })
