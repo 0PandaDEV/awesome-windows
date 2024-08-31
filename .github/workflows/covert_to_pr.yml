@@ -58,8 +58,31 @@ jobs:
             FREE_ICON=""
           fi
           
-          # Add new entry to README.md
-          sed -i "/## $CATEGORY/a * [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $FREE_ICON" README.md
+          # Create the new entry
+          NEW_ENTRY="* [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $FREE_ICON"
+          
+          # Find the category section and sort entries
+          awk -v new_entry="$NEW_ENTRY" -v category="$CATEGORY" '
+          BEGIN {in_category=0; added=0}
+          /^## / {in_category=0}
+          $0 ~ "^## " category {in_category=1; print; next}
+          in_category && /^\* / {
+            if (!added && tolower(new_entry) < tolower($0)) {
+              print new_entry
+              added=1
+            }
+            print
+            next
+          }
+          in_category && !added {
+            print new_entry
+            added=1
+          }
+          {print}
+          END {
+            if (!added) print new_entry
+          }
+          ' README.md > README.md.tmp && mv README.md.tmp README.md
           
           # Set environment variables for later steps
           echo "APP_NAME=$APP_NAME" >> $GITHUB_ENV
