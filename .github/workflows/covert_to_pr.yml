@@ -65,33 +65,26 @@ jobs:
           awk -v new_entry="$NEW_ENTRY" -v category="$CATEGORY" '
           BEGIN {in_category=0; added=0}
           /^## / {
-            in_category=0
-            if ($0 ~ "^## " category) {
-              in_category=1
-              print
-              next
+            if (in_category && !added) {
+              print new_entry
+              added=1
             }
+            in_category = ($0 ~ "^## " category)
+            print
+            if (in_category) print ""
+            next
           }
           in_category && /^\* / {
-            if (!added && tolower(new_entry) < tolower($0)) {
+            if (!added && tolower(substr(new_entry, 3)) < tolower(substr($0, 3))) {
               print new_entry
               added=1
             }
             print
             next
           }
-          in_category && !(/^\* /) {
-            if (!added) {
-              print new_entry
-              added=1
-            }
-            in_category=0
-          }
           {print}
           END {
-            if (in_category && !added) {
-              print new_entry
-            }
+            if (in_category && !added) print new_entry
           }
           ' README.md > README.md.tmp && mv README.md.tmp README.md
           
