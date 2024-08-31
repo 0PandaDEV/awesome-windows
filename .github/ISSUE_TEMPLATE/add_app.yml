@@ -79,6 +79,15 @@ body:
         - label: Paid
         - label: Freemium (free with paid features)
 
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      description: If the application is open source, provide the URL to its repository (GitHub, GitLab, etc.)
+      placeholder: https://github.com/example/awesome-app
+    validations:
+      required: false
+
   - type: textarea
     id: additional-info
     attributes:

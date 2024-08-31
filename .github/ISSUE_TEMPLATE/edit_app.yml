@@ -99,6 +99,13 @@ body:
         - label: Paid
         - label: Freemium (free with paid features)
 
+  - type: input
+    id: new-repo-url
+    attributes:
+      label: New Repository URL (if applicable)
+      description: If you're changing the open source status or updating the repository URL, provide the new URL here
+      placeholder: https://github.com/example/awesome-app
+
   - type: textarea
     id: additional-info
     attributes:

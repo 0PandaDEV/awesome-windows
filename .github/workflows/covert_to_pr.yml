@@ -43,10 +43,15 @@ jobs:
           APP_URL=$(echo "$ISSUE_BODY" | awk '/### Application URL/{flag=1; next} /###/{flag=0} flag' | xargs)
           CATEGORY=$(echo "$ISSUE_BODY" | awk '/### Category/{flag=1; next} /###/{flag=0} flag' | xargs)
           APP_DESCRIPTION=$(echo "$ISSUE_BODY" | awk '/### Description/{flag=1; next} /###/{flag=0} flag' | xargs)
+          REPO_URL=$(echo "$ISSUE_BODY" | awk '/### Repository URL/{flag=1; next} /###/{flag=0} flag' | xargs)
           
           # Check if the application is open source
           if echo "$ISSUE_BODY" | grep -q "\[X\] Open Source"; then
-            OPEN_SOURCE_ICON="[![Open-Source Software][oss icon]]($APP_URL)"
+            if [ -n "$REPO_URL" ]; then
+              OPEN_SOURCE_ICON="[![Open-Source Software][oss icon]]($REPO_URL)"
+            else
+              OPEN_SOURCE_ICON="[![Open-Source Software][oss icon]]($APP_URL)"
+            fi
           else
             OPEN_SOURCE_ICON=""
           fi
@@ -95,6 +100,7 @@ jobs:
           echo "APP_DESCRIPTION=$APP_DESCRIPTION" >> $GITHUB_ENV
           echo "OPEN_SOURCE_ICON=$OPEN_SOURCE_ICON" >> $GITHUB_ENV
           echo "FREE_ICON=$FREE_ICON" >> $GITHUB_ENV
+          echo "REPO_URL=$REPO_URL" >> $GITHUB_ENV
 
       - name: Debug Output
         run: |
@@ -104,6 +110,7 @@ jobs:
           echo "APP_DESCRIPTION: $APP_DESCRIPTION"
           echo "OPEN_SOURCE_ICON: $OPEN_SOURCE_ICON"
           echo "FREE_ICON: $FREE_ICON"
+          echo "REPO_URL: $REPO_URL"
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
@@ -113,6 +120,9 @@ jobs:
           title: "Add ${{ env.APP_NAME }} to ${{ env.CATEGORY }} category"
           body: |
             This PR adds ${{ env.APP_NAME }} to the ${{ env.CATEGORY }} category in the README.md file.
+            
+            Application URL: ${{ env.APP_URL }}
+            Repository URL: ${{ env.REPO_URL }}
             
             Closes #${{ github.event.issue.number || github.event.inputs.issue_number }}
           branch: add-${{ github.event.issue.number || github.event.inputs.issue_number }}
