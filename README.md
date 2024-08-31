@@ -538,7 +538,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [contribution guidelines](CONTRIBUTION.md).
+Contributions are most welcome, please adhere to the [contribution guidelines](CONTRIBUTING.md).
 
 **[⬆ table of contents](#table-of-contents)**
 
