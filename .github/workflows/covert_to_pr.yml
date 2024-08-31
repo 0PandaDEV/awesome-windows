@@ -37,10 +37,10 @@ jobs:
           ISSUE_BODY="${{ fromJson(steps.issue.outputs.result).body }}"
           
           # Extract relevant information from issue body
-          APP_NAME=$(echo "$ISSUE_BODY" | sed -n '/Application Name/,/Application URL/p' | tail -n +3 | head -n -2 | tr -d '\r')
-          APP_URL=$(echo "$ISSUE_BODY" | sed -n '/Application URL/,/Category/p' | tail -n +3 | head -n -2 | tr -d '\r')
-          CATEGORY=$(echo "$ISSUE_BODY" | sed -n '/Category/,/Description/p' | tail -n +3 | head -n -2 | tr -d '\r')
-          APP_DESCRIPTION=$(echo "$ISSUE_BODY" | sed -n '/Description/,/Application Attributes/p' | tail -n +3 | head -n -2 | tr -d '\r')
+          APP_NAME=$(echo "$ISSUE_BODY" | sed -n '/### Application Name/,/### Application URL/p' | sed '1d;$d' | tr -d '\r' | xargs)
+          APP_URL=$(echo "$ISSUE_BODY" | sed -n '/### Application URL/,/### Category/p' | sed '1d;$d' | tr -d '\r' | xargs)
+          CATEGORY=$(echo "$ISSUE_BODY" | sed -n '/### Category/,/### Description/p' | sed '1d;$d' | tr -d '\r' | xargs)
+          APP_DESCRIPTION=$(echo "$ISSUE_BODY" | sed -n '/### Description/,/### Application Attributes/p' | sed '1d;$d' | tr -d '\r' | xargs)
           
           # Check if the application is open source
           if echo "$ISSUE_BODY" | grep -q "\[X\] Open Source"; then
