@@ -17,10 +17,12 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 <details>
   <summary><kbd>Star History</kbd></summary>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0pandadev/awesome-windows&theme=dark&type=Date">
-    <img width="100%" src="https://api.star-history.com/svg?repos=0pandadev/awesome-windows&type=Date">
-  </picture>
+  <a href="https://star-history.com/#0pandadev/awesome-windows&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0pandadev/awesome-windows&theme=dark&type=Date">
+      <img width="100%" src="https://api.star-history.com/svg?repos=0pandadev/awesome-windows&type=Date">
+    </picture>
+  </a>
 </details>
 
 ## Table of contents
