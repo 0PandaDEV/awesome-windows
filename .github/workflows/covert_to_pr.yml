@@ -61,38 +61,36 @@ jobs:
           # Create the new entry
           NEW_ENTRY="* [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $FREE_ICON"
           
-          # Find the category section and sort entries
+          # Find the category section and insert the new entry
           awk -v new_entry="$NEW_ENTRY" -v category="$CATEGORY" '
           BEGIN {in_category=0; added=0}
           /^## / {
-            if (in_category) {
-              n = asort(entries)
-              for (i = 1; i <= n; i++) print entries[i]
-              delete entries
-              in_category=0
-              added=0
-            }
-            print
+            in_category=0
             if ($0 ~ "^## " category) {
               in_category=1
-              print ""
+              print
+              next
             }
+          }
+          in_category && /^\* / {
+            if (!added && tolower(new_entry) < tolower($0)) {
+              print new_entry
+              added=1
+            }
+            print
             next
           }
-          in_category {
-            if (/^\* /) {
-              entries[tolower(substr($0,3,1)) $0] = $0
-            } else {
-              print
+          in_category && !(/^\* /) {
+            if (!added) {
+              print new_entry
+              added=1
             }
-            next
+            in_category=0
           }
           {print}
           END {
-            if (in_category) {
-              entries[tolower(substr(new_entry,3,1)) new_entry] = new_entry
-              n = asort(entries)
-              for (i = 1; i <= n; i++) print entries[i]
+            if (in_category && !added) {
+              print new_entry
             }
           }
           ' README.md > README.md.tmp && mv README.md.tmp README.md
