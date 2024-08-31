@@ -122,6 +122,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Customization
 
 
+
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements.
 * [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start)
 * [Clover](https://en.ejie.me/) - Add multi-tab functionality to Windows Explorer.
@@ -133,6 +134,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Live wallpapers with user-created content support for Windows.
 * [WindHawk](https://windhawk.net/) - Customize your windows desktop with various mods. [![Open-Source Software][oss icon]](https://github.com/ramensoftware/windhawk)
+* [YASB](https://github.com/amnweb/yasb) - A customizable status bar for windows [![Open-Source Software][oss icon]](https://github.com/amnweb/yasb) 
 * [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 **[⬆ table of contents](#table-of-contents)**
