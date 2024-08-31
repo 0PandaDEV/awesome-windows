@@ -60,6 +60,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [License](#license)
 
 ## Audio
+* [Vleer](https://vleer.app) - Free & open-source music app as alternative for Spotify or Apple Music [![Open-Source Software][oss icon]](https://vleer.app) ![Freeware][freeware icon]
 
 * [AIMP](https://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][freeware icon]
 * [Audacity](https://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) ![Freeware][freeware icon]
