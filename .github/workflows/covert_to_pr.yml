@@ -37,10 +37,10 @@ jobs:
           ISSUE_BODY="${{ fromJson(steps.issue.outputs.result).body }}"
           
           # Extract relevant information from issue body
-          APP_NAME=$(echo "$ISSUE_BODY" | grep -oP '(?<=Application Name\n\n).*')
-          APP_URL=$(echo "$ISSUE_BODY" | grep -oP '(?<=Application URL\n\n).*')
-          CATEGORY=$(echo "$ISSUE_BODY" | grep -oP '(?<=Category\n\n).*')
-          APP_DESCRIPTION=$(echo "$ISSUE_BODY" | grep -oP '(?<=Description\n\n).*')
+          APP_NAME=$(echo "$ISSUE_BODY" | sed -n '/Application Name/,/Application URL/p' | tail -n +3 | head -n -2 | tr -d '\r')
+          APP_URL=$(echo "$ISSUE_BODY" | sed -n '/Application URL/,/Category/p' | tail -n +3 | head -n -2 | tr -d '\r')
+          CATEGORY=$(echo "$ISSUE_BODY" | sed -n '/Category/,/Description/p' | tail -n +3 | head -n -2 | tr -d '\r')
+          APP_DESCRIPTION=$(echo "$ISSUE_BODY" | sed -n '/Description/,/Application Attributes/p' | tail -n +3 | head -n -2 | tr -d '\r')
           
           # Check if the application is open source
           if echo "$ISSUE_BODY" | grep -q "\[X\] Open Source"; then
@@ -62,6 +62,15 @@ jobs:
           # Set environment variables for later steps
           echo "APP_NAME=$APP_NAME" >> $GITHUB_ENV
           echo "CATEGORY=$CATEGORY" >> $GITHUB_ENV
+
+      - name: Debug Output
+        run: |
+          echo "APP_NAME: $APP_NAME"
+          echo "APP_URL: $APP_URL"
+          echo "CATEGORY: $CATEGORY"
+          echo "APP_DESCRIPTION: $APP_DESCRIPTION"
+          echo "OPEN_SOURCE_ICON: $OPEN_SOURCE_ICON"
+          echo "FREE_ICON: $FREE_ICON"
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
