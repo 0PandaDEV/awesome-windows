@@ -64,23 +64,26 @@ jobs:
           # Find the category section and sort entries
           awk -v new_entry="$NEW_ENTRY" -v category="$CATEGORY" '
           BEGIN {in_category=0; added=0}
-          /^## / {in_category=0}
+          /^## / {
+            if (in_category) {
+              asort(entries)
+              for (i in entries) print entries[i]
+              delete entries
+            }
+            in_category=0
+          }
           $0 ~ "^## " category {in_category=1; print; next}
           in_category && /^\* / {
-            if (!added && tolower(new_entry) < tolower($0)) {
-              print new_entry
-              added=1
-            }
-            print
+            entries[tolower(substr($0,3,1)) $0] = $0
             next
           }
-          in_category && !added {
-            print new_entry
-            added=1
-          }
-          {print}
+          !in_category {print}
           END {
-            if (!added) print new_entry
+            if (in_category) {
+              entries[tolower(substr(new_entry,3,1)) new_entry] = new_entry
+              asort(entries)
+              for (i in entries) print entries[i]
+            }
           }
           ' README.md > README.md.tmp && mv README.md.tmp README.md
           
