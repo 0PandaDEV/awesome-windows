@@ -326,7 +326,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [MultiCommander](https://multicommander.com/) - File Manager for Professionals.
 * [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 * [One Commander](https://onecommander.com/) - File manager featuring miller columns and dual-pane views.
-* [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source
+* [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source Software][oss icon]](https://github.com/0pandadev/qopy)
 * [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop)
 * [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing.
 * [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration.
