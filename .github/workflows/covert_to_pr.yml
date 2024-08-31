@@ -37,10 +37,10 @@ jobs:
           ISSUE_BODY="${{ fromJson(steps.issue.outputs.result).body }}"
           
           # Extract relevant information from issue body
-          APP_NAME=$(echo "$ISSUE_BODY" | sed -n '/### Application Name/,/### Application URL/p' | sed '1d;$d' | tr -d '\r' | xargs)
-          APP_URL=$(echo "$ISSUE_BODY" | sed -n '/### Application URL/,/### Category/p' | sed '1d;$d' | tr -d '\r' | xargs)
-          CATEGORY=$(echo "$ISSUE_BODY" | sed -n '/### Category/,/### Description/p' | sed '1d;$d' | tr -d '\r' | xargs)
-          APP_DESCRIPTION=$(echo "$ISSUE_BODY" | sed -n '/### Description/,/### Application Attributes/p' | sed '1d;$d' | tr -d '\r' | xargs)
+          APP_NAME=$(echo "$ISSUE_BODY" | awk '/### Application Name/{flag=1; next} /###/{flag=0} flag' | xargs)
+          APP_URL=$(echo "$ISSUE_BODY" | awk '/### Application URL/{flag=1; next} /###/{flag=0} flag' | xargs)
+          CATEGORY=$(echo "$ISSUE_BODY" | awk '/### Category/{flag=1; next} /###/{flag=0} flag' | xargs)
+          APP_DESCRIPTION=$(echo "$ISSUE_BODY" | awk '/### Description/{flag=1; next} /###/{flag=0} flag' | xargs)
           
           # Check if the application is open source
           if echo "$ISSUE_BODY" | grep -q "\[X\] Open Source"; then
@@ -62,6 +62,10 @@ jobs:
           # Set environment variables for later steps
           echo "APP_NAME=$APP_NAME" >> $GITHUB_ENV
           echo "CATEGORY=$CATEGORY" >> $GITHUB_ENV
+          echo "APP_URL=$APP_URL" >> $GITHUB_ENV
+          echo "APP_DESCRIPTION=$APP_DESCRIPTION" >> $GITHUB_ENV
+          echo "OPEN_SOURCE_ICON=$OPEN_SOURCE_ICON" >> $GITHUB_ENV
+          echo "FREE_ICON=$FREE_ICON" >> $GITHUB_ENV
 
       - name: Debug Output
         run: |
