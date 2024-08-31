@@ -3,10 +3,16 @@ name: Convert Issue to Pull Request
 on:
   issues:
     types: [opened, labeled]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: 'Issue number to convert to PR'
+        required: true
+        type: number
 
 jobs:
   convert_issue_to_pr:
-    if: github.event.label.name == 'Add'
+    if: (github.event_name == 'issues' && github.event.label.name == 'Add') || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -18,10 +24,11 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
+            const issueNumber = context.payload.inputs ? context.payload.inputs.issue_number : context.issue.number;
             const issue = await github.rest.issues.get({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number
+              issue_number: issueNumber
             });
             return issue.data;
 
@@ -51,18 +58,22 @@ jobs:
           
           # Add new entry to README.md
           sed -i "/## $CATEGORY/a * [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $FREE_ICON" README.md
+          
+          # Set environment variables for later steps
+          echo "APP_NAME=$APP_NAME" >> $GITHUB_ENV
+          echo "CATEGORY=$CATEGORY" >> $GITHUB_ENV
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Add ${{ fromJson(steps.issue.outputs.result).title }} to ${{ fromJson(steps.issue.outputs.result).labels[1].name }} category"
-          title: "Add ${{ fromJson(steps.issue.outputs.result).title }} to ${{ fromJson(steps.issue.outputs.result).labels[1].name }} category"
+          commit-message: "Add ${{ env.APP_NAME }} to ${{ env.CATEGORY }} category"
+          title: "Add ${{ env.APP_NAME }} to ${{ env.CATEGORY }} category"
           body: |
-            This PR adds ${{ fromJson(steps.issue.outputs.result).title }} to the ${{ fromJson(steps.issue.outputs.result).labels[1].name }} category in the README.md file.
+            This PR adds ${{ env.APP_NAME }} to the ${{ env.CATEGORY }} category in the README.md file.
             
-            Closes #${{ github.event.issue.number }}
-          branch: add-${{ github.event.issue.number }}
+            Closes #${{ github.event.issue.number || github.event.inputs.issue_number }}
+          branch: add-${{ github.event.issue.number || github.event.inputs.issue_number }}
           base: main
 
       - name: Close Issue
@@ -70,9 +81,10 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            github.rest.issues.update({
+            const issueNumber = context.payload.inputs ? context.payload.inputs.issue_number : context.issue.number;
+            await github.rest.issues.update({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number,
+              issue_number: issueNumber,
               state: 'closed'
-            })
+            });
