@@ -17,12 +17,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Get issue details
         id: issue
         uses: actions/github-script@v7
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
+          github-token: ${{ secrets.PAT }}
           script: |
             const issueNumber = context.payload.inputs ? context.payload.inputs.issue_number : context.issue.number;
             const issue = await github.rest.issues.get({
@@ -79,7 +81,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           commit-message: "Add ${{ env.APP_NAME }} to ${{ env.CATEGORY }} category"
           title: "Add ${{ env.APP_NAME }} to ${{ env.CATEGORY }} category"
           body: |
@@ -92,7 +94,7 @@ jobs:
       - name: Close Issue
         uses: actions/github-script@v7
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
+          github-token: ${{ secrets.PAT }}
           script: |
             const issueNumber = context.payload.inputs ? context.payload.inputs.issue_number : context.issue.number;
             await github.rest.issues.update({
