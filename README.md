@@ -122,8 +122,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Customization
 
-
-
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements.
 * [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start)
 * [Clover](https://en.ejie.me/) - Add multi-tab functionality to Windows Explorer.
@@ -292,7 +290,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Dropbox](https://www.dropbox.com/install) -Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
 * [Google Drive](https://www.google.com/drive/download/) - Cloud storage solution deeply integrated in the Google ecosystem.
 * [Mega](https://mega.nz/) - Encrypted file storage.
-* [Mozy](https://mozy.com/product/download)
 * [Nextcloud](https://nextcloud.com/) - Open source, self-hosted file share and communication platform.
 * [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
 * [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
@@ -330,7 +327,8 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop)
 * [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing.
 * [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration.
-* [ToDoList](https://abstractspoon.com/) - Feature rich to-do list application. ![image] [![Open-Source Software][oss icon]](https://github.com/abstractspoon/ToDoList)
+* [Timelens](https://timlens.wireway.ch) - A time tracking software for Windows and Mac client can be found [here](https://github.com/0pandadev/timelens). [![Open-Source Software][oss icon]](https://github.com/0pandadev/timelens)
+* [ToDoList](https://abstractspoon.com/) - Feature rich to-do list application. [![Open-Source Software][oss icon]](https://github.com/abstractspoon/ToDoList)
 * [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 * [WordWeb](https://wordweb.info/) - A very good English dictionary for windows.
 * [Wox](https://www.wox.one/) - An effective launcher for windows. [![Open-Source Software][oss icon]](https://github.com/Wox-launcher/Wox/)
@@ -423,7 +421,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal)
-* [Zsh](https://www.zsh.org/) - A powerful command line shell. [![Open-Source Software][oss icon]](https://sourceforge.net/p/zsh/code/ci/master/tree/)
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -490,12 +487,8 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 * [Unlocker](https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 * [Waltr](https://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
-* [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
-* [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][oss icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
-* [`winreg-cli`](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. ![[Open-Source Software][OSS Icon]](https://github.com/notlmn/winreg-cli)
+* [winreg-cli](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. [![Open-Source Software][oss icon]](https://github.com/notlmn/winreg-cli)
 * [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive.
-* [Yacy](https://github.com/yacy/yacy_search_server) - A general search engine by corporations of people, including the search web page, general crawlers, indexing, and ranking functions.[![Open-Source Software][oss icon]](https://github.com/yacy/yacy_search_server)
-* [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - A decentralized web. [![Open-Source Software][oss icon]](https://github.com/HelloZeroNet/ZeroNet)
 * [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 **[⬆ table of contents](#table-of-contents)**
