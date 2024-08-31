@@ -68,21 +68,28 @@ jobs:
             if (in_category) {
               asort(entries)
               for (i in entries) print entries[i]
+              if (!added) print new_entry
               delete entries
+              added=0
             }
             in_category=0
+            print
+            if ($0 ~ "^## " category) {
+              in_category=1
+              print ""
+            }
+            next
           }
-          $0 ~ "^## " category {in_category=1; print; next}
           in_category && /^\* / {
             entries[tolower(substr($0,3,1)) $0] = $0
             next
           }
-          !in_category {print}
+          {print}
           END {
             if (in_category) {
-              entries[tolower(substr(new_entry,3,1)) new_entry] = new_entry
               asort(entries)
               for (i in entries) print entries[i]
+              if (!added) print new_entry
             }
           }
           ' README.md > README.md.tmp && mv README.md.tmp README.md
