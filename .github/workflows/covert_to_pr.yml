@@ -56,12 +56,9 @@ jobs:
             OPEN_SOURCE_ICON=""
           fi
           
-          # Check if the application is free
-          if echo "$ISSUE_BODY" | grep -q "\[X\] Free"; then
-            FREE_ICON="![Freeware][freeware icon]"
-          else
-            FREE_ICON=""
-          fi
+          
+          FREE_ICON=""
+
           
           # Create the new entry
           NEW_ENTRY="* [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $FREE_ICON"
