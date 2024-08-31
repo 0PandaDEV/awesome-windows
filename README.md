@@ -97,7 +97,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine)
 * [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux.
 * [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz)
-* [Guilded](https://www.guilded.gg/) - A chat platform for gaming communities with features like voice chat, video streaming, and event scheduling.
 * [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][oss icon]](https://hexchat.github.io/)
 * [LimeChat](https://limechat.net) - Instant messaging application.
 * [Matrix](https://matrix.org/) - An open network for secure, decentralized communication. [![Open-Source Software][OSS Icon]](https://github.com/matrix-org)
