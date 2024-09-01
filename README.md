@@ -506,6 +506,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Shotcut](https://www.shotcut.org/download/) - Open source, cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut)
 * [Shutter Encoder](https://www.shutterencoder.com/) - Versatile tool for converting images, videos, and audio files.
 * [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that remembers settings for all played files. [![Open-Source Software][oss icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)
+* [SRTEd](https://download.cnet.com/srted-srt-subtitles-editor/3000-13631_4-75884617.html) - Visual subtitles editor.
 * [Videotape](https://usuaia.com/videotape) - Video player for windows 10 focused on simplicity with a beautiful and easy to use interface.
 * [VLC](https://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][oss icon]](https://github.com/videolan/vlc)
 
