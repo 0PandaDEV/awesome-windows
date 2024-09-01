@@ -6,8 +6,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 > \[!NOTE]
 >
-> Please, consider supporting me
-> as it is a lot of work to maintain this list! Thanks a lot.
+> Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 >
 > <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
@@ -550,8 +549,9 @@ Thanks to all contributors without you this project would not exist.
 </a>
 
 <br>
+<br>
 
-Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
+Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 
 <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
