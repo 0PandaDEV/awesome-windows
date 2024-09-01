@@ -133,7 +133,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Live wallpapers with user-created content support for Windows.
 * [WindHawk](https://windhawk.net/) - Customize your windows desktop with various mods. [![Open-Source Software][oss icon]](https://github.com/ramensoftware/windhawk)
-* [YASB](https://github.com/amnweb/yasb) - A customizable status bar for windows [![Open-Source Software][oss icon]](https://github.com/amnweb/yasb) 
+* [YASB](https://github.com/amnweb/yasb) - A customizable status bar for windows [![Open-Source Software][oss icon]](https://github.com/amnweb/yasb)
 * [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 **[⬆ table of contents](#table-of-contents)**
@@ -541,6 +541,14 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 [oss icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 
 ## Backers
+
+Thanks to all contributors without you this project would not exist.
+
+<a href="https://github.com/0pandadev/awesome-windows/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=0pandadev/awesome-windows"/>
+</a>
+
+<br>
 
 Please, consider supporting my work as it is a lot of work to maintain this list! Thanks a lot.
 
