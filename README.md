@@ -271,6 +271,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Graphics
 
+* [Aseprite](https://www.aseprite.org/) - Tool for making pixel art & pixel animations. (Costs $20 but is opensource) [![Open-Source Software][oss icon]](https://github.com/aseprite/aseprite)
 * [Aspect](https://aspect.bildhuus.com/) - Photo organization application with support for peer-to-peer based synchronization across devices.
 * [Blender](https://www.blender.org/) - Fully-featured extensible cross-platform 3D content suite. [![Open-Source Software][oss icon]](https://developer.blender.org/)
 * [Figma](https://www.figma.com/) - Collaborative interface design tool.
