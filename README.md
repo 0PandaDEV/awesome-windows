@@ -421,6 +421,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal)
+* [WizTerm](https://wezfurlong.org/wezterm/index.html) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust [![Open-Source Software][oss icon]](https://github.com/wez/wezterm)
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -437,6 +438,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [SpaceVim](https://spacevim.org) - A community-driven vim distribution [![Open-Source Software][oss icon]](https://github.com/onivim/oni)
 * [Sublime Text 3](https://www.sublimetext.com/3) - The sophisticated text editor.
 * [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode)
+* [LazyVim](https://www.lazyvim.org/) -is a Neovim setup powered by 💤 lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
 
 **[⬆ table of contents](#table-of-contents)**
 
