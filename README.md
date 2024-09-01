@@ -442,6 +442,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Utilities
 
+
 * [A-Z of Windows Terminal Commands](https://ss64.com/nt/)
 * [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
 * [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
@@ -468,6 +469,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time
 * [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][oss icon]](https://github.com/petrroll/PowerSwitcher)
+* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - The all in one power user app for Windows from Microsoft [![Open-Source Software][oss icon]](https://github.com/microsoft/PowerToys) 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 * [Process Hacker](https://processhacker.sourceforge.net/) - Excellent full blown task manager.
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)- A sysinternal tool shows real-time file system, Registry, network and process/thread activity.
