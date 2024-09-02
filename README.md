@@ -421,9 +421,8 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus)
+* [Wezterm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust. [![Open-Source Software][oss icon]](https://github.com/wez/wezterm)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal)
-- [Wezterm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust. [![Open-Source Software][oss icon]](https://github.com/wez/wezterm)
-
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -431,9 +430,9 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom)
 * [Brackets](https://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets)
-* [GVim](https://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim)
+* [GVim](https://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
+* [LazyVim](https://www.lazyvim.org/) - is a Neovim setup powered by lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/
 * [Light Table](https://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable)
-* [LazyVim](https://www.lazyvim.org/) - is a Neovim setup powered by lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
 * [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus)
 * [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon]
