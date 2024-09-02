@@ -430,8 +430,8 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom)
 * [Brackets](https://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets)
-* [GVim](https://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
-* [LazyVim](https://www.lazyvim.org/) - is a Neovim setup powered by lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/
+* [GVim](https://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim-win32-installer/releases/tag/v9.1.0679 )
+* [LazyVim](https://www.lazyvim.org/) - is a Neovim setup powered by lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
 * [Light Table](https://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable)
 * [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus)
