@@ -317,6 +317,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.[![Open-Source Software][oss icon]](https://github.com/0xfrankz/Kaas)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux)
 * [Keypirinha](https://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_.
+* [Keywiz](https://mularahul.github.io/keyviz/) - Free and open-source software for visualizing your keystrokes. Download and start visualizing your keystrokes realtime for Windows.![Open-Source Software][oss icon]](https://github.com/mulaRahul/keyviz)
 * [Launchy](https://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy)
 * [Listary](https://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 * [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
@@ -420,6 +421,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus)
+* [Wezterm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust. [![Open-Source Software][oss icon]](https://github.com/wez/wezterm)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Microsoft's official new terminal for Windows. [![Open-Source Software][oss icon]](https://github.com/microsoft/terminal)
 
 **[⬆ table of contents](#table-of-contents)**
@@ -428,7 +430,8 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom)
 * [Brackets](https://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets)
-* [GVim](https://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim)
+* [GVim](https://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim-win32-installer/releases/tag/v9.1.0679 )
+* [LazyVim](https://www.lazyvim.org/) - is a Neovim setup powered by lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
 * [Light Table](https://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable)
 * [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus)
