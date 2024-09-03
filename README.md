@@ -563,4 +563,7 @@ Please, consider supporting me as it is a lot of work to maintain this list! Tha
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike](./LICENSE).
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This project is licensed under the CC0 1.0 Universal License. See the [LICENSE](LICENSE) file for details.
+
