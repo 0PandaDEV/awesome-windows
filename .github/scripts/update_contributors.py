@@ -7,7 +7,7 @@ def get_contributors():
     headers = {'Authorization': f"token {os.environ.get('GITHUB_PAT')}"}
     repo = os.environ.get('GITHUB_REPOSITORY')
     response = requests.get(f'https://api.github.com/repos/{repo}/contributors', headers=headers)
-    return response.json()
+    return [contributor for contributor in response.json() if contributor['login'] != 'actions-user']
 
 
 def update_readme(contributors):
