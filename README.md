@@ -551,9 +551,7 @@ Contributions are most welcome, please adhere to the [contribution guidelines](C
 
 Thanks to all contributors without you this project would not exist.
 
-<a href="https://github.com/0pandadev/awesome-windows/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=0pandadev/awesome-windows"/>
-</a>
+<a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> 
 
 <br>
 <br>
