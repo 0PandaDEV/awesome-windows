@@ -410,7 +410,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty)
 * [Babun](https://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][oss icon]](https://github.com/babun/babun)
-* [Cmder](https://cmder.net) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder)
+* [Cmder](https://cmder.app) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder)
 * [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
 * [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
