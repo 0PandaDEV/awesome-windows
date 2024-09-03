@@ -18,11 +18,11 @@ def update_readme(contributors):
     
     for contributor in contributors:
         avatar_url = contributor['avatar_url']
-        rounded_avatar_url = f"https://images.weserv.nl/?url={avatar_url}&h=60&w=60&fit=cover&mask=circle&maxage=7d"
+        rounded_avatar_url = f"https://images.weserv.nl/?url={avatar_url}&fit=cover&mask=circle&maxage=7d"
         username = contributor['login']
         contributor_section += f"<a href='https://github.com/{username}'><img src='{rounded_avatar_url}' width='60' height='60' alt='{username}'/></a> "
 
-    contributor_section += "\n\n<br>\n<br>\n\n"
+    contributor_section += "\n\n"
     contributor_section += "Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.\n\n"
     contributor_section += "<a href=\"https://buymeacoffee.com/pandadev_\"><img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black\"/></a>\n"
 
