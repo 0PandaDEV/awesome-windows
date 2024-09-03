@@ -372,6 +372,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Proxy and VPN Tools
 
 * [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
+* [Cloudflare WARP](https://1.1.1.1) - Fast, free VPN
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
 * [Tailscale](https://tailscale.com/) - Zero config VPN for building secure networks.
 * [Twingate](https://www.twingate.com/) - Modern zero trust network access solution.
