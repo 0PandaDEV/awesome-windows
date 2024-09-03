@@ -10,6 +10,17 @@ def get_contributors():
     return [contributor for contributor in response.json() if contributor['login'] != 'actions-user']
 
 
+def has_contributors_changed(contributors):
+    with open('README.md', 'r') as file:
+        content = file.read()
+    
+    for contributor in contributors:
+        username = contributor['login']
+        if f"https://github.com/{username}" not in content:
+            return True
+    return False
+
+
 def update_readme(contributors):
     with open('README.md', 'r') as file:
         content = file.read()
@@ -38,4 +49,8 @@ def update_readme(contributors):
 
 if __name__ == "__main__":
     contributors = get_contributors()
-    update_readme(contributors)
+    if has_contributors_changed(contributors):
+        update_readme(contributors)
+        print("Contributors updated")
+    else:
+        print("No changes in contributors")

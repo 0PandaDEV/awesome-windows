@@ -26,12 +26,15 @@ jobs:
       - name: Update contributors
         env:
           GITHUB_PAT: ${{ secrets.PAT }}
+        id: update
         run: |
-          python .github/scripts/update_contributors.py
+          output=$(python .github/scripts/update_contributors.py)
+          echo "update_status=$output" >> $GITHUB_OUTPUT
 
       - name: Commit and push if changed
+        if: steps.update.outputs.update_status == 'Contributors updated'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update contributors" && git push)
+          git commit -m "Update contributors" && git push
