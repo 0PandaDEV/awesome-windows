@@ -74,6 +74,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Mixxx](https://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx)
 * [Musicbee](https://getmusicbee.com/) - Like iTunes but better than iTunes.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard)
+* [musikcube](https://musikcube.com/) - is a fully functional terminal-based music player, library, and streaming audio server. [![Open-Source Software][oss icon]](https://github.com/clangen/musikcube)
 * [Qtractor](https://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](https://qtractor.sourceforge.net/qtractor-downloads.html#Git)
 * [Reaper](https://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
 * [Resonic](https://resonic.at/) - Fast and free audio player.
