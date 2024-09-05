@@ -62,7 +62,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Audio
 
-* [AIMP](https://www.aimp.ru/){:target="_blank"} - 32 bit audio processing and multi-format playback.
+* [AIMP](https://www.aimp.ru/) - 32 bit audio processing and multi-format playback.
 * [Audacity](https://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity)
 * [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
 * [Cardo](https://n0vella.github.io/#/cardo) - Free and open source podcast client, supports synchronization, downloads and subscriptions.
