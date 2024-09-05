@@ -62,50 +62,41 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Audio
 
-* [AIMP](https://www.aimp.ru/) - 32 bit audio processing and multi-format playback.
 * [Audacity](https://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity)
 * [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
-* [Cardo](https://n0vella.github.io/#/cardo) - Free and open source podcast client, supports synchronization, downloads and subscriptions.
 * [CDex](https://www.cdex.fr/) - CD Ripper (French site, English program).
-* [Dopamine](https://github.com/digimezzo/dopamine) - An audio player which tries to make organizing and listening to music as simple and pretty as possible.
-* [Exact Audio Copy](https://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
+* [Cider](https://cider.sh/) - Powerful, beautiful and modern Apple Music client for Windows, Linux and macOS. Costs $4
+* [Dopamine](https://digimezzo.github.io/site/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. [![Open-Source Software][oss icon]](https://github.com/digimezzo/dopamine)
 * [Foobar2000](https://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
 * [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 * [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][oss icon]](https://github.com/xbmc)
 * [Mixxx](https://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx)
-* [Musicbee](https://getmusicbee.com/) - Like iTunes but better than iTunes.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - is a fully functional terminal-based music player, library, and streaming audio server. [![Open-Source Software][oss icon]](https://github.com/clangen/musikcube)
-* [Qtractor](https://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][oss icon]](https://qtractor.sourceforge.net/qtractor-downloads.html#Git)
-* [Reaper](https://www.reaper.fm/download.php) - Lightweight application with deep feature set and \$60 for individual, non-profit, or small business use.
-* [Resonic](https://resonic.at/) - Fast and free audio player.
-* [WACUP](https://getwacup.com/preview) - An extension/improvement to Winamp, providing bugfixes and more features such as a better MOD player and YouTube support.
 * [Winamp](https://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files.
 
 **[⬆ table of contents](#table-of-contents)**
 
 ## Backup
 
-* [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
-* [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati)
+* [Kopia](https://kopia.io/) - Cross-platform backup tool with incremental backups, client-side end-to-end encryption, compression and data deduplication with cloud support. [![Open-Source Software][oss icon]](https://github.com/kopia/kopia)
 * [Restic](https://restic.net/) - Free cross-platform backup tool with support for various storage types. [![Open-Source Software][oss icon]](https://github.com/restic/restic/tree/master)
 
 **[⬆ table of contents](#table-of-contents)**
 
 ## Chat Clients
 
-* [Caprine](https://sindresorhus.com/caprine/) - An elegant Facebook Messenger desktop app. [![Open-Source Software][oss icon]](https://github.com/sindresorhus/caprine)
+* [ArmCord](https://armcord.app/) - Standalone, lightweight, customizable Discord client with built in Vencord and shelter. [![Open-Source Software][OSS Icon]](https://github.com/ArmCord/ArmCord)
+* [Beeper](https://beeper.com) - All in one chat app for whatsapp, slak, telegram, signal, x, instagram, sms.
 * [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux.
 * [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz)
-* [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][oss icon]](https://hexchat.github.io/)
-* [LimeChat](https://limechat.net) - Instant messaging application.
 * [Matrix](https://matrix.org/) - An open network for secure, decentralized communication. [![Open-Source Software][OSS Icon]](https://github.com/matrix-org)
-* [mIRC](https://www.mirc.com/) - An Internet Relay Chat (IRC) client.
-* [Quassel](https://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](https://quassel-irc.org/)
 * [Revolt](https://revolt.chat/) - A user-first chat platform built with modern web technologies. [![Open-Source Software][OSS Icon]](https://github.com/revoltchat)
-* [Riot](https://about.riot.im/) - A decentralised encrypted comms app for the Matrix.org ecosystem. [![Open-Source Software][OSS Icon]](https://github.com/vector-im/riot-web)
+* [Element](https://element.io/) - A simple client app for the matrix.org system. [![Open-Source Software][OSS Icon]](https://github.com/element-hq/element-web)
 * [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it's super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)
+* [Threema](https://threema.ch) - Swiss based opensource and secure alternative to Whatsapp. [![Open-Source Software][OSS Icon]](https://github.com/threema-ch)
+* [Vencord](https://vencord.dev) - The cutest and easies to understand Discord client mod.
 * [Waow](https://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience.
 
 **[⬆ table of contents](#table-of-contents)**
@@ -125,8 +116,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements.
 * [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start)
-* [Clover](https://en.ejie.me/) - Add multi-tab functionality to Windows Explorer.
-* [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet)
+* [EarTrumpet](https://eartrumpet.app/) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet)
 * [Komorebi](https://lgug2z.github.io/komorebi/) - A tiling window manager for Windows [![Open-Source Software][oss icon]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views.
 * [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter)
@@ -508,7 +498,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
 * [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 * [Kdenlive](https://kdenlive.org/en/download/) - Free and open source video editor. Actively developed by KDE. Lighter-weight than professional tools like DaVinci Resolve, so runs faster on average hardware. [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kdenlive) 
-* [mpv](https://mpv.io/) - Media player. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
+* [mpv](https://mpv.io/) - Customizable media player/alternative to VLC. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
 * [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive)
 * [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
 * [PotPlayer](https://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
