@@ -141,6 +141,55 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Developer Tools
 
+### API Development
+
+* [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch)
+* [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit)
+* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon]
+* [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
+
+**[⬆ table of contents](#table-of-contents)**
+
+### Command Line Tools
+
+* [btop4win](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. [![Open-Source Software][oss icon]](https://github.com/aristocratos/btop4win)
+* [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
+* [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop)
+* [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Oficial Windows package manager from Microsoft. [![Open-Source Software][oss icon]](https://github.com/microsoft/winget-cli)
+
+**[⬆ table of contents](#table-of-contents)**
+
+### Databases
+
+* [DataFlare](https://dataflare.app/) - A modern, lightweight database GUI for SQLite, MySQL and PostgreSQL.
+* [DB Browser for SQLite](https://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](https://sqlitebrowser.org/)
+* [HeidiSQL](https://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
+* [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
+* [PostgreSQL Database](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
+* [RazorSQL](https://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
+* [Redis Desktop Manager](https://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+* [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
+* [Sql Wave](https://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
+* [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
+
+**[⬆ table of contents](#table-of-contents)**
+
+### Developer Utilities
+
+* [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
+* [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester)
+* [Mamp](https://www.mamp.info/en/) - Local server environment.
+* [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
+* [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly).
+* [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency, with an on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
+* [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer)
+* [Velocity](https://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS)
+* [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
+* [wmWebStack](https://webstack.wikimint.com) - Localhost HTTP server stack with one click live publishing. Localhost websites can be viewed on any devices over public internet.
+* [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment.
+
+**[⬆ table of contents](#table-of-contents)**
+
 ### IDEs
 
 * [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android based on the IntelliJ platform. [![Open-Source Software][oss icon]](https://sites.google.com/a/android.com/tools/)
@@ -162,39 +211,10 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 **[⬆ table of contents](#table-of-contents)**
 
-### Developer Utilities
-
-* [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
-* [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester)
-* [Mamp](https://www.mamp.info/en/) - Local server environment.
-* [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
-* [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly).
-* [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency, with an on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
-* [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer)
-* [Velocity](https://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS)
-* [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
-* [wmWebStack](https://webstack.wikimint.com) - Localhost HTTP server stack with one click live publishing. Localhost websites can be viewed on any devices over public internet.
-* [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment.
-
-**[⬆ table of contents](#table-of-contents)**
-
-### API Development
-
-* [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch)
-* [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit)
-* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon]
-* [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
-
-**[⬆ table of contents](#table-of-contents)**
-
 ### Networking
 
 * [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
 * [Wireshark](https://www.wireshark.org/) - A network protocol analyzer. [![Open-Source Software][oss icon]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
-
-**[⬆ table of contents](#table-of-contents)**
-
-### Command Line Tools
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -217,21 +237,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Containerization for Desktop, built on top of WSL2
 * [Podman Desktop](https://podman.io/) - Open Source Desktop Containerization alternative to Docker [![Open-Source Software][oss icon]](https://github.com/containers/podman-desktop)
 * [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][oss icon]](https://github.com/mitchellh/vagrant)
-
-**[⬆ table of contents](#table-of-contents)**
-
-### Databases
-
-* [DataFlare](https://dataflare.app/) - A modern, lightweight database GUI for SQLite, MySQL and PostgreSQL.
-* [DB Browser for SQLite](https://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](https://sqlitebrowser.org/)
-* [HeidiSQL](https://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
-* [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
-* [PostgreSQL Database](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
-* [RazorSQL](https://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
-* [Redis Desktop Manager](https://redisdesktop.com/) Cross-platform open source Redis DB management tool.
-* [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
-* [Sql Wave](https://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
-* [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
 
 **[⬆ table of contents](#table-of-contents)**
 
@@ -284,6 +289,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Mega](https://mega.nz/) - Encrypted file storage.
 * [Nextcloud](https://nextcloud.com/) - Open source, self-hosted file share and communication platform.
 * [OneDrive](https://onedrive.live.com/about/en-us/download/) - Best cloud storage solution for Windows users.
+* [Streamshare](https://streamshare.wireway.ch) - Free file sharing service with a max limit of 1.5 TB (yes Terabytes).
 * [pCloud](https://www.pcloud.com) - A swiss based privacy first cloud provider. Also offers one time payment lifetime plans.
 * [Sync](https://www.sync.com/) - Encrypted file storage that stores all files in canadian datacenters
 
@@ -293,7 +299,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Aperture Control](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes](https://github.com/Lieturd/aperture-control-recipes) and [examples](https://github.com/Lieturd/aperture-control-example) available. [![Open-Source Software][oss icon]](https://github.com/Lieturd/aperture-control)
 * [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][oss icon]](https://autohotkey.com/)
-* [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
 * [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 * [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost)
 * [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with advanced features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ)
@@ -317,7 +322,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 * [One Commander](https://onecommander.com/) - File manager featuring miller columns and dual-pane views.
 * [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source Software][oss icon]](https://github.com/0pandadev/qopy)
-* [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop)
 * [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing.
 * [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration.
 * [Timelens](https://timlens.wireway.ch) - A time tracking software for Windows and Mac client can be found [here](https://github.com/0pandadev/timelens). [![Open-Source Software][oss icon]](https://github.com/0pandadev/timelens)
@@ -438,7 +442,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Utilities
 
-
 * [A-Z of Windows Terminal Commands](https://ss64.com/nt/)
 * [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
 * [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
@@ -492,7 +495,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 **[⬆ table of contents](#table-of-contents)**
 
 ## Video
-
 
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production.
 * [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
