@@ -34,7 +34,7 @@ jobs:
       - name: Commit and push if changed
         if: steps.update.outputs.update_status == 'Contributors updated'
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "70103896+0PandaDEV@users.noreply.github.com"
+          git config --local user.name "0PandaDEV"
           git add README.md
           git commit -m "Update contributors" && git push
