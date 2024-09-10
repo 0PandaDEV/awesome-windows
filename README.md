@@ -220,6 +220,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ### Version Control
 
+* [DevHub](https://devhubapp.com/) - Github notifications on your desktop as a tray app. [![Open-Source Software][oss icon]](https://github.com/devhubapp/devhub)
 * [Fork](https://git-fork.com/) - A fast & friendly Git client for Windows (and Mac).
 * [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][oss icon]](https://github.com/gitextensions/gitextensions)
 * [GitHub Desktop](https://desktop.github.com/) - GitHub Desktop is an open source Electron-based GitHub app. [![Open-Source Software][oss icon]](https://github.com/desktop/desktop)
