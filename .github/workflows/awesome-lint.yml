@@ -1,7 +1,7 @@
 name: Awesome readme lint
+
 on:
   pull_request:
-  workflow_dispatch:
       
 jobs:
   build:
