@@ -229,6 +229,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [LuaStudio](https://scormpool.com/luastudio) - Free game development tool/engine. Create games and other graphic focused apps on Windows using Lua/LuaJIT programming language. Export them to many platforms including iOS, Android and Mac.
 * [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
 * [Steam](https://store.steampowered.com/) - Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
+* [SteamUnlocked](https://steamunlocked.net/) - Steam Unlocked allows you to download your favorite games pre-installed on steam without the cost.
 * [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 * [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 * [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows.
