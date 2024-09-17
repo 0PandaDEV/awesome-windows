@@ -60,7 +60,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Audio
 
-
 * [Audacity](https://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity)
 * [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
 * [CDex](https://www.cdex.fr/) - CD Ripper (French site, English program).
@@ -71,7 +70,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Mixxx](https://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx)
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - is a fully functional terminal-based music player, library, and streaming audio server. [![Open-Source Software][oss icon]](https://github.com/clangen/musikcube)
-* [Nora](https://noramusic.netlify.app/) - An elegant music player built using Electron and React. With simplicity and design in mind, this app was made to overcome problems when using default music apps on platforms that lack essential features. [![Open-Source Software][oss icon]](https://github.com/Sandakan/Nora) 
+* [Nora](https://noramusic.netlify.app/) - A sleek Electron and React-based music player. Designed for simplicity and elegance, it addresses limitations of default music apps across platforms. [![Open-Source Software][oss icon]](https://github.com/Sandakan/Nora) 
 * [Winamp](https://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files.
 
 ## Backup
