@@ -390,6 +390,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Utilities
 
+
 * [A-Z of Windows Terminal Commands](https://ss64.com/nt/)
 * [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
 * [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
@@ -432,6 +433,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 * [Speccy](https://www.piriform.com/speccy) - Detailed statistics on every piece of hardware in your computer.
 * [SpeedCrunch](https://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/)
+* [SyncThing](https://syncthing.net/) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) 
 * [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 * [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 * [Unlocker](https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete.
