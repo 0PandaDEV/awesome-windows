@@ -1,8 +1,8 @@
 name: Convert Issue to Pull Request
 
 on:
-  issues:
-    types: [opened, labeled]
+  issue_comment:
+    types: [created]
   workflow_dispatch:
     inputs:
       issue_number:
@@ -12,7 +12,12 @@ on:
 
 jobs:
   convert_issue_to_pr:
-    if: (github.event_name == 'issues' && github.event.label.name == 'Add') || github.event_name == 'workflow_dispatch'
+    if: |
+      (github.event_name == 'issue_comment' && 
+      github.event.comment.body == '/convert' && 
+      github.event.comment.user.login == '0pandadev' && 
+      contains(github.event.issue.labels.*.name, 'Add')) || 
+      github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
