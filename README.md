@@ -438,6 +438,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 * [Unlocker](https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete.
 * [Waltr](https://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
+* [WinFindr](https://winfindr.com/) - WinFindr allows you to easily search for files, folders and also Windows registry data with multiple search terms at the same time.  
 * [winreg-cli](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. [![Open-Source Software][oss icon]](https://github.com/notlmn/winreg-cli)
 * [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive.
 * [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
