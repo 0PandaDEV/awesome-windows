@@ -393,6 +393,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Utilities
 
 
+
 * [A-Z of Windows Terminal Commands](https://ss64.com/nt/)
 * [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
 * [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
@@ -402,6 +403,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [CleanMyPC](https://macpaw.com/cleanmypc) - A clean computer in no time.
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool.
 * [Econap](https://econap.de) - Prevent sleep mode while your system is busy.
+* [Everything](https://www.voidtools.com/) - Search through all your files. Way faster than windows search can.  
 * [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner)
 * [Ext2Fsd](https://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd)
 * [Far](https://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/farmanager/)
