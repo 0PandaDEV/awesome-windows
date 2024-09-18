@@ -60,6 +60,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Audio
 
+
 * [Audacity](https://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity)
 * [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
 * [CDex](https://www.cdex.fr/) - CD Ripper (French site, English program).
@@ -68,6 +69,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Foobar2000](https://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
 * [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][oss icon]](https://github.com/xbmc)
 * [Mixxx](https://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx)
+* [Mp3tag](https://www.mp3tag.de/en/) - Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.  
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - is a fully functional terminal-based music player, library, and streaming audio server. [![Open-Source Software][oss icon]](https://github.com/clangen/musikcube)
 * [Nora](https://noramusic.netlify.app/) - A sleek Electron and React-based music player. Designed for simplicity and elegance, it addresses limitations of default music apps across platforms. [![Open-Source Software][oss icon]](https://github.com/Sandakan/Nora) 
