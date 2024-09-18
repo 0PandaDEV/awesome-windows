@@ -433,7 +433,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 * [Speccy](https://www.piriform.com/speccy) - Detailed statistics on every piece of hardware in your computer.
 * [SpeedCrunch](https://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/)
-* [SyncThing](https://syncthing.net/) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) 
+* [SyncThing](https://syncthing.net/) - Syncthing is a peer-to-peer file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) 
 * [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 * [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 * [Unlocker](https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete.
