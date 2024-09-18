@@ -442,7 +442,9 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Video
 
+
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production.
+* [HandBrake](https://handbrake.fr/) - HandBrake is an open-source video transcoder available for Linux, Mac, and Windows. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake) 
 * [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
 * [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
 * [Kdenlive](https://kdenlive.org/en/download/) - Free and open source video editor. Actively developed by KDE. Lighter-weight than professional tools like DaVinci Resolve, so runs faster on average hardware. [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kdenlive) 
