@@ -485,10 +485,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [/r/windowsapps](https://www.reddit.com/r/windowsapps)
 * [/r/windows](https://www.reddit.com/r/windows/)
 
-## Contribute
-
-Contributions are most welcome, please adhere to the [contribution guidelines](CONTRIBUTING.md).
-
 [oss icon]: ./opensource.svg
 
 ## Backers
