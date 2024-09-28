@@ -23,6 +23,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Audio](#audio)
 * [Backup](#backup)
+* [Browsers](#browsers)
 * [Chat Clients](#chat-clients)
 * [Compression](#compression)
 * [Customization](#customization)
@@ -74,6 +75,13 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/duplicati/duplicati)
 * [Kopia](https://kopia.io/) - Cross-platform backup tool with incremental backups, client-side end-to-end encryption, compression and data deduplication with cloud support. [![Open-Source Software][oss icon]](https://github.com/kopia/kopia)
 * [Restic](https://restic.net/) - Free cross-platform backup tool with support for various storage types. [![Open-Source Software][oss icon]](https://github.com/restic/restic/tree/master)
+
+## Browsers
+
+* [Arc](https://arc.net) - Modern, simple and productivity focused browser with a vertical tab design.
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - A variant of chrome that removes all the googelyness, tracking etc. [![Open-Source Software][OSS Icon]]()
+* [Ladybird](https://ladybird.org/) - Completly new browser engine built from the ground up. [![Open-Source Software][OSS Icon]](https://github.com/LadybirdBrowser/ladybird)
+* [Zen Browser](https://zen-browser.app/) - Modern, Firefox based Arc alternative with custom community mods. [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 
 ## Chat Clients
 
