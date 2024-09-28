@@ -66,7 +66,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Mp3tag](https://www.mp3tag.de/en/) - Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.  
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - is a fully functional terminal-based music player, library, and streaming audio server. [![Open-Source Software][oss icon]](https://github.com/clangen/musikcube)
-* [Nora](https://noramusic.netlify.app/) - A sleek Electron and React-based music player. Designed for simplicity and elegance, it addresses limitations of default music apps across platforms. [![Open-Source Software][oss icon]](https://github.com/Sandakan/Nora) 
+* [Nora](https://noramusic.netlify.app/) - A sleek Electron and React-based music player. Designed for simplicity and elegance, it addresses limitations of default music apps across platforms. [![Open-Source Software][oss icon]](https://github.com/Sandakan/Nora)
 * [Winamp](https://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files.
 
 ## Backup
@@ -101,7 +101,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Customization
 
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements.
-* [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]]()
+* [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. ![Open-Source Software][oss icon]
 * [EarTrumpet](https://eartrumpet.app/) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet)
 * [Komorebi](https://lgug2z.github.io/komorebi/) - A tiling window manager for Windows [![Open-Source Software][oss icon]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views.
@@ -127,7 +127,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit)
-* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. [![Open-Source Software][oss icon]]()
+* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon]
 * [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
 
 ### Command Line Tools
@@ -146,7 +146,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [PostgreSQL Database](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
 * [RazorSQL](https://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
 * [Redis Desktop Manager](https://redisdesktop.com/) - Cross-platform open source Redis DB management tool.
-* [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts.
+* [Robo 3T](https://www.jetbrains.com/datagrip/) - A lightweight GUI for MongoDB enthusiasts.
 * [Sql Wave](https://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 * [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool.
 
@@ -378,15 +378,13 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Light Table](https://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable)
 * [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus)
-* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. [![Open-Source Software][oss icon]]()
+* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon]
 * [Oni](https://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][oss icon]](https://github.com/onivim/oni)
 * [SpaceVim](https://spacevim.org) - A community-driven vim distribution [![Open-Source Software][oss icon]](https://github.com/onivim/oni)
 * [Sublime Text 3](https://www.sublimetext.com/3) - The sophisticated text editor.
 * [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode)
 
 ## Utilities
-
-
 
 * [A-Z of Windows Terminal Commands](https://ss64.com/nt/)
 * [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
@@ -415,7 +413,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time.
 * [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][oss icon]](https://github.com/petrroll/PowerSwitcher)
-* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - The all in one power user app for Windows from Microsoft [![Open-Source Software][oss icon]](https://github.com/microsoft/PowerToys) 
+* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - The all in one power user app for Windows from Microsoft [![Open-Source Software][oss icon]](https://github.com/microsoft/PowerToys)
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
 * [Process Hacker](https://processhacker.sourceforge.net/) - Excellent full blown task manager.
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - A sysinternal tool shows real-time file system, Registry, network and process/thread activity.
@@ -431,7 +429,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 * [Speccy](https://www.piriform.com/speccy) - Detailed statistics on every piece of hardware in your computer.
 * [SpeedCrunch](https://speedcrunch.org/) - The best and only calculator you'll need, completely stripped down of unnecessary UI clutter. [![Open-Source Software][OSS Icon]](https://bitbucket.org/heldercorreia/speedcrunch/)
-* [SyncThing](https://syncthing.net/) - Syncthing is a peer-to-peer file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) 
+* [SyncThing](https://syncthing.net/) - Syncthing is a peer-to-peer file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing)
 * [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 * [ueli](https://ueli.app/#/) - A powerful keystroke launcher for Windows.
 * [Unlocker](https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete.
@@ -446,7 +444,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video creation software for editing, visual effects, color correction, and audio post production.
 * [HandBrake](https://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][oss icon]](https://github.com/HandBrake/HandBrake)
 * [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
-* [Kdenlive](https://kdenlive.org/en/download/) - Free and open source video editor. Actively developed by KDE. Lighter-weight than professional tools like DaVinci Resolve, so runs faster on average hardware. [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kdenlive) 
+* [Kdenlive](https://kdenlive.org/en/download/) - Free and open source video editor. Actively developed by KDE. Lighter-weight than professional tools like DaVinci Resolve, so runs faster on average hardware. [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kdenlive)
 * [mpv](https://mpv.io/) - Customizable media player/alternative to VLC. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
 * [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive)
 * [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
@@ -490,5 +488,4 @@ Thanks to all contributors without you this project would not exist.
 
 Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 
-<a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pandadev_)
