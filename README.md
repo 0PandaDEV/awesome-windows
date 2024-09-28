@@ -1,14 +1,9 @@
 ![Awesome Windows](https://github.com/user-attachments/assets/b5897d15-99a5-42e5-a15a-de13687d70f3)
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-494368?style=flat-square&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00)](https://buymeacoffee.com/pandadev_)
 
 The purpose of this repository is to replace its predecessor Awesome-Windows/awesome which has not been updated in 3 years. The current owner also shows no interest in maintaining it.
-
-> \[!NOTE]
->
-> Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
->
-> <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 
 > \[!IMPORTANT]
 >
