@@ -101,7 +101,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Customization
 
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements.
-* [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. ![Open-Source Software][oss icon]
+* [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]]()
 * [EarTrumpet](https://eartrumpet.app/) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet)
 * [Komorebi](https://lgug2z.github.io/komorebi/) - A tiling window manager for Windows [![Open-Source Software][oss icon]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views.
@@ -127,7 +127,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 * [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit)
-* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][oss icon]
+* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. [![Open-Source Software][oss icon]]()
 * [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
 
 ### Command Line Tools
@@ -378,7 +378,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Light Table](https://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable)
 * [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus)
-* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][oss icon]
+* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. [![Open-Source Software][oss icon]]()
 * [Oni](https://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][oss icon]](https://github.com/onivim/oni)
 * [SpaceVim](https://spacevim.org) - A community-driven vim distribution [![Open-Source Software][oss icon]](https://github.com/onivim/oni)
 * [Sublime Text 3](https://www.sublimetext.com/3) - The sophisticated text editor.
