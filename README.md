@@ -24,7 +24,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
   </a>
 </details>
 
-## Table of contents
+## Contents
 
 * [Audio](#audio)
 * [Backup](#backup)
@@ -59,7 +59,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Backers](#backers)
 
 ## Audio
-
 
 * [Audacity](https://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][oss icon]](https://github.com/audacity/audacity)
 * [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
