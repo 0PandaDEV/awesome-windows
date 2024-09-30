@@ -64,7 +64,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Cider](https://cider.sh/) - Powerful, beautiful and modern Apple Music client for Windows, Linux and macOS.
 * [Dopamine](https://digimezzo.github.io/site/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. [![Open-Source Software][oss icon]](https://github.com/digimezzo/dopamine)
 * [Foobar2000](https://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
-* [Kodi](https://kodi.tv/) - Free and Open Source home theatre software. [![Open-Source Software][oss icon]](https://github.com/xbmc)
 * [Mixxx](https://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor. [![Open-Source Software][oss icon]](https://github.com/mixxxdj/mixxx)
 * [Mp3tag](https://www.mp3tag.de/en/) - Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.  
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard)
@@ -116,7 +115,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Komorebi](https://lgug2z.github.io/komorebi/) - A tiling window manager for Windows [![Open-Source Software][oss icon]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views.
 * [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter)
-* [Search Deflector](https://github.com/spikespaz/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. [![Open-Source Software][oss icon]](https://github.com/spikespaz/search-deflector)
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Live wallpapers with user-created content support for Windows.
 * [WindHawk](https://windhawk.net/) - Customize your windows desktop with various mods. [![Open-Source Software][oss icon]](https://github.com/ramensoftware/windhawk)
@@ -165,12 +163,9 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and full-featured web client.
 * [ExtendsClass](https://extendsclass.com/) - Online tools for developers (REST/SOAP clients, SQLite browser, Regex tester, XPath tester).
 * [Mamp](https://www.mamp.info/en/) - Local server environment.
-* [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
 * [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly).
 * [Pieces](https://pieces.app/) - AI-enabled productivity tool designed to supercharge developer efficiency, with an on-device copilot that helps you capture, enrich, and reuse useful materials, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
-* [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A small fast tool for browsing through logs [![Open-Source Software][oss icon]](https://github.com/RolandPheasant/TailBlazer)
 * [Velocity](https://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS)
-* [WMI Explorer](https://github.com/vinaypamnani/wmie2/) - Provides the ability to browse and view WMI namespaces/classes/instances/properties in a single pane of view. [![Open-Source Software][oss icon]](https://github.com/vinaypamnani/wmie2/)
 * [wmWebStack](https://webstack.wikimint.com) - Localhost HTTP server stack with one click live publishing. Localhost websites can be viewed on any devices over public internet.
 * [Xampp](https://www.apachefriends.org/index.html) - Apache driven web development environment.
 
@@ -225,7 +220,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Games
 
-* [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][oss icon]](https://github.com/0ad/0ad)
 * [Awesome Games](https://github.com/leereilly/games) - List of games hosted on GitHub.
 * [Epic Games](https://www.epicgames.com/store/) - Digital video game storefront for PC and Mac, designed by Epic Games.
 * [Freeciv](https://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/)
@@ -267,11 +261,8 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Productivity
 
-* [Aperture Control](https://github.com/Lieturd/aperture-control) - Windows environment automation tool with a number of [premade recipes](https://github.com/Lieturd/aperture-control-recipes) and [examples](https://github.com/Lieturd/aperture-control-example) available. [![Open-Source Software][oss icon]](https://github.com/Lieturd/aperture-control)
 * [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][oss icon]](https://autohotkey.com/)
 * [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
-* [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A Command Line program monitor systray for Windows. [![Open-Source Software][oss icon]](https://github.com/rexdf/CommandTrayHost)
-* [CopyQ](https://hluk.github.io/CopyQ/) - Clipboard manager with advanced features. [![Open-Source Software][oss icon]](https://github.com/hluk/CopyQ)
 * [Ditto](https://ditto-cp.sourceforge.net/) - Clipboard manager.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
 * [Everything](https://www.voidtools.com/) - The fastest file/folder search tool by name.
@@ -285,16 +276,14 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [KatMouse](https://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux)
 * [Keypirinha](https://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Free and open-source software for visualizing your keystrokes. Download and start visualizing your keystrokes realtime for Windows. [![Open-Source Software][oss icon]](https://github.com/mulaRahul/keyviz)
-* [Launchy](https://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][oss icon]](https://github.com/OpenNingia/Launchy)
 * [Listary](https://www.listary.com/) - Keep files at your fingertips. An unique search utility.
-* [Luna](https://github.com/adrianmteo/Luna) - Automatic dark mode for Windows 10.
 * [MultiCommander](https://multicommander.com/) - File Manager for Professionals.
 * [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 * [One Commander](https://onecommander.com/) - File manager featuring miller columns and dual-pane views.
 * [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source Software][oss icon]](https://github.com/0pandadev/qopy)
 * [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing.
 * [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration.
-* [Timelens](https://timlens.wireway.ch) - A time tracking software for Windows and Mac client can be found [here](https://github.com/0pandadev/timelens). [![Open-Source Software][oss icon]](https://github.com/0pandadev/timelens)
+* [Timelens](https://timlens.wireway.ch) - A time tracking software for Windows and Mac. [![Open-Source Software][oss icon]](https://github.com/0pandadev/timelens)
 * [ToDoList](https://abstractspoon.com/) - Feature rich to-do list application. [![Open-Source Software][oss icon]](https://github.com/abstractspoon/ToDoList)
 * [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 * [WordWeb](https://wordweb.info/) - A very good English dictionary for windows.
@@ -322,7 +311,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [BlueMail](https://www.bluemail.me/desktop/) - Beautifully designed, powerful and easy to use email app if you're looking for cross-platform functionality.
 * [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
 * [Mailspring](https://getmailspring.com/) - A fast and maintained fork of Nylas Mail, built on modern web technologies. [![Open-Source Software][oss icon]](https://github.com/Foundry376/Mailspring)
-* [Nylas Mail](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][oss icon]](https://github.com/nylas/N1)
 * [Postbox](https://postbox-inc.com/) - The Power Email App.
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. [![Open-Source Software][oss icon]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)
 * [Wino Mail](https://winomail.app) - Modern mail client for Windows with built in calendar. [![Open-Source Software][oss icon]](https://github.com/bkaankose/Wino-Mail)
@@ -363,13 +351,10 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Terminal
 
 * [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty)
-* [Babun](https://babun.github.io) - Alternative Windows shell based on Cygwin. [![Open-Source Software][oss icon]](https://github.com/babun/babun)
 * [Cmder](https://cmder.app) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder)
-* [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
-* [ConsoleZ](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
 * [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-* [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/zeit/hyper)
+* [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/vercel/hyper)
 * [Kitty](https://www.9bis.net/kitty/) - Advanced Putty (SSH and telnet client).
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 * [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [![Open-Source Software][oss icon]](https://mremoteng.org/)
@@ -381,18 +366,12 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Text Editors
 
-* [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][oss icon]](https://github.com/atom/atom)
-* [Brackets](https://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][oss icon]](https://github.com/adobe/brackets)
 * [GVim](https://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][oss icon]](https://github.com/vim/vim-win32-installer/releases/tag/v9.1.0679 )
 * [LazyVim](https://www.lazyvim.org/) - is a Neovim setup powered by lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
-* [Light Table](https://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][oss icon]](https://github.com/LightTable/LightTable)
 * [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus)
 * [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. [![Open-Source Software][oss icon]]()
-* [Oni](https://onivim.io/) - Modern Modal Editing - powered by Neovim [![Open-Source Software][oss icon]](https://github.com/onivim/oni)
-* [SpaceVim](https://spacevim.org) - A community-driven vim distribution [![Open-Source Software][oss icon]](https://github.com/onivim/oni)
 * [Sublime Text 3](https://www.sublimetext.com/3) - The sophisticated text editor.
-* [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode)
 
 ## Utilities
 
@@ -406,8 +385,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - A free all-in-one CPU monitoring tool.
 * [Econap](https://econap.de) - Prevent sleep mode while your system is busy.
 * [Everything](https://www.voidtools.com/) - Search through all your files. Way faster than windows search can.  
-* [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner)
-* [Ext2Fsd](https://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd)
 * [Far](https://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/farmanager/)
 * [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 * [Fraps](https://www.fraps.com/) - Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
@@ -428,7 +405,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Process Hacker](https://processhacker.sourceforge.net/) - Excellent full blown task manager.
 * [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - A sysinternal tool shows real-time file system, Registry, network and process/thread activity.
 * [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
-* [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source Software][oss icon]](https://github.com/0pandadev/qopy)
 * [Retroshare](https://retroshare.cc/) - A platform for secure communications and file sharing between friends. [![Open-Source Software][oss icon]](https://github.com/RetroShare/RetroShare)
 * [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths.
 * [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
@@ -445,7 +421,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Unlocker](https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete.
 * [Waltr](https://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 * [WinFindr](https://winfindr.com/) - WinFindr allows you to easily search for files, folders and also Windows registry data with multiple search terms at the same time.  
-* [winreg-cli](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying Windows registry. [![Open-Source Software][oss icon]](https://github.com/notlmn/winreg-cli)
 * [WizTree](https://wiztree.en.lo4d.com/) - Excellent, small utility application allows users to quickly find large files on a hard drive.
 * [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
@@ -457,7 +432,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Kdenlive](https://kdenlive.org/en/download/) - Free and open source video editor. Actively developed by KDE. Lighter-weight than professional tools like DaVinci Resolve, so runs faster on average hardware. [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kdenlive)
 * [mpv](https://mpv.io/) - Customizable media player/alternative to VLC. [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv)
 * [Olive Video Editor](https://www.olivevideoeditor.org/) - Open source cross-platform non-linear video editor. [![Open-Source Software][oss icon]](https://github.com/olive-editor/olive)
-* [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/jp9000/OBS)
+* [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss icon]](https://github.com/obsproject/obs-studio)
 * [PotPlayer](https://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 * [ScreenToGif](https://www.screentogif.com/) - Allows recording of a selected area of your screen, saving it as a GIF or video. [![Open-Source Software][oss icon]](https://github.com/NickeManarin/ScreenToGif/)
 * [Shotcut](https://www.shotcut.org/download/) - Open source, cross-platform video editor. [![Open-Source Software][oss icon]](https://github.com/mltframework/shotcut)
