@@ -21,6 +21,28 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
   </a>
 </details>
 
+###### Check out my apps
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/0pandadev/qopy">
+        <img src="https://github.com/user-attachments/assets/1a3c210d-ee6e-4e4e-8d5d-b0a05211a254" width="14px"/> Qopy
+        </a> - The fixed clipboard manager for Windows.
+      </td>
+      <td>
+        <a href="https://github.com/vleerapp/vleer">
+        <img src="https://github.com/user-attachments/assets/966fdd74-9ee4-44c8-ac11-496d814e8838" width="14px"/> Vleer
+        </a> - FOSS alternative to Spotify, Apple Music etc.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- <a href="https://github.com/0pandadev/qopy"><img src="https://github.com/user-attachments/assets/1a3c210d-ee6e-4e4e-8d5d-b0a05211a254" width="48px"/></a>
+<a href="https://github.com/vleerapp/vleer"><img src="https://github.com/user-attachments/assets/966fdd74-9ee4-44c8-ac11-496d814e8838" width="48px"/></a> -->
+
 ## Contents
 
 * [Audio](#audio)
@@ -280,7 +302,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [MultiCommander](https://multicommander.com/) - File Manager for Professionals.
 * [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software.
 * [One Commander](https://onecommander.com/) - File manager featuring miller columns and dual-pane views.
-* [Qopy](https://github.com/0pandadev/qopy) - The fixed Windows clipboard manager boasts numerous enhancement features. [![Open-Source Software][oss icon]](https://github.com/0pandadev/qopy)
 * [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing.
 * [Taskade](https://taskade.com/) - Smart task lists with real-time cross-platform syncing and team collaboration.
 * [Timelens](https://timlens.wireway.ch) - A time tracking software for Windows and Mac. [![Open-Source Software][oss icon]](https://github.com/0pandadev/timelens)
@@ -469,7 +490,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 Thanks to all contributors without you this project would not exist.
 
-<a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://github.com/luismgallegosc'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7239898?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='luismgallegosc'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://github.com/cardo-podcast'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/177157984?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='cardo-podcast'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> <a href='https://github.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> 
+<a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://github.com/luismgallegosc'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7239898?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='luismgallegosc'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://github.com/cardo-podcast'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/177157984?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='cardo-podcast'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> <a href='https://github.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a>
 
 Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 
