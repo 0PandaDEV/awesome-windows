@@ -23,7 +23,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ###### Check out my apps/projects
 
-[pandadev.net](https://pandadev.net)
+» [pandadev.net](https://pandadev.net)
 
 <table>
   <tbody>
