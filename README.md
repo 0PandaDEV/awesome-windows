@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-494368?style=flat-square&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00)](https://buymeacoffee.com/pandadev_)
 
-The purpose of this repository is to replace its predecessor Awesome-Windows/awesome which has not been updated in 3 years. The current owner also shows no interest in maintaining it.
+The purpose of this repository is to replace its predecessor Awesome-Windows/awesome which has not been updated in 3 years. The current owner also shows no interest in maintaining it. On top of that the project dissappeared from GitHub around the `26 Sep 2024`. 
 
 > \[!IMPORTANT]
 >
