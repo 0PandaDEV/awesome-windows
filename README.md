@@ -156,8 +156,10 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Developer Tools
 
+
 ### API Development
 
+* [Bruno](https://www.usebruno.com/) - A Fast and Git-Friendly Opensource API client as an alternative for Postman and Insomnia [![Open-Source Software][oss icon]](https://github.com/usebruno/bruno) 
 * [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit)
 * [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. [![Open-Source Software][oss icon]]()
