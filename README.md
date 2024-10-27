@@ -20,9 +20,10 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
   </a>
 </details>
 
-<sub>Check out my apps</sub>
+###### Check out my projects
 
-» [pandadev.net](https://pandadev.net)
+[pandadev.net »](https://pandadev.net)<br>
+[discord »](https://discord.gg/invite/Y7SbYphVw9)
 
 <table>
   <tbody>
@@ -153,6 +154,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ### API Development
 
+* [Bruno](https://www.usebruno.com/) - A Fast and Git-Friendly Opensource API client as an alternative for Postman and Insomnia [![Open-Source Software][oss icon]](https://github.com/usebruno/bruno)
 * [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit)
 * [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. [![Open-Source Software][oss icon]]()
@@ -243,6 +245,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Awesome Games](https://github.com/leereilly/games) - List of games hosted on GitHub.
 * [Epic Games](https://www.epicgames.com/store/) - Digital video game storefront for PC and Mac, designed by Epic Games.
 * [Freeciv](https://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/)
+* [Gale](https://github.com/Kesomannen/gale) - The modern and lightweight mod manager for Thunderstore, supports Windows and Linux. [![Open-Source Software][oss icon]]()
 * [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][oss icon]](https://github.com/godotengine/godot)
 * [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 * [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][oss icon]](https://github.com/itchio/itch)
