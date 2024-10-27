@@ -41,9 +41,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
   </tbody>
 </table>
 
-<!-- <a href="https://github.com/0pandadev/qopy"><img src="https://github.com/user-attachments/assets/1a3c210d-ee6e-4e4e-8d5d-b0a05211a254" width="48px"/></a>
-<a href="https://github.com/vleerapp/vleer"><img src="https://github.com/user-attachments/assets/966fdd74-9ee4-44c8-ac11-496d814e8838" width="48px"/></a> -->
-
 ## Contents
 
 * [Audio](#audio)
@@ -112,12 +109,12 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [ArmCord](https://armcord.app/) - Standalone, lightweight, customizable Discord client with built in Vencord and shelter. [![Open-Source Software][OSS Icon]](https://github.com/ArmCord/ArmCord)
 * [Beeper](https://beeper.com) - All in one chat app for whatsapp, slak, telegram, signal, x, instagram, sms.
 * [Discord](https://discordapp.com) - Discord is a free voice and text chat client for gamers and non-gamers alike. You can use it from your browser and it's available on iOS, Android, Windows, Mac, and Linux.
-* [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][OSS Icon]](https://github.com/meetfranz/franz)
-* [Matrix](https://matrix.org/) - An open network for secure, decentralized communication. [![Open-Source Software][OSS Icon]](https://github.com/matrix-org)
-* [Revolt](https://revolt.chat/) - A user-first chat platform built with modern web technologies. [![Open-Source Software][OSS Icon]](https://github.com/revoltchat)
-* [Element](https://element.io/) - A simple client app for the matrix.org system. [![Open-Source Software][OSS Icon]](https://github.com/element-hq/element-web)
-* [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it's super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)
-* [Threema](https://threema.ch) - Swiss based opensource and secure alternative to Whatsapp. [![Open-Source Software][OSS Icon]](https://github.com/threema-ch)
+* [Franz](https://meetfranz.com/) - A messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more. [![Open-Source Software][oss icon]](https://github.com/meetfranz/franz)
+* [Matrix](https://matrix.org/) - An open network for secure, decentralized communication. [![Open-Source Software][oss icon]](https://github.com/matrix-org)
+* [Revolt](https://revolt.chat/) - A user-first chat platform built with modern web technologies. [![Open-Source Software][oss icon]](https://github.com/revoltchat)
+* [Element](https://element.io/) - A simple client app for the matrix.org system. [![Open-Source Software][oss icon]](https://github.com/element-hq/element-web)
+* [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it's super fast, simple and free. [![Open-Source Software][oss icon]](https://telegram.org/apps)
+* [Threema](https://threema.ch) - Swiss based opensource and secure alternative to Whatsapp. [![Open-Source Software][oss icon]](https://github.com/threema-ch)
 * [Vencord](https://vencord.dev) - The cutest and easies to understand Discord client mod.
 * [Waow](https://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience.
 
@@ -485,8 +482,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [/r/windowsapps](https://www.reddit.com/r/windowsapps)
 * [/r/windows](https://www.reddit.com/r/windows/)
 
-[oss icon]: ./opensource.svg
-
 ## Backers
 
 Thanks to all contributors without you this project would not exist.
@@ -496,3 +491,5 @@ Thanks to all contributors without you this project would not exist.
 Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pandadev_)
+
+[oss icon]: ./opensource.svg
