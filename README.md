@@ -101,7 +101,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Browsers
 
 * [Arc](https://arc.net) - Modern, simple and productivity focused browser with a vertical tab design.
-* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - A variant of chrome that removes all the googelyness, tracking etc. [![Open-Source Software][OSS Icon]]()
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - A variant of chrome that removes all the googelyness, tracking etc. ![Open-Source Software](opensource.svg)
 * [Ladybird](https://ladybird.org/) - Completly new browser engine built from the ground up. [![Open-Source Software][OSS Icon]](https://github.com/LadybirdBrowser/ladybird)
 * [Zen Browser](https://zen-browser.app/) - Modern, Firefox based Arc alternative with custom community mods. [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 
@@ -131,15 +131,15 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Customization
 
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements.
-* [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]]()
+* [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. ![Open-Source Software](opensource.svg)
 * [EarTrumpet](https://eartrumpet.app/) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet)
 * [Komorebi](https://lgug2z.github.io/komorebi/) - A tiling window manager for Windows [![Open-Source Software][oss icon]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views.
 * [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter)
-* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][oss icon]](https://github.com/TranslucentTB/TranslucentTB)
+* [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. ![Open-Source Software](opensource.svg)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Live wallpapers with user-created content support for Windows.
 * [WindHawk](https://windhawk.net/) - Customize your windows desktop with various mods. [![Open-Source Software][oss icon]](https://github.com/ramensoftware/windhawk)
-* [YASB](https://github.com/amnweb/yasb) - A customizable status bar for windows [![Open-Source Software][oss icon]](https://github.com/amnweb/yasb)
+* [YASB](https://github.com/amnweb/yasb) - A customizable status bar for windows ![Open-Source Software](opensource.svg)
 * [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 ## Data Recovery
@@ -157,26 +157,26 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Bruno](https://www.usebruno.com/) - A Fast and Git-Friendly Opensource API client as an alternative for Postman and Insomnia [![Open-Source Software][oss icon]](https://github.com/usebruno/bruno)
 * [Hoppscotch](https://hoppscotch.com/) - Open source API development ecosystem. [![Open-Source Software][oss icon]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - HTTP debugging & mocking tool. [![Open-Source Software][oss icon]](https://github.com/httptoolkit)
-* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. [![Open-Source Software][oss icon]]()
+* [Insomnia](https://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software](opensource.svg)
 * [Postman](https://www.getpostman.com/postman) - REST client with intuitive user interface to send requests, save responses, add tests, and create workflows.
 
 ### Command Line Tools
 
-* [btop4win](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. [![Open-Source Software][oss icon]](https://github.com/aristocratos/btop4win)
+* [btop4win](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](opensource.svg)
 * [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
-* [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][oss icon]](https://github.com/lukesampson/scoop)
+* [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. ![Open-Source Software](opensource.svg)
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Oficial Windows package manager from Microsoft. [![Open-Source Software][oss icon]](https://github.com/microsoft/winget-cli)
 
 ### Databases
 
 * [DataFlare](https://dataflare.app/) - A modern, lightweight database GUI for SQLite, MySQL and PostgreSQL.
-* [DB Browser for SQLite](https://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][oss icon]](https://sqlitebrowser.org/)
+* [DB Browser for SQLite](https://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite ![Open-Source Software](opensource.svg)
 * [HeidiSQL](https://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 * [Keylord](https://protonail.com/products/keylord) - Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 * [PostgreSQL Database](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
 * [RazorSQL](https://www.razorsql.com/) - A GUI for managing SQLite databases which requires major work.
 * [Redis Desktop Manager](https://redisdesktop.com/) - Cross-platform open source Redis DB management tool.
-* [Robo 3T](https://www.jetbrains.com/datagrip/) - A lightweight GUI for MongoDB enthusiasts.
+* [Robo 3T](https://robomongo.org/) - A lightweight GUI for MongoDB enthusiasts. [![Open-Source Software][oss icon]](https://github.com/Studio3T/robomongo)
 * [Sql Wave](https://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 * [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool.
 
@@ -197,7 +197,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][oss icon]](https://git.eclipse.org/c/)
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects.
   * [CLion](https://www.jetbrains.com/clion/) - Smart cross-platform IDE for C/C++. (**Free** for Students)
-  * [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases and SQL. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
+  * [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases and SQL. (**Free** for Students)
   * [DataSpell](https://www.jetbrains.com/dataspell/) - The IDE for Professional Data Scientists.
   * [GoLand](https://www.jetbrains.com/go/) - Provides ergonomic environment for Go development.
   * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) (**Free** for Students)
@@ -205,7 +205,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
   * [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for professional developers with free community edition. [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community/tree/master/python)
   * [Rider](https://www.jetbrains.com/rider/) - A cross-platform .NET/Mono IDE.
   * [RubyMine](https://www.jetbrains.com/ruby/) - An intelligent Ruby IDE that supports many modern frameworks.
-  * [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
+  * [WebStorm](https://www.jetbrains.com/webstorm/) - A smart JavaScript IDE that uses the full power of the modern JavaScript ecosystem. (**Free** for Students)
 * [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][oss icon]](https://netbeans.org/community/sources/)
 * [Visual Studio Code](https://code.visualstudio.com/) - A lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode)
 * [Visual Studio](https://www.visualstudio.com/vs/) - Microsoft's official IDE. Supports a multitude of languages via plugins.
@@ -222,7 +222,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][oss icon]](https://github.com/gitextensions/gitextensions)
 * [GitHub Desktop](https://desktop.github.com/) - GitHub Desktop is an open source Electron-based GitHub app. [![Open-Source Software][oss icon]](https://github.com/desktop/desktop)
 * [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client.
-* [GitLight](https://github.com/colinlienard/gitlight) - An open-source GitHub & GitLab notifications desktop client. [![Open-Source Software][oss icon]](https://github.com/colinlienard/gitlight)
+* [GitLight](https://github.com/colinlienard/gitlight) - An open-source GitHub & GitLab notifications desktop client. ![Open-Source Software](opensource.svg)
 * [Meld](https://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/)
 * [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 * [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss icon]](https://github.com/tortoisegit/tortoisegit/)
@@ -245,7 +245,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Awesome Games](https://github.com/leereilly/games) - List of games hosted on GitHub.
 * [Epic Games](https://www.epicgames.com/store/) - Digital video game storefront for PC and Mac, designed by Epic Games.
 * [Freeciv](https://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization. [![Open-Source Software][oss icon]](https://github.com/freeciv/)
-* [Gale](https://github.com/Kesomannen/gale) - The modern and lightweight mod manager for Thunderstore, supports Windows and Linux. [![Open-Source Software][oss icon]]()
+* [Gale](https://github.com/Kesomannen/gale) - The modern and lightweight mod manager for Thunderstore, supports Windows and Linux. ![Open-Source Software](opensource.svg)
 * [Godot Engine](https://godotengine.org/) - Free and open source game engine. Easy to get started and flexible for intermediate users. [![Open-Source Software][oss icon]](https://github.com/godotengine/godot)
 * [GOG](https://www.gog.com/) - DRM-free game store with a lot of old games but also has a rich collection of new games.
 * [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][oss icon]](https://github.com/itchio/itch)
@@ -284,18 +284,17 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Productivity
 
-* [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. [![Open-Source Software][oss icon]](https://autohotkey.com/)
+* [AutoHotkey](https://autohotkey.com/) - The ultimate automation scripting language for Windows. ![Open-Source Software](opensource.svg)
 * [Cold Turkey](https://getcoldturkey.com) - The only blocker for distracting websites that actually works. (even doesn't let you uninstall it when blocking is active).
 * [Ditto](https://ditto-cp.sourceforge.net/) - Clipboard manager.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Switch between application instances, fast.
-* [Everything](https://www.voidtools.com/) - The fastest file/folder search tool by name.
 * [Executor.dk](https://executor.dk/) - A free multi purpose customizable and light-weight launcher.
 * [f.lux](https://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting.
 * [File Juggler](https://www.filejuggler.com/) - Organize files automatically. Monitor folders and execute actions like rename, delete, unzip and more. Finds dates in PDFs and much more.
 * [Flow Launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![Open-Source Software][oss icon]](https://github.com/Flow-Launcher/Flow.Launcher)
 * [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
 * [Jan](https://jan.ai) - An offline & private ChatGPT alternative that runs AI directly on Windows CPU (GPU also supported). [![Open-Source Software][oss icon]](https://github.com/janhq/jan)
-* [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security.[![Open-Source Software][oss icon]](https://github.com/0xfrankz/Kaas)
+* [Kaas](https://github.com/0xfrankz/Kaas) - Cross-platform desktop LLM client for OpenAI ChatGPT, Anthropic Claude, Microsoft Azure and more, with a focus on privacy and security. ![Open-Source Software](opensource.svg)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux)
 * [Keypirinha](https://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to _Launchy_ and a cousin of _Alfred_.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Free and open-source software for visualizing your keystrokes. Download and start visualizing your keystrokes realtime for Windows. [![Open-Source Software][oss icon]](https://github.com/mulaRahul/keyviz)
@@ -372,14 +371,14 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Terminal
 
-* [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator [![Open-Source Software][oss icon]](https://github.com/jwilm/alacritty)
+* [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](opensource.svg)
 * [Cmder](https://cmder.app) - Console emulator package with clink shell. [![Open-Source Software][oss icon]](https://github.com/cmderdev/cmder)
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
 * [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 * [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][oss icon]](https://github.com/vercel/hyper)
 * [Kitty](https://www.9bis.net/kitty/) - Advanced Putty (SSH and telnet client).
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
-* [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [![Open-Source Software][oss icon]](https://mremoteng.org/)
+* [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. ![Open-Source Software](opensource.svg)
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus)
@@ -392,14 +391,14 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [LazyVim](https://www.lazyvim.org/) - is a Neovim setup powered by lazy.nvim to make it easy to customize and extend your config. [![Open-Source Software][oss icon]](https://github.com/LazyVim/LazyVim)
 * [Neovim](https://neovim.io/) - literally the future of vim [![Open-Source Software][oss icon]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][oss icon]](https://github.com/notepad-plus-plus/notepad-plus-plus)
-* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. [![Open-Source Software][oss icon]]()
+* [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software](opensource.svg)
 * [Sublime Text 3](https://www.sublimetext.com/3) - The sophisticated text editor.
 
 ## Utilities
 
 * [A-Z of Windows Terminal Commands](https://ss64.com/nt/)
 * [Acrosync](https://acrosync.com/windows.html) - The only native rsync client for Windows (no cygwin required). It supports automatic uploads on file changes and incremental hourly backups.
-* [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. [![Open-Source Software][oss icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/)
+* [AddToSendTo](https://aashutoshrathi.github.io/Python-Scripts-and-Games/AddToSendTo/) - This script lets you add your favorite Folder to Send To option, when you right-click. ![Open-Source Software](opensource.svg)
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions.
 * [Bandicam](https://www.bandicam.com) - Recording software allowing easy video recording of both desktop and 3D apps simultaneously.
 * [Carnac](https://code52.org/carnac/) - The easiest way to record keystrokes during any screen recording.
@@ -414,7 +413,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [fselect](https://github.com/jhspetersson/fselect) - Command-line tool to search files with SQL-like queries.
 * [Glary Utilities](https://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool.
-* [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][oss icon]](https://github.com/greenshot/greenshot)
+* [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. ![Open-Source Software](opensource.svg)
 * [HTTrack](https://www.httrack.com/page/2/en/index.html) - Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][oss icon]](https://github.com/xroche/httrack/tree/master)
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
 * [IrfanView](https://www.irfanview.com/) - A very fast, small, compact and innovative graphic viewer for Windows.
@@ -431,7 +430,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths.
 * [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
 * [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - A command line utility that can securely delete a file, or clean the slack space.
-* [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. [![Open-Source Software][OSS Icon]](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/)
+* [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - This script will help you to add your favorite programs or self made scripts/folders to startup. ![Open-Source Software](opensource.svg)
 * [ShareX](https://getsharex.com/) - Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX)
 * [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Windows 10 utility to easily capture and edit selected area in screen.
 * [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
@@ -490,9 +489,5 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 Thanks to all contributors without you this project would not exist.
 
 <a href='https://github.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://github.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://github.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://github.com/luismgallegosc'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7239898?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='luismgallegosc'/></a> <a href='https://github.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://github.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://github.com/cardo-podcast'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/177157984?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='cardo-podcast'/></a> <a href='https://github.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> <a href='https://github.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a>
-
-Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pandadev_)
 
 [oss icon]: opensource.svg
