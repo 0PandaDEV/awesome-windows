@@ -495,4 +495,4 @@ Please, consider supporting me as it is a lot of work to maintain this list! Tha
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pandadev_)
 
-[oss icon]: ./opensource.svg
+[oss icon]: opensource.svg
