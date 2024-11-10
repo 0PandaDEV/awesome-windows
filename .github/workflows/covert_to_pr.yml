@@ -55,7 +55,7 @@ jobs:
             if [ -n "$REPO_URL" ]; then
               OPEN_SOURCE_ICON="[![Open-Source Software][oss icon]]($REPO_URL)"
             else
-              OPEN_SOURCE_ICON="[![Open-Source Software][oss icon]]($APP_URL)"
+              OPEN_SOURCE_ICON="![Open-Source Software](opensource.svg)"
             fi
           else
             OPEN_SOURCE_ICON=""
