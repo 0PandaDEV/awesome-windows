@@ -421,7 +421,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [LICEcap](https://www.cockos.com/licecap/) - Animated screen captures and save them directly as a GIF.
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eyestrain by adjusting gamma based on the current time.
 * [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
-* [neohtop](https://github.com/Abdenasser/neohtop) - A modern, cross-platform system monitor built on top of Svelte, Rust, and Tauri. [![Open-Source Software][oss icon]](_No response_) 
+* [neohtop](https://github.com/Abdenasser/neohtop) - A modern, cross-platform system monitor built on top of Svelte, Rust, and Tauri. ![Open-Source Software](opensource.svg)
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][oss icon]](https://github.com/petrroll/PowerSwitcher)
 * [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - The all in one power user app for Windows from Microsoft [![Open-Source Software][oss icon]](https://github.com/microsoft/PowerToys)
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
