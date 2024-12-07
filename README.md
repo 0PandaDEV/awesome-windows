@@ -28,16 +28,12 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 <table>
   <tbody>
     <tr>
-      <td>
-        <a href="https://github.com/0pandadev/qopy">
-        <img src="https://github.com/user-attachments/assets/1a3c210d-ee6e-4e4e-8d5d-b0a05211a254" width="14px"/> Qopy
-        </a> - The fixed clipboard manager for Windows.
-      </td>
-      <td>
-        <a href="https://github.com/vleerapp/vleer">
-        <img src="https://github.com/user-attachments/assets/966fdd74-9ee4-44c8-ac11-496d814e8838" width="14px"/> Vleer
-        </a> - FOSS alternative to Spotify, Apple Music etc.
-      </td>
+      <td><a href="https://github.com/0pandadev/qopy"><img src="https://github.com/user-attachments/assets/1a3c210d-ee6e-4e4e-8d5d-b0a05211a254" width="14px"/> Qopy</a></td>
+      <td>The fixed clipboard manager for Windows, macOS & Linux.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vleerapp/vleer"><img src="https://github.com/user-attachments/assets/966fdd74-9ee4-44c8-ac11-496d814e8838" width="14px"/> Vleer</a></td>
+      <td>Free & open source alternative to Spotify, Apple Music etc.</td>
     </tr>
   </tbody>
 </table>
