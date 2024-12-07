@@ -464,11 +464,6 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 * [Super User](https://superuser.com/questions/tagged/windows*)
 * [Windows Support Communities](https://answers.microsoft.com/en-us/windows)
 
-### IRC channels
-
-* [#microsoft](https://webchat.freenode.net/?channels=microsoft)
-* [#Windows](https://webchat.freenode.net/?channels=windows)
-
 ### Reddit
 
 * [/r/microsoft](https://www.reddit.com/r/Microsoft)
