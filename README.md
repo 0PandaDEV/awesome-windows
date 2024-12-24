@@ -149,7 +149,7 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## Compression
 
 * [7-Zip](https://www.7-zip.org/) - File archiver with multiple format support. [![Open-Source Software][oss]](https://github.com/ip7z/7zip)
-* [Bandizip](https://www.bandisoft.com/bandizip/) - Archive manager with multiple format support. ![paid]
+* [Bandizip](https://www.bandisoft.com/bandizip/) - Archive manager with multiple format support.
 * [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - Windows-optimized 7-Zip variant. [![Open-Source Software][oss]](https://github.com/M2Team/NanaZip) ![star]
 * [PeaZip](https://peazip.github.io/) - Archive manager with compression format support. [![Open-Source Software][oss]](https://github.com/peazip/PeaZip)
 * [Riot](https://riot-optimizer.com/) - Compresses images with multiple optimization options.
@@ -171,9 +171,9 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Data Recovery
 
-* [Data Rescue](https://www.prosofteng.com/windows-data-recovery) - Professional recovery solution for photos, videos, and documents. ![paid]
-* [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media. ![paid]
-* [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities. ![paid]
+* [Data Rescue](https://www.prosofteng.com/windows-data-recovery) - Professional recovery solution for photos, videos, and documents.
+* [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media.
+* [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities.
 * [PartitionGuru ｜ Eassos Recovery](https://www.eassos.com/) - Specialized recovery tool for partitions and file systems. ![paid]
 * [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair.
 
@@ -185,18 +185,18 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## Developer Utilities
 
-* [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins. ![paid]
+* [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
 * [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
-* [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection. ![paid]
+* [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
 * [Xampp](https://www.apachefriends.org/index.html) - Bundles Apache, MariaDB, PHP and Perl for local development.
 
 ## Email
 
 * [BlueMail](https://www.bluemail.me/desktop/) - Cross-platform email client with modern interface.
-* [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support. ![paid]
+* [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support.
 * [Mailspring](https://getmailspring.com/) - Modern email client built on web technologies. [![Open-Source Software][oss]](https://github.com/Foundry376/Mailspring) ![star]
-* [Postbox](https://postbox-inc.com/) - Advanced email management application. ![paid]
+* [Postbox](https://postbox-inc.com/) - Advanced email management application.
 * [ProtonMail](https://proton.me/mail) - Encrypted email service with end-to-end encryption. [![Open-Source Software][oss]](https://github.com/ProtonMail) ![star]
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software][oss]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)
 * [Wino Mail](https://winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software][oss]](https://github.com/bkaankose/Wino-Mail)
@@ -204,10 +204,9 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 ## File Management
 
 * [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss]](https://download.filezilla-project.org/client/)
-* [One Commander](https://onecommander.com/) - Modern file manager with miller columns. ![paid]
+* [One Commander](https://onecommander.com/) - Modern file manager with miller columns.
 * [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive)
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
-* [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible and lightweight SFTP/FTP client. ![paid]
 
 ## Game Stores
 
