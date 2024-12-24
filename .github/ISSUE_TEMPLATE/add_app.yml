@@ -74,7 +74,6 @@ body:
       label: Application Attributes
       description: Check all that apply
       options:
-        - label: Free
         - label: Open Source
         - label: Paid
         - label: Freemium (free with paid features)

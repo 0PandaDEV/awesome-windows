@@ -53,20 +53,23 @@ jobs:
           # Check if the application is open source
           if echo "$ISSUE_BODY" | grep -q "\[X\] Open Source"; then
             if [ -n "$REPO_URL" ]; then
-              OPEN_SOURCE_ICON="[![Open-Source Software][oss icon]]($REPO_URL)"
+              OPEN_SOURCE_ICON="[![Open-Source Software][oss]]($REPO_URL)"
             else
-              OPEN_SOURCE_ICON="![Open-Source Software](opensource.svg)"
+              OPEN_SOURCE_ICON="![oss]"
             fi
           else
             OPEN_SOURCE_ICON=""
           fi
-          
-          
-          FREE_ICON=""
 
+          # Check if the application is paid
+          if echo "$ISSUE_BODY" | grep -q "\[X\] Paid"; then
+            PAID_ICON="![paid]"
+          else
+            PAID_ICON=""
+          fi
           
           # Create the new entry
-          NEW_ENTRY="* [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $FREE_ICON"
+          NEW_ENTRY="* [$APP_NAME]($APP_URL) - $APP_DESCRIPTION $OPEN_SOURCE_ICON $PAID_ICON"
           
           # Find the category section and insert the new entry
           awk -v new_entry="$NEW_ENTRY" -v category="$CATEGORY" '

@@ -94,7 +94,6 @@ body:
       label: New Application Attributes (if applicable)
       description: If you're proposing attribute changes, check all that apply
       options:
-        - label: Free
         - label: Open Source
         - label: Paid
         - label: Freemium (free with paid features)
