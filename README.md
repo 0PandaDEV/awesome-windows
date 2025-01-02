@@ -339,12 +339,14 @@ The purpose of this repository is to replace its predecessor Awesome-Windows/awe
 
 ## System Utilities
 
+
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
 * [Carnac](https://code52.org/carnac/) - Keystroke visualization tool for screencasts.
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 * [Econap](https://econap.de) - System sleep prevention utility.
 * [Everything](https://www.voidtools.com/) - Instant file search utility.
+* [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. [![Open-Source Software][oss]](https://github.com/Rem0o/FanControl.Releases) 
 * [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
 * [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
