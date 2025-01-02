@@ -35,26 +35,35 @@ body:
       label: Category
       description: Which category does this application belong to?
       options:
+        - API Development
+        - Application Launchers
         - Audio
         - Backup
+        - Browsers
         - Chat Clients
+        - Cloud Storage
+        - Command Line Tools
         - Compression
-        - Customization
         - Data Recovery
-        - Developer Tools
-        - Documents
-        - E-Book Utilities
+        - Databases
+        - Developer Utilities
         - Email
+        - File Management
         - Games
         - Graphics
         - IDEs
-        - Online Storage
+        - Networking
+        - Office Suites
         - Productivity
         - Proxy and VPN Tools
+        - Screen Capture
+        - Security
+        - System Utilities
         - Terminal
         - Text Editors
-        - Utilities
+        - Version Control
         - Video
+        - Virtualization
         - Other (please specify in description)
     validations:
       required: true
