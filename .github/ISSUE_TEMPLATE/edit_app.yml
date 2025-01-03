@@ -75,6 +75,7 @@ body:
         - Cloud Storage
         - Command Line Tools
         - Compression
+        - Customization
         - Data Recovery
         - Databases
         - Developer Utilities
@@ -87,7 +88,9 @@ body:
         - Office Suites
         - Productivity
         - Proxy and VPN Tools
+        - Remote Access
         - Screen Capture
+        - Screenshot
         - Security
         - System Utilities
         - Terminal
@@ -95,6 +98,7 @@ body:
         - Version Control
         - Video
         - Virtualization
+        - Window Management
         - Other (please specify in description)
 
   - type: checkboxes
