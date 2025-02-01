@@ -236,6 +236,7 @@
 * [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][oss]](https://gitlab.com/inkscape/inkscape)
 * [Krita](https://krita.org/) - Professional digital painting program. [![Open-Source Software][oss]](https://krita.org/en/download/krita-desktop/)
 * [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources. ![star]
+* [Oculante](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Paint.NET](https://www.getpaint.net/index.html) - Feature-rich image editing tool.
 * [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
 
