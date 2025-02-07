@@ -26,25 +26,19 @@ def update_readme(contributors):
     with open('README.md', 'r') as file:
         content = file.read()
 
-    contributor_section = "## Backers\n\nThanks to all contributors without you this project would not exist.\n\n"
+    new_block = "## Backers\n\nThanks to all contributors without you this project would not exist.\n\n"
 
     for contributor in contributors:
         avatar_url = contributor['avatar_url']
-        rounded_avatar_url = f"https://images.weserv.nl/?url={
-            avatar_url}&fit=cover&mask=circle&maxage=7d"
-        username = contributor['login']
-        contributor_section += f"<a href='https://github.com/{username}'><img src='{
-            rounded_avatar_url}' width='60' height='60' alt='{username}'/></a> "
+        new_block += f"<a href='https://github.com/{contributor['login']}'><img src='https://images.weserv.nl/?url={avatar_url}&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='{contributor['login']}'/></a> "
 
-    contributor_section += "\n\n"
-    contributor_section += "Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.\n\n"
-    contributor_section += "<a href=\"https://buymeacoffee.com/pandadev_\"><img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black\"/></a>"
+    new_block += "\n\nPlease, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.\n\n"
+    new_block += "<a href=\"https://buymeacoffee.com/pandadev_\"><img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black\"/></a>\n\n"
 
-    pattern = r"(#{1,6}\s+Backers[\s\S]*?)(?=\n\[|$)"
-    updated_content = re.sub(
-        pattern, contributor_section, content, count=1, flags=re.MULTILINE)
+    pattern = r"(?ms)^## Backers\s*\n.*?(?=^\[oss\]:)"
+    content = re.sub(pattern, new_block, content)
     with open('README.md', 'w') as file:
-        file.write(updated_content)
+        file.write(content)
 
 
 if __name__ == "__main__":
