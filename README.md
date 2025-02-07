@@ -413,7 +413,6 @@
 * [Notepad++](https://notepad-plus-plus.org/) - Feature-rich source code editor. [![Open-Source Software][oss]](https://github.com/notepad-plus-plus/notepad-plus-plus)
 * [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Lightweight Notepad replacement with enhanced features. ![Open-Source Software](/assets/opensource.svg)
 * [Sublime Text](https://www.sublimetext.com/3) - Advanced text editor with extensive plugin ecosystem.
-* [Helix](https://helix-editor.com/) A post-modern modal text editor. [![Open-Source Software][oss]](https://github.com/helix-editor/helix)
 
 ## Version Control
 
