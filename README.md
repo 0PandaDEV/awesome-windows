@@ -210,6 +210,7 @@
 * [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive)
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
 * [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid]
+* [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss]](https://github.com/files-community/Files)
 
 ## Game Stores
 
@@ -278,6 +279,7 @@
 * [OpenOffice](https://www.openoffice.org/) - Focuses on stability and legacy format support. [![Open-Source Software][oss]](https://openoffice.apache.org/source.html)
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf)
 * [WPS Office](https://www.wps.com/office-free) - Offers mobile-desktop sync with built-in PDF tools.
+* [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 
 ## Password Managers
 
