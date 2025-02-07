@@ -38,11 +38,11 @@ def update_readme(contributors):
 
     contributor_section += "\n\n"
     contributor_section += "Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.\n\n"
-    contributor_section += "<a href=\"https://buymeacoffee.com/pandadev_\"><img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black\"/></a>\n"
+    contributor_section += "<a href=\"https://buymeacoffee.com/pandadev_\"><img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black\"/></a>"
 
     pattern = r"(#{1,6}\s+Backers[\s\S]*?)(?=\n\[|$)"
     updated_content = re.sub(
-        pattern, contributor_section, content, flags=re.MULTILINE)
+        pattern, contributor_section, content, count=1, flags=re.MULTILINE)
     with open('README.md', 'w') as file:
         file.write(updated_content)
 
