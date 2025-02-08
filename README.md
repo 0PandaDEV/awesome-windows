@@ -309,6 +309,7 @@
 * [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 * [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
+* [STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg) ![star]
 
 ## Proxy and VPN Tools
 
