@@ -431,19 +431,15 @@
 
 ## Video Utilities
 
-* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools.
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools. ![star]
 * [HandBrake](https://handbrake.fr/) - Converts videos between formats with compression options. [![Open-Source Software][oss]](https://github.com/HandBrake/HandBrake)
-* [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Adds support for playing most video and audio formats.
 * [Kdenlive](https://kdenlive.org/en/download/) - Video editor focused on transitions and effects. [![Open-Source Software][oss]](https://invent.kde.org/multimedia/kdenlive)
-* [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv)
+* [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ![star]
 * [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive)
 * [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
 * [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
 * [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut)
 * [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
-* [SMPlayer](https://sourceforge.net/projects/smplayer/) - Remembers settings per video file. [![Open-Source Software][oss]](https://sourceforge.net/p/smplayer/code/HEAD/tree/)
-* [SRTEd](https://download.cnet.com/srted-srt-subtitles-editor/3000-13631_4-75884617.html) - Creates and edits SRT subtitle files.
-* [Videotape](https://usuaia.com/videotape) - Plays videos with minimal interface and controls.
 * [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software][oss]](https://github.com/videolan/vlc)
 
 ## Virtualization
