@@ -63,7 +63,7 @@
 * [Terminal](#terminal)
 * [Text Editors](#text-editors)
 * [Version Control](#version-control)
-* [Video](#video-utilities)
+* [Video Utilities](#video-utilities)
 * [Virtualization](#virtualization)
 * [Window Management](#window-management)
 
