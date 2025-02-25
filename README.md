@@ -225,6 +225,7 @@
 * [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch)
 * [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
 * [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
+* [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software][oss]](https://github.com/JosefNemec/Playnite/)
 * [Steam](https://store.steampowered.com/) - Leading digital game distribution platform with extensive library management.
 * [Unity](https://unity3d.com/) - Popular game engine with comprehensive learning resources.
 * [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Professional game engine with 5% revenue share model.
