@@ -293,6 +293,7 @@
 
 ## Productivity
 
+
 * [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](/assets/opensource.svg)
 * [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
@@ -300,6 +301,7 @@
 * [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
+* [Joplin](https://joplinapp.org/) - Joplin is an open-source note-taking and task management application that allows users to organize their notes, to-do lists, and even sync them across devices. Key Features of Joplin Markdown Support – Allows notes to be formatted using Markdown, making them highly customizable and easy to organize. Cross-Device Syncing – Syncs notes across multiple devices, including desktop, mobile, and cloud storage services. End-to-End Encryption – Ensures your notes are securely encrypted, protecting sensitive information from unauthorized access.  
 * [Kaas](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](/assets/opensource.svg)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
