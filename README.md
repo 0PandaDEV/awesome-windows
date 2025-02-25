@@ -367,8 +367,10 @@
 
 ## System Utilities
 
+
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher)
+* [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space, improve privacy, and remove unnecessary files. It works on Windows and Linux, helping users delete junk files, clear cache, and securely shred sensitive data. Best Key Features of BleachBit: Deep System Cleaning – Removes unnecessary files, including temporary files, cache, and logs, from various applications. Privacy Protection – Clears browser history, cookies, and other traces of online activity to enhance security. Secure File Shredding – Permanently deletes files to prevent recovery, ensuring sensitive data stays unrecoverable.  
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 * [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. [![Open-Source Software][oss]](https://github.com/Rem0o/FanControl.Releases) ![star]
