@@ -108,8 +108,10 @@
 
 * [Arc](https://arc.net) - Organizes tabs vertically for improved productivity.
 * [Brave](https://brave.com) - Privacy focused browser with build in adblock. [![oss][oss]](https://github.com/brave/brave-browser)
-* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](/assets/opensource.svg)
+* [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss][]](https://hg.mozilla.org/mozilla-central)
 * [Ladybird](https://ladybird.org/) - Built with a new browser engine from scratch. [![Open-Source Software][oss]](https://github.com/LadybirdBrowser/ladybird)
+* [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](/assets/opensource.svg)
 * [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ![star]
 
 ## Chat Clients
