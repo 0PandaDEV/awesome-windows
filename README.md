@@ -110,6 +110,7 @@
 * [Brave](https://brave.com) - Privacy focused browser with build in adblock. [![oss][oss]](https://github.com/brave/brave-browser)
 * [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss][]](https://hg.mozilla.org/mozilla-central)
 * [Ladybird](https://ladybird.org/) - Built with a new browser engine from scratch. [![Open-Source Software][oss]](https://github.com/LadybirdBrowser/ladybird)
+* [Librewolf] (https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom. [![Open-Source Software][oss]](https://codeberg.org/librewolf/source)
 * [Orion](https://kagi.com/orion/) - Lightweight WebKit browser with Chrome/Firefox extension support.
 * [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
 * [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](/assets/opensource.svg)
