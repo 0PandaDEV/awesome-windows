@@ -392,7 +392,7 @@
 * [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
 * [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys)
 * [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software][oss]](https://github.com/PKRoma/ProcessHacker)
-* [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
+* [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client. [![Open-Source Software][oss]](https://github.com/qbittorrent/qBittorrent)
 * [Rufus](https://rufus.akeo.ie/) - Bootable USB creation utility.
 * [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - Secure file deletion command-line utility.
 * [SpeedCrunch](https://speedcrunch.org/) - Powerful scientific calculator. [![Open-Source Software][oss]](https://bitbucket.org/heldercorreia/speedcrunch/)
