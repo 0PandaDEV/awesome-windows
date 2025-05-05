@@ -109,6 +109,7 @@
 * [Arc](https://arc.net) - Organizes tabs vertically for improved productivity.
 * [Brave](https://brave.com) - Privacy focused browser with build in adblock. [![oss][oss]](https://github.com/brave/brave-browser)
 * [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss][]](https://hg.mozilla.org/mozilla-central)
+* [Floorp](https://floorp.app/) - A Browser built for keeping the Open, Private and Sustainable Web alive. Based on Mozilla Firefox. [![Open-Source Software][oss]](https://github.com/floorp-Projects/floorp/)
 * [Ladybird](https://ladybird.org/) - Built with a new browser engine from scratch. [![Open-Source Software][oss]](https://github.com/LadybirdBrowser/ladybird)
 * [Librewolf](https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom. [![Open-Source Software][oss]](https://codeberg.org/librewolf/source)
 * [Orion](https://kagi.com/orion/) - Lightweight WebKit browser with Chrome/Firefox extension support.
@@ -280,6 +281,7 @@
 ## Networking
 
 * [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
+* [Sniffnet](https://sniffnet.net/) - Network monitoring tool to help you easily keep track of your Internet traffic. [![Open-Source Software][oss]](https://github.com/GyulyVGC/sniffnet)
 * [Wireshark](https://www.wireshark.org/) - Network protocol analyzer. [![Open-Source Software][oss]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
 
 ## Office Suites
@@ -394,6 +396,7 @@
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
 * [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
+* [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
 * [neohtop](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
 * [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys)
