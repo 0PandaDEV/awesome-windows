@@ -191,7 +191,6 @@
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio)
 * [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star]
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](/assets/opensource.svg)
-* [HeidiSQL](https://www.heidisql.com/) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird [![Open-Source Software][oss]](https://github.com/HeidiSQL/HeidiSQL)
 
 ## Developer Utilities
 
