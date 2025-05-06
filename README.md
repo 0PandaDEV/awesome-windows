@@ -272,6 +272,7 @@
 * [PyCharm](https://www.jetbrains.com/pycharm) - Provides scientific tools for Python development. [![Open-Source Software][oss]](https://github.com/JetBrains/intellij-community/tree/master/python)
 * [Rider](https://www.jetbrains.com/rider/) - Debugs Unity games and .NET applications.
 * [RubyMine](https://www.jetbrains.com/ruby/) - Tests and profiles Ruby applications.
+* [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software][oss]](https://github.com/spyder-ide/spyder)
 * [Visual Studio](https://www.visualstudio.com/vs/) - Builds Windows and cloud applications.
 * [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software][oss]](https://github.com/Microsoft/vscode)
 * [WebStorm](https://www.jetbrains.com/webstorm/) - Debugs client-side and Node.js applications.
