@@ -16,10 +16,14 @@
 >
 > [discord](https://discord.gg/invite/Y7SbYphVw9) - [pandadev.net](https://pandadev.net)
 
-###### Check out my apps
+###### Check out my projects
 
 <table>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/0pandadev/ziit"><img src="https://github.com/user-attachments/assets/c0e9b5f4-a79c-49ae-96e1-d70b4ad90bab" width="14px"/> Ziit</a></td>
+      <td>The Swiss army knife of code time tracking.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/0pandadev/qopy"><img src="https://github.com/user-attachments/assets/1a3c210d-ee6e-4e4e-8d5d-b0a05211a254" width="14px"/> Qopy</a></td>
       <td>The fixed clipboard manager for Windows, macOS & Linux.</td>
