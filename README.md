@@ -10,7 +10,7 @@
 >
 > **Star this list**, So you don't miss out on the latest apps \~ ⭐️
 >
-> Maintaining this project reqires a lot of time.<br>
+> Maintaining this project requires a lot of time.<br>
 >
 > [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pandadev_)
 >
