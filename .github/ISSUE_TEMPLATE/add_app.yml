@@ -40,9 +40,9 @@ body:
         - Audio
         - Backup
         - Browsers
-        - Chat Clients
         - Cloud Storage
         - Command Line Tools
+        - Communication
         - Compression
         - Customization
         - Data Recovery
@@ -65,7 +65,7 @@ body:
         - Terminal
         - Text Editors
         - Version Control
-        - Video
+        - Video Utilities
         - Virtualization
         - Window Management
         - Other (please specify in description)
