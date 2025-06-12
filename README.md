@@ -10,10 +10,6 @@
 >
 > **Star this list**, So you don't miss out on the latest apps \~ ⭐️
 >
-> Maintaining this project requires a lot of time.<br>
->
-> [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pandadev_)
->
 > [discord](https://discord.gg/invite/Y7SbYphVw9) - [pandadev.net](https://pandadev.net)
 
 ###### Check out my projects
