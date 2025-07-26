@@ -392,7 +392,7 @@
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo)
-* [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. [![Open-Source Software][oss]](https://github.com/Rem0o/FanControl.Releases) ![star]
+* [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
 * [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master)
 * [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
