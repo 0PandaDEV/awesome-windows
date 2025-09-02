@@ -336,6 +336,7 @@
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![star]
 * [Tailscale](https://tailscale.com/) - Zero config VPN for building secure networks. ![star]
 * [Twingate](https://www.twingate.com/) - Modern zero trust network access solution.
+* [Windscribe](https://windscribe.com/) - VPN service that's fast, reliable, & effective.
 * [WireGuard](https://www.wireguard.com/) - Fast, modern, and secure VPN tunnel.
 
 ## Remote Access
