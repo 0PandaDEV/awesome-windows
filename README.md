@@ -373,7 +373,7 @@
 * [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
 * [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 * [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
-* [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software]][oss](https://github.com/ente-io/ente)
+* [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
 * [GlassWire](https://www.glasswire.com/) - Network security monitoring and visualization tool.
 * [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - Windows encryption protocol configuration utility.
 * [Malwarebytes](https://www.malwarebytes.org/) - Advanced threat protection and removal.
