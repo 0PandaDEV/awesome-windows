@@ -245,6 +245,7 @@
 * [Aseprite](https://www.aseprite.org/) - Professional pixel art and animation tool. [![Open-Source Software][oss]](https://github.com/aseprite/aseprite)
 * [Aspect](https://aspect.bildhuus.com/) - Photo organizer with peer-to-peer synchronization.
 * [Blender](https://www.blender.org/) - Professional 3D creation suite. [![Open-Source Software][oss]](https://developer.blender.org/)
+* [Ente Photos](https://ente.io/) - Store and share your photos with absolute privacy. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
 * [Figma](https://www.figma.com/) - Collaborative interface design tool.
 * [GIMP](https://www.gimp.org/) - Feature-rich image editor. [![Open-Source Software][oss]](https://www.gimp.org/source/)
 * [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][oss]](https://gitlab.com/inkscape/inkscape)
@@ -372,6 +373,7 @@
 * [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
 * [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 * [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
+* [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
 * [GlassWire](https://www.glasswire.com/) - Network security monitoring and visualization tool.
 * [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - Windows encryption protocol configuration utility.
 * [Malwarebytes](https://www.malwarebytes.org/) - Advanced threat protection and removal.
