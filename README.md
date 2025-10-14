@@ -319,6 +319,7 @@
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
+* [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
 * [STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg) ![star]
