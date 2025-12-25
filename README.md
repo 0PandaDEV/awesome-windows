@@ -88,6 +88,7 @@
 * [AudioNodes](https://audionodes.com/) - Produces music with mixing, effects, MIDI and synthesis.
 * [Cider](https://cider.sh/) - Streams Apple Music. ![paid]
 * [Dopamine](https://digimezzo.github.io/site/) - Plays and organizes music. [![Open-Source Software][oss]](https://github.com/digimezzo/dopamine)
+* [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software][oss]](https://github.com/dechamps/FlexASIO)
 * [Foobar2000](https://www.foobar2000.org/) - Plays audio with customization options.
 * [Mixxx](https://mixxx.org/) - Mixes music for DJs. [![Open-Source Software][oss]](https://github.com/mixxxdj/mixxx)
 * [Mp3tag](https://www.mp3tag.de/en/) - Edits music metadata and tags.
