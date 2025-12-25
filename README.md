@@ -17,6 +17,10 @@
 <table>
   <tbody>
     <tr>
+      <td><a href="https://github.com/vleerapp/vleer"><img src="https://vleer.app/logo.png" width="14px"/> Vleer</a></td>
+      <td>Music, but without the subscription.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/0pandadev/ziit"><img src="https://github.com/user-attachments/assets/c0e9b5f4-a79c-49ae-96e1-d70b4ad90bab" width="14px"/> Ziit</a></td>
       <td>The Swiss army knife of code time tracking.</td>
     </tr>
