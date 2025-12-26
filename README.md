@@ -434,6 +434,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/terminus)
+* [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
 * [Warp](https://www.warp.dev/) - AI-powered terminal with IDE-like features and team collaboration.
 * [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated terminal emulator and multiplexer. [![Open-Source Software][oss]](https://github.com/wez/wezterm)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Official Microsoft terminal. [![Open-Source Software][oss]](https://github.com/microsoft/terminal)
