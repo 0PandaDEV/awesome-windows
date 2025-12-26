@@ -193,6 +193,7 @@
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio)
 * [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star]
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](/assets/opensource.svg)
+* [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software][oss]](https://github.com/pgadmin-org/pgadmin4)
 
 ## Developer Utilities
 
@@ -277,6 +278,7 @@
 * [PyCharm](https://www.jetbrains.com/pycharm) - Provides scientific tools for Python development. [![Open-Source Software][oss]](https://github.com/JetBrains/intellij-community/tree/master/python)
 * [Rider](https://www.jetbrains.com/rider/) - Debugs Unity games and .NET applications.
 * [RubyMine](https://www.jetbrains.com/ruby/) - Tests and profiles Ruby applications.
+* [Rust Rover](https://www.jetbrains.com/rust/) - A powerful IDE for Rust development.
 * [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software][oss]](https://github.com/spyder-ide/spyder)
 * [Visual Studio](https://www.visualstudio.com/vs/) - Builds Windows and cloud applications.
 * [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software][oss]](https://github.com/Microsoft/vscode)
@@ -287,6 +289,7 @@
 ## Networking
 
 * [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
+* [Nmap](https://nmap.org/) - A free, open-source network scanner used for discovering hosts, services, and vulnerabilities on computer networks through advanced port scanning and OS detection techniques. [![Open-Source Software][oss]](https://github.com/nmap/nmap)
 * [Sniffnet](https://sniffnet.net/) - Network monitoring tool to help you easily keep track of your Internet traffic. [![Open-Source Software][oss]](https://github.com/GyulyVGC/sniffnet)
 * [Wireshark](https://www.wireshark.org/) - Network protocol analyzer. [![Open-Source Software][oss]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
 
@@ -438,6 +441,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Terminus](https://eugeny.github.io/terminus/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/terminus)
+* [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
 * [Warp](https://www.warp.dev/) - AI-powered terminal with IDE-like features and team collaboration.
 * [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated terminal emulator and multiplexer. [![Open-Source Software][oss]](https://github.com/wez/wezterm)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701) - Official Microsoft terminal. [![Open-Source Software][oss]](https://github.com/microsoft/terminal)
@@ -486,6 +490,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop.
 * [Vagrant](https://www.vagrantup.com/) - Tool for building and managing virtual machines. [![Open-Source Software][oss]](https://github.com/mitchellh/vagrant)
 * [VirtualBox](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines. [![Open-Source Software][oss]](https://www.virtualbox.org/browser/vbox/trunk)
+* [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - The leading local virtualization platform for building, testing and demoing software using virtual machines. ![star]
 
 ## Window Management
 
