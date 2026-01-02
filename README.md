@@ -185,7 +185,7 @@
 * [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media.
 * [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities.
 * [PartitionGuru ｜ Eassos Recovery](https://www.eassos.com/) - Specialized recovery tool for partitions and file systems. ![paid]
-* [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair.
+* [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair. ![Open-Source Software][oss]
 
 ## Databases Clients
 
