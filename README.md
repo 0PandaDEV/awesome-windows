@@ -380,8 +380,10 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## Security
 
+
 * [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Removal tool for adware, PUP/LPI, toolbars and hijackers.
 * [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
+* [cppcryptfs](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows  
 * [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 * [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
 * [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
