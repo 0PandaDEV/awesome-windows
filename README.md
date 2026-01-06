@@ -268,25 +268,15 @@
 ## IDEs
 
 * [Android Studio](https://developer.android.com/studio/index.html) - Develops and tests Android applications. [![Open-Source Software][oss]](https://sites.google.com/a/android.com/tools/)
-* [CLion](https://www.jetbrains.com/clion/) - Debugs and profiles C/C++ code with memory analysis.
 * [Cursor](https://www.cursor.com/) - AI-powered code editor with codebase understanding and natural language editing. ![star]
-* [DataGrip](https://www.jetbrains.com/datagrip/) - Manages multiple databases with query optimization.
-* [DataSpell](https://www.jetbrains.com/dataspell/) - Handles Jupyter notebooks and data visualization.
 * [Eclipse](https://eclipse.org/downloads/) - Supports plugin-based development workflows. [![Open-Source Software][oss]](https://git.eclipse.org/c/)
-* [GoLand](https://www.jetbrains.com/go/) - Specializes in Go debugging and testing.
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Focuses on Java enterprise development. [![Open-Source Software][oss]](https://github.com/JetBrains/intellij-community)
+* [JetBrains IDEs](https://www.jetbrains.com/ides/#choose-your-ide) - Professional suite of developer tools (CLion, DataGrip, DataSpell, GoLand, IntelliJ IDEA, PhpStorm, PyCharm, Rider, RubyMine, Rust Rover, WebStorm).
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Controls JetBrains IDE installations and updates.
 * [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software][oss]](https://netbeans.org/community/sources/)
 * [PearAI](https://trypear.ai/) - Open source AI code editor with curated integrations of multiple AI tools. [![Open-Source Software][oss]](https://github.com/peardocs/pearai) ![star]
-* [PhpStorm](https://www.jetbrains.com/phpstorm/) - Integrates PHP frameworks and debugging tools.
-* [PyCharm](https://www.jetbrains.com/pycharm) - Provides scientific tools for Python development. [![Open-Source Software][oss]](https://github.com/JetBrains/intellij-community/tree/master/python)
-* [Rider](https://www.jetbrains.com/rider/) - Debugs Unity games and .NET applications.
-* [RubyMine](https://www.jetbrains.com/ruby/) - Tests and profiles Ruby applications.
-* [Rust Rover](https://www.jetbrains.com/rust/) - A powerful IDE for Rust development.
 * [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software][oss]](https://github.com/spyder-ide/spyder)
 * [Visual Studio](https://www.visualstudio.com/vs/) - Builds Windows and cloud applications.
 * [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software][oss]](https://github.com/Microsoft/vscode)
-* [WebStorm](https://www.jetbrains.com/webstorm/) - Debugs client-side and Node.js applications.
 * [Windsurf](https://codeium.com/windsurf) - Agentic IDE with AI flows, multi-file editing and deep contextual awareness.
 * [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software][oss]](https://github.com/zed-industries/zed)
 
