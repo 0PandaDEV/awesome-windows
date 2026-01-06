@@ -241,6 +241,7 @@
 * [Gale](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](/assets/opensource.svg)
 * [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot)
 * [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
+* [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra)
 * [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch)
 * [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
 * [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
