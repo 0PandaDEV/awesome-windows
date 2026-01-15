@@ -347,6 +347,7 @@
 * [Saga Reader](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 * [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
+* [ZenTrack](https://github.com/Priyans00/ZenTrack) - A local-first desktop productivity application built with Tauri and SQLite without cloud dependencies.An optional on-device AI assistant is available via local models, with full offline support. [![Open-Source Software][oss]](https://github.com/Priyans00/ZenTrack)
 
 ## Proxy and VPN Tools
 
