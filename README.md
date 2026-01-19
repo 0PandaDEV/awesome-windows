@@ -176,6 +176,7 @@
 * [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 * [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
+* [Shell](https://nilesoft.org) - Powerful, free, open source context menu manager ![oss]
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose)
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](/assets/opensource.svg)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
