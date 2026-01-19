@@ -172,6 +172,7 @@
 ## Customization
 
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Modifies Windows taskbar behavior.
+* [Bing Wallpaper](https://www.bing.com/apps/wallpaper) - Alternative to Windows Spotlight also from Microsoft with higher quality images and option to select specific categories of images.
 * [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](/assets/opensource.svg)
 * [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
