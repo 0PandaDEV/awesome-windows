@@ -455,6 +455,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
+* [ShellLeap](https://shareefsakk2.github.io/shellleap/) - Secure cross-platform SSH & SFTP client with AES-256-GCM vault.[![Open-Source Software][oss]](https://github.com/shareefsakk2/shellleap)
 * [Terminus](https://eugeny.github.io/terminus/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/terminus)
 * [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
 * [Warp](https://www.warp.dev/) - AI-powered terminal with IDE-like features and team collaboration.
