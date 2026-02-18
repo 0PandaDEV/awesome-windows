@@ -444,6 +444,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid]
 * [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
 * [WizTree](https://wiztree.en.lo4d.com/) - Fast disk space analyzer.
+* [WSL UI](https://wsl-ui.octasoft.co.uk/) - A lightweight desktop application for managing WSL distributions. [![Open-Source Software][oss]](https://github.com/octasoft-ltd/wsl-ui)
 
 ## Terminal
 
