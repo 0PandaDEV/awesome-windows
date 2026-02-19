@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>
+> Vibecoded slop and tools that dont fall in the category of "awesome" are not welcomed on this list.
+
 # Contributing Guidelines
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md). By participating in this project, you agree to abide by its terms.
