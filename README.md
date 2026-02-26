@@ -384,6 +384,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Greenshot](https://github.com/greenshot/greenshot) - Screenshot capture and editing tool. ![Open-Source Software](/assets/opensource.svg)
 * [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
 * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio)
+* [Screenpipe](https://screenpi.pe/) - 24/7 local screen and audio recording with AI-powered search. Find anything you've seen, said, or heard. [![Open-Source Software][oss]](https://github.com/screenpipe/screenpipe)
 * [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Built-in Windows screenshot utility.
 * [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - Screen zoom and annotation tool for presentations.
 
