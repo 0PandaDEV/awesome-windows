@@ -417,7 +417,9 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## System Utilities
 
+
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
+* [Aperture](https://github.com/stylebending/Aperture/releases) - Aperture is a diagnostics tui for Windows power users. Key features include: find which processes are locking specific files or scan a folder for locked files, process and service management, network monitoring, search and filter functionality, context aware Vim key bindings with sidebar explanation.  
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher)
 * [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit)
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
