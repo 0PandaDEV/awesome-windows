@@ -393,6 +393,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot)
 * [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
 * [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
+* [Mist](https://getmist.app) - Free macOS-style screenshot and screen recording tool with instant cloud sharing for Windows.
 * [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX)
 
 ## Security
