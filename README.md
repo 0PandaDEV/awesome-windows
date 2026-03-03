@@ -342,7 +342,7 @@
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
 * [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
-* [PeakFlow](https://getpeakflow.pro) - Tray-resident productivity suite with screen dimming, clipboard manager, volume mixer, and meeting alerts. [![Open-Source Software][oss]](https://github.com/inchwormz/peakflow-electron)
+* [PeakFlow](https://getpeakflow.pro) - Seven productivity tools with screen dimming, clipboard manager, volume mixer, and meeting alerts. [![Open-Source Software][oss]](https://github.com/inchwormz/peakflow-electron)
 * [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
 * [STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg)
 * [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
