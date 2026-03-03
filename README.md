@@ -6,9 +6,13 @@
 ![oss] - Open source<br>
 ![paid] - Paid
 
-> \[!IMPORTANT]
+> [!CAUTION]
 >
-> **Star this list**, So you don't miss out on the latest apps \~ ⭐️
+> Vibecoded slop and tools that don't fall in the category of "awesome" are not welcomed on this list and PR's will be rejected.
+
+> \[!NOTE]
+>
+> **Star this list**, So you don't miss out on the latest apps & tools.
 >
 > [discord](https://discord.gg/invite/Y7SbYphVw9) - [pandadev.net](https://pandadev.net)
 
