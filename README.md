@@ -14,7 +14,7 @@
 >
 > **Star this list**, So you don't miss out on the latest apps & tools.
 >
-> [discord](https://discord.gg/invite/Y7SbYphVw9) - [pandadev.net](https://pandadev.net)
+> [discord](https://discord.gg/invite/PEX37vvWyU) - [pandadev.net](https://pandadev.net)
 
 ###### Check out my projects
 
