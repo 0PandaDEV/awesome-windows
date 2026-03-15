@@ -218,6 +218,7 @@
 * [BlueMail](https://www.bluemail.me/desktop/) - Cross-platform email client with modern interface.
 * [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support.
 * [Mailspring](https://getmailspring.com/) - Modern email client built on web technologies. [![Open-Source Software][oss]](https://github.com/Foundry376/Mailspring) ![star]
+* [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, video meetings, and team chat. Built on JMAP protocol.
 * [Postbox](https://postbox-inc.com/) - Advanced email management application.
 * [ProtonMail](https://proton.me/mail) - Encrypted email service with end-to-end encryption. [![Open-Source Software][oss]](https://github.com/ProtonMail) ![star]
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software][oss]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)
