@@ -372,6 +372,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 * [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 * [Cloudflare WARP](https://1.1.1.1) - Fast, free VPN and DNS.
+* [Mullvad VPN](https://mullvad.net) - No-logs Sweden VPN service.
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![star]
 * [Tailscale](https://tailscale.com/) - Zero config VPN for building secure networks. ![star]
 * [Twingate](https://www.twingate.com/) - Modern zero trust network access solution.
