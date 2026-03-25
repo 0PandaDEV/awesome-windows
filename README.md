@@ -230,7 +230,6 @@ More information in CLAUDE.md and llms.txt.
 * [Postbox](https://postbox-inc.com/) - Advanced email management application.
 * [ProtonMail](https://proton.me/mail) - Encrypted email service with end-to-end encryption. [![Open-Source Software][oss]](https://github.com/ProtonMail) ![star]
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software][oss]](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)
-* [Tuta Mail](https://tuta.com/) - Post-quantum encrypted email service with end-to-end encryption. [![Open-Source Software][oss]](https://github.com/tutao/tutanota)
 * [Wino Mail](https://winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software][oss]](https://github.com/bkaankose/Wino-Mail)
 
 ## File Management
