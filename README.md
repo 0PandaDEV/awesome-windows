@@ -136,6 +136,7 @@ More information in CLAUDE.md and llms.txt.
 ## Cloud Storage
 
 * [Dropbox](https://www.dropbox.com/) - Syncs files across devices with version history.
+* [Filen](https://filen.io/) - Provides zero-knowledge, client side-encrypted cloud storage.
 * [Google Drive](https://www.google.com/drive//) - Enables real-time collaboration on Google Docs, Sheets and Slides.
 * [Mega](https://mega.nz/) - Encrypts files before they leave your device.
 * [Nextcloud](https://nextcloud.com/) - Lets you host your own cloud storage and communication server. [![Open-Source Software][oss]](https://github.com/nextcloud)
