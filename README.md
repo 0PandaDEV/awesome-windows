@@ -445,6 +445,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
 * [HardwareExporterWindows](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
+* [HardwareVisualizer](https://hardviz.com) - A cross-platform hardware monitor with persistent historical data, a customizable dashboard, and flexible graph themes. [![Open-Source Software][oss]](https://github.com/shm11C3/HardwareVisualizer)
 * [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master)
 * [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
