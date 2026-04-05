@@ -221,6 +221,7 @@ More information in CLAUDE.md and llms.txt.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
 * [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
 * [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
+* [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) - Real-time Claude Code token usage monitor in the system tray. Shows per-session token counts, costs, context window usage, and tool call breakdowns with 5h/1w rate-limit bars. [![Open-Source Software][oss]](https://github.com/jeongwookie/WhereMyTokens)
 * [Xampp](https://www.apachefriends.org/index.html) - Bundles Apache, MariaDB, PHP and Perl for local development.
 
 ## Email
