@@ -246,6 +246,7 @@ More information in CLAUDE.md and llms.txt.
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
 * [One Commander](https://onecommander.com/) - Modern file manager with miller columns.
 * [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive)
+* [SPAN Finder](https://github.com/LumiBearStudio/SpanFinder) - macOS Finder-style file manager with miller columns, multi-tab, and file preview. [![Open-Source Software][oss]](https://github.com/LumiBearStudio/SpanFinder)
 * [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
 * [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid]
