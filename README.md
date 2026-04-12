@@ -193,6 +193,7 @@ More information in CLAUDE.md and llms.txt.
 * [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
 * [Shell](https://nilesoft.org) - Powerful, free, open source context menu manager ![oss]
 * [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - A live wallpaper app, a free and opensource alternative to Wallpaper Engine. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose)
+* [Themia](https://themia.app) - Displays transparent, customizable widgets on your desktop.
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](/assets/opensource.svg)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
 * [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk)
