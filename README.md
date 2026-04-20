@@ -286,6 +286,7 @@ More information in CLAUDE.md and llms.txt.
 * [Oculante](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Paint.NET](https://www.getpaint.net/index.html) - Feature-rich image editing tool.
 * [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
+* [WobblePic](https://wobblepic.com) - Free desktop image viewer with unique soft-body physics that makes images wobble like rubber.
 
 ## IDEs
 
