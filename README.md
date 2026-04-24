@@ -117,6 +117,7 @@ More information in CLAUDE.md and llms.txt.
 * [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube)
 * [Nora](https://noramusic.netlify.app/) - Plays and manages music. [![Open-Source Software][oss]](https://github.com/Sandakan/Nora)
 * [Tenacity](https://tenacityaudio.org/) - A variant of Audacity without telemetry. [![Open-Source Software][oss]](https://codeberg.org/tenacityteam/tenacity)
+* [Vibes](https://vibesdj.io/) - Organizes DJ libraries by mood, energy, and technique. Exports prepped crates to Rekordbox, Serato DJ, Engine DJ, and Lexicon DJ. ![paid]
 
 ## Backup
 
