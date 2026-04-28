@@ -525,6 +525,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
 * [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software][oss]](https://github.com/videolan/vlc)
 
+* [Remove Audio](https://remove-audio.com) - Browser-based tool to strip audio from video files. Powered by WebAssembly + FFmpeg.wasm — no uploads, runs locally in the browser.
 ## Virtualization
 
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Containerization for Desktop, built on top of WSL2.
