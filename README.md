@@ -451,6 +451,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [HTTrack](https://www.httrack.com/) - Offline website browser and mirror utility. [![Open-Source Software][oss]](https://github.com/xroche/httrack/tree/master)
 * [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 * [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
+* [InstallerClean](https://github.com/no-faff/InstallerClean) - Modern open-source replacement for PatchCleaner. Safely cleans up C:\Windows\Installer, the hidden folder that accumulates orphaned MSI/MSP files Disk Cleanup doesn't touch. [![Open-Source Software][oss]](https://github.com/no-faff/InstallerClean)
 * [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 * [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
