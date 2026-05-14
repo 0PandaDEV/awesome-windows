@@ -69,6 +69,7 @@ More information in CLAUDE.md and llms.txt.
 * [Office Suites](#office-suites)
 * [Password Managers](#password-managers)
 * [Productivity](#productivity)
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
 * [Proxy and VPN Tools](#proxy-and-vpn-tools)
 * [Remote Access](#remote-access)
 * [Screen Capture](#screen-capture)
