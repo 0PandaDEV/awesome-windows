@@ -360,6 +360,7 @@ More information in CLAUDE.md and llms.txt.
 * [Kaas](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](/assets/opensource.svg)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
+* [Macropod](https://networkfixit.com/products/macropod) - Macro studio for keyboard, mouse, joystick, and HOTAS with vJoy output. ![paid]
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
 * [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
