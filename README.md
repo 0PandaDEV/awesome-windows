@@ -369,6 +369,7 @@ More information in CLAUDE.md and llms.txt.
 * [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
 * [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
 * [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win)
+* [voice2ai](https://github.com/lfzds4399-cpu/voice2ai) - Push-to-talk or VAD-continuous dictation. Transcript auto-pastes into the focused chat app (VS Code / Cursor / WeChat / browsers). 4 cloud STT backends (Groq / OpenAI / SiliconFlow / Azure). MIT. [![Open-Source Software][oss]](https://github.com/lfzds4399-cpu/voice2ai)
 * [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 * [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
