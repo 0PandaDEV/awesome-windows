@@ -440,6 +440,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## System Utilities
 
+* [NeoShell](https://github.com/rud1x/NeoShell) - Control your PC from your phone via Wi-Fi. Lock, sleep, shutdown, run apps, and more from a clean web interface.
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher)
 * [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit)
