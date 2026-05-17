@@ -364,6 +364,7 @@ More information in CLAUDE.md and llms.txt.
 * [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
+* [SmoothScroll](https://github.com/quangtruong2003/SmoothScroll) - Free, open-source smooth mouse-wheel scrolling for Windows 10/11. Native low-level input hook, frame-perfect easing, per-app exclusion. [![Open-Source Software][oss]](https://github.com/quangtruong2003/SmoothScroll)
 * [STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg)
 * [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
 * [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
