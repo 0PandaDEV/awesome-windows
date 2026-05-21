@@ -156,6 +156,7 @@ More information in CLAUDE.md and llms.txt.
 * [gitty](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](/assets/opensource.svg)
 * [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo)
 * [Scoop](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](/assets/opensource.svg)
+* [winfetch](https://github.com/lptstr/winfetch) - Command-line system information utility written in PowerShell. [![Open-Source Software][oss]](https://github.com/lptstr/winfetch)
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](/assets/opensource.svg)
 
