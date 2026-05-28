@@ -249,6 +249,7 @@ More information in CLAUDE.md and llms.txt.
 * [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss]](https://download.filezilla-project.org/client/)
 * [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
+* [FTPie](https://ftpie.com) - FTP, SFTP, WebDAV, NAS, and major consumer clouds in one client. ![paid]
 * [One Commander](https://onecommander.com/) - Modern file manager with miller columns.
 * [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive)
 * [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
