@@ -473,6 +473,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid]
 * [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
 * [WizTree](https://wiztree.en.lo4d.com/) - Fast disk space analyzer.
+* [AxisCLI](https://github.com/luix221/AxisCLI) - Lightweight Windows diagnostic and utility shell.
 
 ## Terminal
 
