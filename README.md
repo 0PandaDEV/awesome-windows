@@ -443,6 +443,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 ## System Utilities
 
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
+* [AxisCLI](https://github.com/luix221/AxisCLI) - AxisCLI – A lightweight, power-user diagnostic shell for Windows featuring advanced process management, hardware monitoring, and network utilities in a single, zero-dependency binary.
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher)
 * [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit)
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
@@ -473,7 +474,6 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid]
 * [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
 * [WizTree](https://wiztree.en.lo4d.com/) - Fast disk space analyzer.
-* [AxisCLI](https://github.com/luix221/AxisCLI) - Lightweight Windows diagnostic and utility shell.
 
 ## Terminal
 
