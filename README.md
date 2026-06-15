@@ -312,6 +312,9 @@ More information in CLAUDE.md and llms.txt.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
 * [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
 * [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software][oss]](https://github.com/ollama/ollama)
+* [Vakh](https://github.com/arbharadwaj/Vakh) — 
+  Local AI Based speech-to-text that types into any Windows app. 
+  Offline, privacy-first, powered by Whisper AI. Free & Open Source.
 
 ## Networking
 
@@ -379,6 +382,7 @@ More information in CLAUDE.md and llms.txt.
 * [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 * [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us&gl=JO&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
+* [Vakh](https://github.com/arbharadwaj/Vakh) — Local speech-to-text that types into any Windows app. Offline, privacy-first, powered by Whisper AI. Free & Open Source.
 
 ## Proxy and VPN Tools
 
