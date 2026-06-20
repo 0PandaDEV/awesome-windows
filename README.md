@@ -336,6 +336,7 @@ More information in CLAUDE.md and llms.txt.
 * [FreeOffice](https://www.freeoffice.com/en/) - Reads and writes Microsoft Office file formats with high compatibility.
 * [LibreOffice](https://www.libreoffice.org/) - Handles complex document formatting and supports extensive file formats. [![Open-Source Software][oss]](https://www.libreoffice.org/about-us/source-code/) ![star]
 * [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
+* [Ncored](https://ncored.com/?utm_source=github&utm_medium=awesome-windows) - Fast PDF editor for large CAD and construction drawings, with markup, annotation, page management, and full-text search.
 * [NitroPDF](https://www.gonitro.com/pdf-reader) - Converts and edits PDFs with OCR capabilities.
 * [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software][oss]](https://github.com/ONLYOFFICE/DesktopEditors)
 * [OpenOffice](https://www.openoffice.org/) - Focuses on stability and legacy format support. [![Open-Source Software][oss]](https://openoffice.apache.org/source.html)
