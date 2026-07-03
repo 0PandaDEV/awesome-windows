@@ -131,6 +131,7 @@ More information in CLAUDE.md and llms.txt.
 * [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss][]](https://hg.mozilla.org/mozilla-central)
 * [Helium](https://helium.computer/) - Browser based on Ungoogled Chromium with privacy, split-view, bangs and built-in ad-blocker. [![Open-Source Software][oss]](https://github.com/imputnet/helium/)
 * [Librewolf](https://librewolf.net) - A custom version of Firefox, focused on privacy, security and freedom. [![Open-Source Software][oss]](https://codeberg.org/librewolf/source)
+* [Snipe](https://browser.snipeoffice.org/) - De-Googled Chromium browser with zero telemetry, uBlock Origin and Flash/Ruffle built in, running on Windows XP through 11. [![Open-Source Software][oss]](https://github.com/steve12345585/snipe-x64-base)
 * [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
 * [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](/assets/opensource.svg)
 * [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ![star]
