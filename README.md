@@ -137,6 +137,7 @@ More information in CLAUDE.md and llms.txt.
 * [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ![star]
 
 ## CAD
+
 * [FreeCAD](https://www.freecad.org) - FreeCAD offers tools to produce, export and edit solid, full-precision models, export them for 3D printing or CNC machining
 
 ## Cloud Storage
