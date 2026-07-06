@@ -49,6 +49,7 @@ More information in CLAUDE.md and llms.txt.
 * [Application Launchers](#application-launchers)
 * [Audio](#audio)
 * [Backup](#backup)
+* [CAD](#cad)
 * [Browsers](#browsers)
 * [Cloud Storage](#cloud-storage)
 * [Command Line Tools](#command-line-tools)
@@ -134,6 +135,10 @@ More information in CLAUDE.md and llms.txt.
 * [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
 * [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Removes Google integration and tracking. ![Open-Source Software](/assets/opensource.svg)
 * [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ![star]
+
+## CAD
+
+* [FreeCAD](https://www.freecad.org) - FreeCAD offers tools to produce, export and edit solid, full-precision models, export them for 3D printing or CNC machining
 
 ## Cloud Storage
 
