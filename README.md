@@ -508,6 +508,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Lightweight Notepad replacement with enhanced features. ![Open-Source Software](/assets/opensource.svg)
 * [Sublime Text](https://www.sublimetext.com/3) - Advanced text editor with extensive plugin ecosystem.
 * [Text Forge](https://text-forge.github.io/docs) - Lighweight, hackable, and highly modular text & code editor. ![Open-Source Software](/assets/opensource.svg)
+* [Tinta](https://tinta.cc/) - Fast, lightweight Markdown viewer using Direct2D instead of Electron. [![Open-Source Software][oss]](https://github.com/oipoistar/tinta)
 
 ## Version Control
 
