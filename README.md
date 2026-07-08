@@ -231,6 +231,7 @@ More information in CLAUDE.md and llms.txt.
 * [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
+* [Orbital](https://github.com/zqiren/Orbital) - Local-first desktop agent runtime that keeps its memory in a plain-markdown folder and dispatches Claude Code and Codex as sub-agents with approvals, budgets, and an OS-sandboxed built-in shell. [![Open-Source Software][oss]](https://github.com/zqiren/Orbital)
 * [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
 * [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
 * [Xampp](https://www.apachefriends.org/index.html) - Bundles Apache, MariaDB, PHP and Perl for local development.
