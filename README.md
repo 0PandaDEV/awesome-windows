@@ -482,6 +482,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## Terminal
 
+* [AbsoluteTelnet/SSH](https://www.celestialsoftware.net/absolutetelnet/) - Premium Windows SSH, SFTP, Telnet, and serial terminal client with tabbed sessions, smart-card authentication, SSH certificates, and Unicode support. ![paid](/assets/paid.svg)
 * [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator. ![Open-Source Software](/assets/opensource.svg)
 * [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software][oss]](https://github.com/cmderdev/cmder)
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
