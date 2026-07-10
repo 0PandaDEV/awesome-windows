@@ -327,6 +327,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Note-taking
 
+* [AI Notebook](https://github.com/lukoplt/AI-notebook) - Offline NotebookLM alternative: chat with your own documents (PDF, Office, web) and get answers with citations, running locally via Ollama. [![Open-Source Software][oss]](https://github.com/lukoplt/AI-notebook)
 * [Anytype](https://anytype.io) - A privacy focused offline encrypted Notion alternative with P2P syncing on local networks. [![Open-Source Software][oss]](https://github.com/anyproto)
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 * [Joplin](https://joplinapp.org/) - Open-source note-taking app with Markdown support, cross-device sync and encryption. [![Open-Source Software][oss]](https://github.com/laurent22/joplin)
