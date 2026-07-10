@@ -228,6 +228,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Developer Utilities
 
+* [Agent Island](https://agent-island.dev) - Shows live Claude Code and Codex session status in a native top bar or floating widget, with turn alarms, quota tracking and auto-resume when limits reset.
 * [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
