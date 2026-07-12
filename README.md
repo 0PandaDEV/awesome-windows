@@ -487,6 +487,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
 * [FluentTerminal](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
 * [Kitty](https://www.9bis.net/kitty/) - Enhanced PuTTY with additional features.
+* [KKTerm](https://github.com/ryantsai/KKTerm) - Windows-first terminal workspace for SSH, SFTP, RDP/VNC, and dashboard widgets. [![Open-Source Software][oss]](https://github.com/ryantsai/KKTerm)
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
 * [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
