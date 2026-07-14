@@ -333,6 +333,7 @@ More information in CLAUDE.md and llms.txt.
 * [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software][oss]](https://github.com/logseq/logseq)
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 * [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
+* [Lattics](https://lattics.com/) - A very powerful non-linear and visualized rich text editor for card notes, long form writing and deep research
 * [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
 * [Standard Notes](https://standardnotes.com/) - A free, secure note-taking app with powerful end-to-end encryption, unparalleled privacy features, and seamless cross-platform syncing on unlimited devices from the creators of ProtonVPN.
 
