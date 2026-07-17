@@ -513,6 +513,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 * [DevHub](https://devhubapp.com/) - GitHub notifications on your desktop as a tray app. [![Open-Source Software][oss]](https://github.com/devhubapp/devhub)
 * [Fork](https://git-fork.com/) - Fast and friendly Git client for Windows and Mac.
+* [GitBench](https://gitbench.builtbyzee.com/) - Native, GPU-accelerated Git client for managing many repositories at once with a visual commit graph and inline diffs. [![Open-Source Software][oss]](https://github.com/Zeejfps/GitBench)
 * [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions)
 * [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop)
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client with intuitive interface.
