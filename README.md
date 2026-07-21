@@ -49,8 +49,8 @@ More information in CLAUDE.md and llms.txt.
 * [Application Launchers](#application-launchers)
 * [Audio](#audio)
 * [Backup](#backup)
-* [CAD](#cad)
 * [Browsers](#browsers)
+* [CAD](#cad)
 * [Cloud Storage](#cloud-storage)
 * [Command Line Tools](#command-line-tools)
 * [Communication](#communication)
@@ -86,23 +86,23 @@ More information in CLAUDE.md and llms.txt.
 ## API Development
 
 * [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software][oss]](https://github.com/usebruno/bruno) ![star]
-* [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software][oss]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software][oss]](https://github.com/httptoolkit)
+* [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software][oss]](https://github.com/hoppscotch/hoppscotch)
 * [Insomnia](https://insomnia.rest) - Tests APIs with GraphQL support. ![Open-Source Software](/assets/opensource.svg)
 * [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
 * [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software][oss]](https://github.com/mountain-loop/yaak)
 
 ## Application Launchers
-
+  
 * [Flow Launcher](https://flowlauncher.com/) - Searches files and launches apps with plugin extensibility. [![Open-Source Software][oss]](https://github.com/Flow-Launcher/Flow.Launcher) ![star]
 * [Keypirinha](https://keypirinha.com/) - Launches apps through fuzzy search and keyboard shortcuts.
-* [kunkun](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss]
 * [Listary](https://www.listary.com/) - Searches files with advanced filters and indexing.
 * [Raycast](https://www.raycast.com/) - A highly extensible, keyboard-driven productivity launcher and command palette designed for efficiency  
-* [ueli](https://ueli.app/#/) - Powerful keystroke launcher. [![Open-Source Software][oss]](https://github.com/oliverschwendener/ueli)
-* [Wox](http://wox-launcher.github.io/Wox/) - Launches apps with web search integration. [![Open-Source Software][oss]](https://github.com/Wox-launcher/Wox/)
 * [Velocmd](https://yashvardhang.github.io/Velocmd/) - A lightning fast, native system launcher. Search files, run commands, and navigate your system seamlessly. [![Open-Source Software][oss]](https://github.com/YashvardhanG/Velocmd)
-  
+* [Wox](http://wox-launcher.github.io/Wox/) - Launches apps with web search integration. [![Open-Source Software][oss]](https://github.com/Wox-launcher/Wox/)
+* [kunkun](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss]
+* [ueli](https://ueli.app/#/) - Powerful keystroke launcher. [![Open-Source Software][oss]](https://github.com/oliverschwendener/ueli)
+
 ## Audio
 
 * [Ableton Live](https://www.ableton.com/en/live/) - Fluid software for music creation and performance.  
@@ -116,9 +116,9 @@ More information in CLAUDE.md and llms.txt.
 * [Mixxx](https://mixxx.org/) - Mixes music for DJs. [![Open-Source Software][oss]](https://github.com/mixxxdj/mixxx)
 * [Mp3tag](https://www.mp3tag.de/en/) - Edits music metadata and tags.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard)
-* [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube)
 * [Nora](https://noramusic.netlify.app/) - Plays and manages music. [![Open-Source Software][oss]](https://github.com/Sandakan/Nora)
 * [Tenacity](https://tenacityaudio.org/) - A variant of Audacity without telemetry. [![Open-Source Software][oss]](https://codeberg.org/tenacityteam/tenacity)
+* [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube)
 
 ## Backup
 
@@ -150,20 +150,24 @@ More information in CLAUDE.md and llms.txt.
 * [OneDrive](https://onedrive.live.com/about/en-us/) - Integrates with Microsoft Office for document collaboration.
 * [Proton Drive](https://proton.me/drive) - End-to-end encrypted cloud storage from Proton. ![star]
 * [Streamshare](https://streamshare.wireway.ch) - Provides 1.5 TB storage with focus on media streaming.
-* [pCloud](https://www.pcloud.com) - Offers one-time payment for lifetime storage access.
 * [Sync](https://www.sync.com/) - Stores data exclusively in Canadian data centers for privacy compliance.
+* [pCloud](https://www.pcloud.com) - Offers one-time payment for lifetime storage access.
 
 ## Command Line Tools
 
-* [btop4win](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](/assets/opensource.svg)
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
 * [Cinema](https://github.com/marm00/cinema) - Command-line multiviewer for local and online media with custom layouts. ![Open-Source Software](/assets/opensource.svg)
 * [Fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. ![Open-Source Software](/assets/opensource.svg)
+* [Scoop](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](/assets/opensource.svg)
+* [btop4win](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](/assets/opensource.svg)
 * [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![Open-Source Software](/assets/opensource.svg)
 * [gitty](https://github.com/Omibranch/gitty) - Git workflow CLI. Stage, commit, and push in one command, with interactive conflict resolution. ![Open-Source Software](/assets/opensource.svg)
 * [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo)
+<<<<<<< HEAD
+=======
 * [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows) - PowerShell 7 is free and opensource, cross platform (Win, Linux) shell by Microsoft. [![Open-Source Software][oss]](https://github.com/PowerShell/powershell/releases)
 * [Scoop](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](/assets/opensource.svg)
+>>>>>>> 194957ff0e74161bd036e7752f6c3b90ae753f2d
 * [winfetch](https://github.com/lptstr/winfetch) - Command-line system information utility written in PowerShell. [![Open-Source Software][oss]](https://github.com/lptstr/winfetch)
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader. ![Open-Source Software](/assets/opensource.svg)
@@ -171,14 +175,14 @@ More information in CLAUDE.md and llms.txt.
 
 ## Communication
 
-* [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software][oss]](https://github.com/legcord/legcord)
 * [Beeper](https://beeper.com) - Combines WhatsApp, Slack, Telegram, Signal, X, Instagram, SMS into one app.
 * [Discord](https://discordapp.com) - Voice and text chat platform.
+* [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software][oss]](https://github.com/element-hq/element-web)
 * [Equicord](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software][oss]](https://github.com/Equicord/Equicord) ![star]
 * [Franz](https://meetfranz.com/) - Combines multiple chat services into one app. [![Open-Source Software][oss]](https://github.com/meetfranz/franz)
+* [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software][oss]](https://github.com/legcord/legcord)
 * [Matrix](https://matrix.org/) - Network for secure, decentralized communication. [![Open-Source Software][oss]](https://github.com/matrix-org)
 * [Stoat](https://stoat.chat/) - Chat platform built with modern web tech. [![Open-Source Software][oss]](https://github.com/revoltchat)
-* [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software][oss]](https://github.com/element-hq/element-web)
 * [Telegram](https://desktop.telegram.org/) - Messaging platform focused on speed and security. [![Open-Source Software][oss]](https://telegram.org/apps)
 * [Threema](https://threema.ch) - Swiss messaging platform with open source code. [![Open-Source Software][oss]](https://github.com/threema-ch) ![paid] ![star]
 * [Unigram](https://github.com/UnigramDev/Unigram) - Telegram client optimized for Windows. [![Open-Source Software][oss]](https://github.com/UnigramDev/Unigram)
@@ -197,9 +201,9 @@ More information in CLAUDE.md and llms.txt.
 ## Customization
 
 * [7+ Taskbar Tweaker](https://rammichael.com/7-taskbar-tweaker) - Modifies Windows taskbar behavior.
-* [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](/assets/opensource.svg)
 * [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet)
 * [FluentFlyout](https://fluentflyout.com/) - Displays media controls, lock key status and taskbar widgets in native-looking Fluent 2 flyouts. [![Open-Source Software][oss]](https://github.com/unchihugo/FluentFlyout)
+* [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](/assets/opensource.svg)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 * [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
 * [Shell](https://nilesoft.org) - Powerful, free, open source context menu manager ![oss]
@@ -225,8 +229,8 @@ More information in CLAUDE.md and llms.txt.
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio)
 * [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star]
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](/assets/opensource.svg)
-* [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software][oss]](https://github.com/pgadmin-org/pgadmin4)
 * [DBeaver](https://dbeaver.io/) - Free and open-source database management tool. [![Open-Source Software][oss]](https://github.com/dbeaver/dbeaver)
+* [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software][oss]](https://github.com/pgadmin-org/pgadmin4)
 
 ## Developer Utilities
 
@@ -254,6 +258,7 @@ More information in CLAUDE.md and llms.txt.
 * [File Converter](https://file-converter.io/) - A simple tool to convert and compress files using the context menu in windows explorer. [![Open-Source Software][oss]](https://github.com/Tichau/FileConverter) 
 * [File pilot](https://filepilot.tech/) - Next-gen file explorer. Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.  
 * [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
+* [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss]](https://github.com/files-community/Files)
 * [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software][oss]](https://download.filezilla-project.org/client/)
 * [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
@@ -262,7 +267,6 @@ More information in CLAUDE.md and llms.txt.
 * [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
 * [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid]
-* [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss]](https://github.com/files-community/Files)
 
 ## Game Stores
 
@@ -272,8 +276,8 @@ More information in CLAUDE.md and llms.txt.
 * [Gale](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](/assets/opensource.svg)
 * [Godot Engine](https://godotengine.org/) - Free and open source game engine with beginner-friendly workflow. [![Open-Source Software][oss]](https://github.com/godotengine/godot)
 * [GOG](https://www.gog.com/) - DRM-free game store featuring classic and modern titles.
-* [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra)
 * [Heroic Games Launcher](https://heroicgameslauncher.com/) - A game launcher with support for GOG, Epic Games and Amazon games. [![Open-Source Software][oss]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+* [Hydra Launcher](https://hydralauncher.gg/) - A game launcher that allows you to download, play, track your stats and manage your games all in one place. [![Open-Source Software][oss]](https://github.com/hydralauncher/hydra)
 * [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch)
 * [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
 * [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
@@ -309,9 +313,9 @@ More information in CLAUDE.md and llms.txt.
 * [NetBeans IDE](https://netbeans.org/) - Emphasizes modular Java development. [![Open-Source Software][oss]](https://netbeans.org/community/sources/)
 * [PearAI](https://trypear.ai/) - Open source AI code editor with curated integrations of multiple AI tools. [![Open-Source Software][oss]](https://github.com/peardocs/pearai) ![star]
 * [Spyder](https://www.spyder-ide.org/) - Open-source Python IDE designed for scientific development and data analysis [![Open-Source Software][oss]](https://github.com/spyder-ide/spyder)
+* [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software][oss]](https://github.com/Microsoft/vscode)
 * [Visual Studio](https://www.visualstudio.com/vs/) - Builds Windows and cloud applications.
 * [VSCodium](https://vscodium.com/) - A VS Code fork without all the Microsoft bloat and telemetry. [![Open-Source Software][oss]](https://github.com/vscodium/vscodium) ![star]
-* [Visual Studio Code](https://code.visualstudio.com/) - Customizes development with extensions. [![Open-Source Software][oss]](https://github.com/Microsoft/vscode)
 * [Windsurf](https://codeium.com/windsurf) - Agentic IDE with AI flows, multi-file editing and deep contextual awareness.
 * [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software][oss]](https://github.com/zed-industries/zed) ![star]
 
@@ -347,9 +351,9 @@ More information in CLAUDE.md and llms.txt.
 * [NitroPDF](https://www.gonitro.com/pdf-reader) - Converts and edits PDFs with OCR capabilities.
 * [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software][oss]](https://github.com/ONLYOFFICE/DesktopEditors)
 * [OpenOffice](https://www.openoffice.org/) - Focuses on stability and legacy format support. [![Open-Source Software][oss]](https://openoffice.apache.org/source.html)
+* [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf)
 * [WPS Office](https://www.wps.com/office-free) - Offers mobile-desktop sync with built-in PDF tools.
-* [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 
 ## Password Managers
 
@@ -366,27 +370,27 @@ More information in CLAUDE.md and llms.txt.
 * [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
 * [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
+* [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 * [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
 * [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
 * [Kaas](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](/assets/opensource.svg)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
+* [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us&gl=JO&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
 * [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
+* [Saga Reader](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 * [STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg)
 * [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
 * [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
 * [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
-* [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win)
 * [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
+* [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win)
 * [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
-* [Saga Reader](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
-* [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
-* [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us&gl=JO&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
 
 ## Proxy and VPN Tools
 
@@ -403,6 +407,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 * [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software][oss]](https://github.com/moonlight-stream/moonlight-qt) ![star]
+* [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](/assets/opensource.svg)
 * [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. ![star]
 * [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
 * [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
@@ -410,7 +415,6 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
 * [Sunshine](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software][oss]](https://github.com/LizardByte/Sunshine) ![star]
 * [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
-* [mRemoteNG](https://mremoteng.org/) - Multi-protocol remote connections manager. ![Open-Source Software](/assets/opensource.svg)
 
 ## Screen Capture
 
@@ -456,8 +460,8 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit)
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo)
 * [CrunchyCleaner](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo)
 * [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
 * [HardwareExporterWindows](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
@@ -553,8 +557,8 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
 * [FancyZones](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
-* [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 * [GlazeWM](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
+* [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 
 ## Backers
 
