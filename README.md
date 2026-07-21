@@ -467,6 +467,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 * [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
+* [Magnify.Snap](https://violet2code.github.io/) - One-button screen magnifier: middle-click zooms to 200%, screen stays fully interactive, hold to peek closer. [![Open-Source Software][oss]](https://github.com/violet2code/magnify-snap)
 * [neohtop](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
 * [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install) - Microsoft's power user toolkit. [![Open-Source Software][oss]](https://github.com/microsoft/PowerToys)
