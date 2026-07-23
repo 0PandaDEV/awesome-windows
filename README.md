@@ -365,6 +365,7 @@ More information in CLAUDE.md and llms.txt.
 * [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](/assets/opensource.svg)
 * [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
 * [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
+* [DictaFlow](https://dictaflow.io) - Cross-platform AI dictation that types into Windows apps, including Citrix and Remote Desktop, with custom vocabulary and voice correction.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 * [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
 * [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
