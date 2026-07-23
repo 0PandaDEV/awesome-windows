@@ -364,6 +364,7 @@ More information in CLAUDE.md and llms.txt.
 
 * [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](/assets/opensource.svg)
 * [Beetroot](https://max.nardit.com/beetroot) - Manages clipboard history with AI text transforms and OCR extraction.
+* [CapyBro](https://capybro.app) - AI text rewriter, grammar fixer, and translator. Edit any selected text in any app via global hotkey, using cloud (OpenRouter) or fully-local (Ollama) models. [![Open-Source Software][oss]](https://github.com/phantasmat2018/capy-bro)
 * [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 * [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
