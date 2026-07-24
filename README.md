@@ -347,6 +347,7 @@ More information in CLAUDE.md and llms.txt.
 * [NitroPDF](https://www.gonitro.com/pdf-reader) - Converts and edits PDFs with OCR capabilities.
 * [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software][oss]](https://github.com/ONLYOFFICE/DesktopEditors)
 * [OpenOffice](https://www.openoffice.org/) - Focuses on stability and legacy format support. [![Open-Source Software][oss]](https://openoffice.apache.org/source.html)
+* [PDFluent](https://pdfluent.com/download/) - Free, offline PDF editor with direct text editing, forms, OCR, redaction, signatures, and Office conversions. No account required.
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf)
 * [WPS Office](https://www.wps.com/office-free) - Offers mobile-desktop sync with built-in PDF tools.
 * [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
