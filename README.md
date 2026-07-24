@@ -297,7 +297,7 @@ More information in CLAUDE.md and llms.txt.
 * [Oculante](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Paint.NET](https://www.getpaint.net/index.html) - Feature-rich image editing tool.
 * [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
-* [Vincent](https://iisacc.com/Store/Vincent) - Private, local-first raster drawing and handwriting app for Windows. [![Open-Source Software][oss]](https://github.com/iisacc-Justmoong/Vincent)
+* [Vincent](https://vincent-local-canvas.brainy-daisy-8708.chatgpt.site) - Private, local-first raster drawing and handwriting app for Windows. [![Open-Source Software][oss]](https://github.com/iisacc-Justmoong/Vincent)
 
 ## IDEs
 
