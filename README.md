@@ -113,6 +113,7 @@ More information in CLAUDE.md and llms.txt.
 * [FL Studio](https://www.image-line.com/) - Complete digital audio workstation (DAW) for composing, arranging, recording, and mastering. ![paid]
 * [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software][oss]](https://github.com/dechamps/FlexASIO)
 * [Foobar2000](https://www.foobar2000.org/) - Plays audio with customization options.
+* [Midnight Athenaeum](https://github.com/cubezombies/MidnightAthenaeum) - Plays local audiobooks with chapter navigation, resume, series grouping, and skip-silence. ![oss]
 * [Mixxx](https://mixxx.org/) - Mixes music for DJs. [![Open-Source Software][oss]](https://github.com/mixxxdj/mixxx)
 * [Mp3tag](https://www.mp3tag.de/en/) - Edits music metadata and tags.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard)
