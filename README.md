@@ -451,6 +451,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## System Utilities
 
+* [NexaTools MS Store Generator](https://nexatools.in/utility-tools/microsoft-store-generator) - Free online Microsoft Store link generator and package downloader (.msixbundle, .appx) with built-in 1-click PowerShell deployment scripts.
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher)
 * [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit)
