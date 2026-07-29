@@ -207,6 +207,7 @@ More information in CLAUDE.md and llms.txt.
 * [Themia](https://themia.app) - Displays transparent, customizable widgets on your desktop.
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](/assets/opensource.svg)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
+* [WidgetSpark](https://widgetspark.com) - Displays live desktop widgets — weather, system monitoring, clocks, countdowns — with light and dark themes and pin-on-top.
 * [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk)
 * [YASB](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](/assets/opensource.svg)
 * [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - Manages taskbars across multiple monitors.
