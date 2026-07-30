@@ -289,6 +289,7 @@ More information in CLAUDE.md and llms.txt.
 * [Aseprite](https://www.aseprite.org/) - Professional pixel art and animation tool. [![Open-Source Software][oss]](https://github.com/aseprite/aseprite)
 * [Aspect](https://aspect.bildhuus.com/) - Photo organizer with peer-to-peer synchronization.
 * [Blender](https://www.blender.org/) - Professional 3D creation suite. [![Open-Source Software][oss]](https://developer.blender.org/)
+* [CrossGen](https://www.corgnitor.com/products/crossgen) - Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, or MCP-compatible agents. [![Open-Source Software][oss]](https://github.com/Bliveren/CrossGen)
 * [Ente Photos](https://ente.io/) - Store and share your photos with absolute privacy. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
 * [Figma](https://www.figma.com/) - Collaborative interface design tool. ![star]
 * [GIMP](https://www.gimp.org/) - Feature-rich image editor. [![Open-Source Software][oss]](https://www.gimp.org/source/)
