@@ -123,6 +123,7 @@ More information in CLAUDE.md and llms.txt.
 ## Backup
 
 * [Duplicati](https://www.duplicati.com/) - Stores encrypted backups online. [![Open-Source Software][oss]](https://github.com/duplicati/duplicati)
+* [Endstate](https://substratesystems.io/endstate) - Saves your installed apps (via winget) and settings to one portable file and reinstalls them on a fresh Windows install. [![Open-Source Software][oss]](https://github.com/Artexis10/endstate)
 * [Kopia](https://kopia.io/) - Creates incremental backups with client-side encryption and cloud support. [![Open-Source Software][oss]](https://github.com/kopia/kopia)
 * [Restic](https://restic.net/) - Backs up data to various storage types. [![Open-Source Software][oss]](https://github.com/restic/restic/tree/master)
 
