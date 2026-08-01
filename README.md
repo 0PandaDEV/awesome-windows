@@ -468,6 +468,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 * [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
+* [Multi Instance for Claude Desktop](https://apps.microsoft.com/detail/9NG247TJ47P0) - Runs several isolated Claude Desktop instances side by side, each with its own account and settings.
 * [MultiDrive](https://multidrive.io/) - Free app to clone, erase, backup drives.
 * [neohtop](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
