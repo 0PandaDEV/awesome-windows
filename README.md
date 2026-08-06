@@ -346,6 +346,7 @@ More information in CLAUDE.md and llms.txt.
 * [LibreOffice](https://www.libreoffice.org/) - Handles complex document formatting and supports extensive file formats. [![Open-Source Software][oss]](https://www.libreoffice.org/about-us/source-code/) ![star]
 * [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
 * [NitroPDF](https://www.gonitro.com/pdf-reader) - Converts and edits PDFs with OCR capabilities.
+* [No Bloat PDF](https://www.nobloatpdf.com) - Opens PDFs instantly from a 4.6 MB install, with tabs, search, and page editing, and makes zero network calls. [![Open-Source Software][oss]](https://github.com/bgalvan1277/NoBloatPDF)
 * [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software][oss]](https://github.com/ONLYOFFICE/DesktopEditors)
 * [OpenOffice](https://www.openoffice.org/) - Focuses on stability and legacy format support. [![Open-Source Software][oss]](https://openoffice.apache.org/source.html)
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf)
