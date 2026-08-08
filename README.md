@@ -539,6 +539,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
 * [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut)
 * [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
+* [Vanpelt Studio](https://vanpelt.studio) - Plans long-form YouTube videos and verifies footage against the story before editing. ![paid]
 * [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software][oss]](https://github.com/videolan/vlc)
 
 ## Virtualization
