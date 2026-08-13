@@ -189,9 +189,9 @@ More information in CLAUDE.md and llms.txt.
 
 * [7-Zip](https://www.7-zip.org/) - File archiver with multiple format support. [![Open-Source Software][oss]](https://github.com/ip7z/7zip)
 * [Bandizip](https://www.bandisoft.com/bandizip/) - Archive manager with multiple format support.
+* [ImageMinify](https://github.com/Moresyl/ImageMinify) - Compresses and batch-converts PNG, JPEG, and WebP images with a modern WPF interface. [![Open-Source Software][oss]](https://github.com/Moresyl/ImageMinify)
 * [NanaZip](https://apps.microsoft.com/detail/9n8g7tscl18r?hl=en-us&gl=US) - Windows-optimized 7-Zip variant. [![Open-Source Software][oss]](https://github.com/M2Team/NanaZip) ![star]
 * [PeaZip](https://peazip.github.io/) - Archive manager with compression format support. [![Open-Source Software][oss]](https://github.com/peazip/PeaZip)
-* [ImageMinify](https://github.com/Moresyl/ImageMinify) - Compresses and batch-converts PNG, JPEG, and WebP images with a modern WPF interface. [![Open-Source Software][oss]](https://github.com/Moresyl/ImageMinify)
 * [Riot](https://riot-optimizer.com/) - Compresses images with multiple optimization options.
 * [WinRAR](https://www.rarlab.com/) - Compresses, backs up and splits files. ![paid]
 
