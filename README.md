@@ -321,6 +321,7 @@ More information in CLAUDE.md and llms.txt.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
 * [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
 * [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software][oss]](https://github.com/ollama/ollama)
+* [StarWhisper](https://starwhisper.ai) - Offline voice-to-text dictation using a local Whisper model, types into any app via a global hotkey.
 
 ## Networking
 
