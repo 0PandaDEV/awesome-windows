@@ -252,6 +252,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## File Management
 
+* [Android Everything](https://github.com/luli395/android_everything) - Searches Android device files from Windows using a local SQLite/FTS5 index. [![Open-Source Software][oss]](https://github.com/luli395/android_everything)
 * [Everything](https://www.voidtools.com/) - Instant file search utility.
 * [File Converter](https://file-converter.io/) - A simple tool to convert and compress files using the context menu in windows explorer. [![Open-Source Software][oss]](https://github.com/Tichau/FileConverter) 
 * [File pilot](https://filepilot.tech/) - Next-gen file explorer. Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.
