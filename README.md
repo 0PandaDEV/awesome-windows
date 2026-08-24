@@ -261,6 +261,7 @@ More information in CLAUDE.md and llms.txt.
 * [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
 * [One Commander](https://onecommander.com/) - Modern file manager with miller columns.
+* [RenamerX](https://renamerx.com/) - Rename files by what's inside them with local AI.
 * [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive)
 * [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
