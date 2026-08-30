@@ -233,6 +233,7 @@ More information in CLAUDE.md and llms.txt.
 ## Developer Utilities
 
 * [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
+* [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Independent Windows tray utility that displays Codex quota limits, reset countdowns, pace and forecast context, and a local quota center. [![Open-Source Software][oss]](https://github.com/cpys/codex-quota-overlay)
 * [Git](https://git-scm.com) - Git a distributed version control system that can manage source code reposistories including versioning, syncing, and cloning. [![Open-Source Software][oss]](https://github.com/git/git)
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
