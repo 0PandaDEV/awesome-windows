@@ -378,6 +378,8 @@ More information in CLAUDE.md and llms.txt.
 * [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
+* [Riah To-Do](https://github.com/RiahStudio/riah-todo) - Windows tray to-do list by the clock. One local JSON file; no account, no server. ![Open-Source Software](/assets/opensource.svg)
+* [Riah Usage](https://github.com/RiahStudio/riah-usage) - Local dashboard for Claude/Cursor/Codex (and other) AI subscription usage meters. No telemetry. ![Open-Source Software](/assets/opensource.svg)
 * [STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg)
 * [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
 * [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
