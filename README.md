@@ -480,7 +480,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Servy](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 * [SpeedCrunch](https://speedcrunch.org/) - Powerful scientific calculator. [![Open-Source Software][oss]](https://bitbucket.org/heldercorreia/speedcrunch/)
 * [SyncThing](https://syncthing.net/) - Peer-to-peer file synchronization tool. [![Open-Source Software][oss]](https://github.com/syncthing/syncthing)
-* [TaskSlinger](https://taskslinger.net/) - A fast, native Windows Task Manager replacement with process monitoring, performance graphs, services, startup apps, and network connections.
+* [TaskSlinger](https://taskslinger.net/) - A fast, native Windows Task Manager replacement with process monitoring, performance graphs, services, startup apps, and network connections. ![paid]
 * [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software][oss]](https://github.com/xanderfrangos/twinkle-tray)
 * [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid]
 * [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
