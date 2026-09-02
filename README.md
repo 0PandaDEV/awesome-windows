@@ -233,6 +233,7 @@ More information in CLAUDE.md and llms.txt.
 ## Developer Utilities
 
 * [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
+* [DevDock](https://martingruner.com/projects/devdock) - Keeps local projects, saved commands, Docker environments, database operations, and security checks in one Windows workspace.
 * [Git](https://git-scm.com) - Git a distributed version control system that can manage source code reposistories including versioning, syncing, and cloning. [![Open-Source Software][oss]](https://github.com/git/git)
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
