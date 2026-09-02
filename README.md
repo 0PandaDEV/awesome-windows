@@ -518,6 +518,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 ## Version Control
 
 * [DevHub](https://devhubapp.com/) - GitHub notifications on your desktop as a tray app. [![Open-Source Software][oss]](https://github.com/devhubapp/devhub)
+* [Diff Anything](https://martingruner.com/projects/diffanything) - Compares text, structured data, folders, images, and more locally on Windows.
 * [Fork](https://git-fork.com/) - Fast and friendly Git client for Windows and Mac.
 * [Git Extensions](https://gitextensions.github.io/) - Powerful and user-friendly Git UI. [![Open-Source Software][oss]](https://github.com/gitextensions/gitextensions)
 * [GitHub Desktop](https://desktop.github.com/) - Electron-based GitHub client. [![Open-Source Software][oss]](https://github.com/desktop/desktop)
