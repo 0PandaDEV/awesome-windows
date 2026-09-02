@@ -430,6 +430,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [iScribby](https://iscribby.com/) - A neat little tool that allows you to draw and copy things directly on your screen from anywhere, without interrupting your workflow.
 * [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
 * [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX) ![star]
+* [ShotsGlow](https://shotsglow.com/) - Screenshot tool with gradient backdrops, annotation, redaction and on-device AI background removal. ![paid]
 
 ## Security
 
