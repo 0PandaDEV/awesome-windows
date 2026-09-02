@@ -419,6 +419,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## Screen Capture
 
+* [Flowtake](https://github.com/JNX03/Flowtake) - Open-source screen recorder and timeline editor with automatic zoom, cursor effects, and local MP4 export. ![Open-Source Software](/assets/opensource.svg)
 * [Fraps](https://www.fraps.com/) - DirectX/OpenGL game recording utility.
 * [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
 * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio) ![star]
