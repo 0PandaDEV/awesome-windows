@@ -300,6 +300,7 @@ More information in CLAUDE.md and llms.txt.
 * [Oculante](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Paint.NET](https://www.getpaint.net/index.html) - Feature-rich image editing tool.
 * [pngquant](https://pngquant.org/) - Command-line PNG compression utility.
+* [QuickImageViewer](https://icyhoty2k.github.io/QuickImageViewer/) - Portable image viewer with an Android companion that turns a spare phone into a photo frame. [![Open-Source Software][oss]](https://github.com/icyhoty2k/QuickImageViewer)
 
 ## IDEs
 
