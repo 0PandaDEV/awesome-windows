@@ -446,6 +446,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool.
 * [SpyBot](https://www.safer-networking.org/) - Malware and spyware detection and removal.
 * [System Explorer](https://systemexplorer.net) - Enhanced task manager with advanced system monitoring.
+* [TLK Pass](https://talkdedsec.github.io/tlk-pass/) - Generates passwords and passphrases offline in a single HTML file. [![Open-Source Software][oss]](https://github.com/Talkdedsec/tlk-pass)
 * [Tor Project](https://www.torproject.org/) - Anonymous communication network. [![Open-Source Software][oss]](https://github.com/TheTorProject)
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software][oss]](https://github.com/veracrypt/VeraCrypt)
 * [Viscosity](https://www.sparklabs.com/viscosity/) - Enterprise-ready OpenVPN client.
