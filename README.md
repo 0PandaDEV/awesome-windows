@@ -564,6 +564,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [FancyZones](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
 * [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 * [GlazeWM](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
+* [WinGlide](https://github.com/congchuahiep/WinGlide) - Navigate windows by taskbar position (not Z-order like <kbd>Alt</kbd>+<kbd>Tab</kbd>) and jump between virtual desktops with keyboard shortcuts. [![Open-Source Software][oss]](https://github.com/congchuahiep/WinGlide)
 
 ## Backers
 
