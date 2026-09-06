@@ -382,6 +382,7 @@ More information in CLAUDE.md and llms.txt.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [OpenHabitTracker](https://openhabittracker.net) - Take notes, plan tasks, and track habits. [![Open-Source Software][oss]](https://github.com/Jinjinov/OpenHabitTracker)
 * [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
+* [Slate](https://github.com/MiaAI-Lab/Slate) - A lightweight, OLED-friendly Windows text editor with live Markdown preview, multi-tab editing, and zero telemetry. True-black OLED theme, local-first, no cloud. ![Open-Source Software](/assets/opensource.svg)
 * [STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](/assets/opensource.svg)
 * [Super Productivity](https://super-productivity.com/) - Open-source todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration. [![Open-Source Software][oss]](https://github.com/johannesjo/super-productivity)
 * [talat](https://talat.app) - On-device meeting recording and transcription that keeps mic and system audio on your machine. ![paid]
