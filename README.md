@@ -16,7 +16,7 @@ More information in CLAUDE.md and llms.txt.
 
 > [!CAUTION]
 >
-> Vibecoded slop and tools that don't fall in the category of "awesome" are not welcomed on this list and PR's will be rejected.
+> Vibecoded slop and tools that don't fall in the category of "awesome" are not welcomed on this list and PR's will be rejected. This is **NOT** a list for your new AI tool or whisper transcribe wrapper.
 
 > \[!NOTE]
 >
