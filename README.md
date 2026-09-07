@@ -500,6 +500,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [FluentTerminal](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
 * [Kitty](https://www.9bis.net/kitty/) - Enhanced PuTTY with additional features.
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
+* [MultiTerm](https://github.com/idk-arsh/multiterm) - Multi-pane terminal with workspaces that remember folders and startup commands, plus broadcast typing. ![Open-Source Software](/assets/opensource.svg)
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/tabby)
 * [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
