@@ -514,6 +514,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [LazyVim](https://www.lazyvim.org/) - Customizable Neovim configuration framework. [![Open-Source Software][oss]](https://github.com/LazyVim/LazyVim)
 * [Markra](https://markra.app/) - Local-first WYSIWYG Markdown editor with native AI review. [![Open-Source Software][oss]](https://github.com/murongg/markra)
 * [MDLook](https://mdlook.com) - Portable offline Markdown editor using WebView2 instead of Electron.
+* [MDFK](https://mdfk.app) - Free Markdown viewer that renders `.md` files on double-click, with Mermaid, LaTeX, and code highlighting. ![Freeware]
 * [Neovim](https://neovim.io/) - Modern, extensible terminal-based editor. [![Open-Source Software][oss]](https://github.com/neovim/neovim)
 * [Notepad++](https://notepad-plus-plus.org/) - Feature-rich source code editor. [![Open-Source Software][oss]](https://github.com/notepad-plus-plus/notepad-plus-plus)
 * [Notepad2](https://www.flos-freeware.ch/notepad2.html) - Lightweight Notepad replacement with enhanced features. ![Open-Source Software](/assets/opensource.svg)
