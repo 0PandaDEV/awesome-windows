@@ -420,6 +420,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## Screen Capture
 
+* [Autorec](https://autorec.app/) - Detects and records video meetings automatically, with on-device transcription.
 * [Fraps](https://www.fraps.com/) - DirectX/OpenGL game recording utility.
 * [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
 * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][oss]](https://github.com/obsproject/obs-studio) ![star]
