@@ -229,6 +229,7 @@ More information in CLAUDE.md and llms.txt.
 * [DB Browser for SQLite](https://sqlitebrowser.org/) - Visual tool for creating and editing SQLite database files. ![Open-Source Software](/assets/opensource.svg)
 * [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software][oss]](https://github.com/pgadmin-org/pgadmin4)
 * [DBeaver](https://dbeaver.io/) - Free and open-source database management tool. [![Open-Source Software][oss]](https://github.com/dbeaver/dbeaver)
+* [Mongrel](https://www.visorcraft.com/) - Desktop workbench for 30+ database engines, with SSH terminals, SFTP, Docker, Kubernetes, and an API client.
 
 ## Developer Utilities
 
