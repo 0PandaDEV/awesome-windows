@@ -446,6 +446,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
 * [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
 * [GlassWire](https://www.glasswire.com/) - Network security monitoring and visualization tool.
+* [HideMyShare](https://hidemyshare.site) - Hides any app window from screen shares and recordings while it stays fully visible and usable on your own monitor.
 * [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - Windows encryption protocol configuration utility.
 * [Malwarebytes](https://www.malwarebytes.org/) - Advanced threat protection and removal.
 * [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool.
