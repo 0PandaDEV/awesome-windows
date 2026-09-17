@@ -322,6 +322,7 @@ More information in CLAUDE.md and llms.txt.
 ## Local AI
 
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
+* [KinetAios](https://phinn.github.io/KinetAios/) - Local-first AI agent dashboard where Claude Code, Codex and a built-in ReAct agent run side-by-side, with MCP support and long-term memory. [![Open-Source Software][oss]](https://github.com/phinn/KinetAios)
 * [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
 * [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software][oss]](https://github.com/ollama/ollama)
 
