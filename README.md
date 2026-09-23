@@ -86,6 +86,7 @@ More information in CLAUDE.md and llms.txt.
 ## API Development
 
 * [Bruno](https://www.usebruno.com/) - Tests APIs with Git version control integration. [![Open-Source Software][oss]](https://github.com/usebruno/bruno) ![star]
+* [Cortex](https://cortexdocs.dev/) - Generates interactive API documentation and typed SDKs from OpenAPI, AsyncAPI, GraphQL, gRPC, and OpenRPC. [![Open-Source Software][oss]](https://github.com/cortex-docs/cortex) ![star]
 * [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software][oss]](https://github.com/hoppscotch/hoppscotch)
 * [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software][oss]](https://github.com/httptoolkit)
 * [Insomnia](https://insomnia.rest) - Tests APIs with GraphQL support. ![Open-Source Software](/assets/opensource.svg)
