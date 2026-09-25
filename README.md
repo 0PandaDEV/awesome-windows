@@ -434,6 +434,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
 * [iScribby](https://iscribby.com/) - A neat little tool that allows you to draw and copy things directly on your screen from anywhere, without interrupting your workflow.
 * [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
+* [QuipShot](https://quipshot.com/) - Native screenshot tool with scrolling capture, on-device text grab, in-place annotation and true HDR colour. ![paid]
 * [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX) ![star]
 
 ## Security
