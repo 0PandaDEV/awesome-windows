@@ -335,6 +335,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Note-taking
 
+* [Anql](https://github.com/anqlproject/anql) - A lightweight document editor combining the simplicity of markdown notes with the power of dynamic spreadsheets. [![Open-Source Software]
 * [Anytype](https://anytype.io) - A privacy focused offline encrypted Notion alternative with P2P syncing on local networks. [![Open-Source Software][oss]](https://github.com/anyproto)
 - [Highlight Vault](http://highlightvaultapp.netlify.app) - Free Windows app that imports Kindle/Kobo highlights into a searchable local library, with export and an optional paid Pro upgrade.
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
