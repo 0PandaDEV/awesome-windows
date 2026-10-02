@@ -126,6 +126,7 @@ More information in CLAUDE.md and llms.txt.
 * [Duplicati](https://www.duplicati.com/) - Stores encrypted backups online. [![Open-Source Software][oss]](https://github.com/duplicati/duplicati)
 * [Kopia](https://kopia.io/) - Creates incremental backups with client-side encryption and cloud support. [![Open-Source Software][oss]](https://github.com/kopia/kopia)
 * [Restic](https://restic.net/) - Backs up data to various storage types. [![Open-Source Software][oss]](https://github.com/restic/restic/tree/master)
+* [unlose](https://unlose.app/) - Time-machine snapshots for the AI agent era: automatic VSS snapshots before AI agents act, agent-initiated snapshots and timeline restore. [![Open-Source Software][oss]](https://github.com/unlose-app/unlose)
 
 ## Browsers
 
