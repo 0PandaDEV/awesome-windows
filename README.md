@@ -501,6 +501,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Kitty](https://www.9bis.net/kitty/) - Enhanced PuTTY with additional features.
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
+* [ShellPhone](https://shellphone.sggyamg.com) - SSH client with tabs, SFTP browser, SSH tunnels, snippets and a local terminal. Also on Mac, iPhone, iPad and Android.
 * [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/tabby)
 * [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
 * [Warp](https://www.warp.dev/) - AI-powered terminal with IDE-like features and team collaboration.
