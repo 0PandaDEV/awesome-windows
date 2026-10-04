@@ -542,6 +542,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Kdenlive](https://kdenlive.org/en/download/) - Video editor focused on transitions and effects. [![Open-Source Software][oss]](https://invent.kde.org/multimedia/kdenlive)
 * [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software][oss]](https://github.com/mpv-player/mpv) ![star]
 * [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software][oss]](https://github.com/olive-editor/olive)
+* [Phoenix Upscaler](https://phoenixlabs.space/upscaler) - Restores and upscales old video (VHS, DVD, film scans, old phone clips) on your own GPU: denoising, deinterlacing and AI detail reconstruction. ![paid]
 * [PotPlayer](https://potplayer.tv/) - Media player with hardware acceleration and streaming capabilities.
 * [Screenbox](https://github.com/huynhsontung/Screenbox) - Windows-optimized media player based on LibVLC. [![Open-Source Software][oss]](https://github.com/huynhsontung/Screenbox)
 * [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
