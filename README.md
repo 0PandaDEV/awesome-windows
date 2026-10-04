@@ -464,6 +464,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 * [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Open-source utility for monitoring S.M.A.R.T. data, disk temperature and more. [![Open-Source Software][oss]](https://github.com/hiyohiyo/CrystalDiskInfo)
 * [CrunchyCleaner](https://github.com/Knuspii/CrunchyCleaner) - A lightweight, software cache cleanup tool for Windows & Linux. [![Open-Source Software][oss]](https://github.com/Knuspii/CrunchyCleaner)
+* [DuoBolt](https://duobolt.app/duplicate-files-windows/) - Finds duplicate files and look-alike photos, confirms every exact match by BLAKE3 hash, and reviews before anything is removed. ![paid]
 * [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. ![star]
 * [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
 * [HardwareExporterWindows](https://github.com/naughtyGitCat/HardwareExporterWindows) - Prometheus exporter for Windows hardware metrics using LibreHardwareMonitor, with a ready-to-use Grafana dashboard. [![Open-Source Software][oss]](https://github.com/naughtyGitCat/HardwareExporterWindows)
