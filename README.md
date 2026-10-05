@@ -236,6 +236,7 @@ More information in CLAUDE.md and llms.txt.
 * [Git](https://git-scm.com) - Git a distributed version control system that can manage source code reposistories including versioning, syncing, and cloning. [![Open-Source Software][oss]](https://github.com/git/git)
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding agent below the harness and replays the run offline with the network off, or forks it onto a different model. ![Open-Source Software](/assets/opensource.svg)
 * [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
 * [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
 * [Xampp](https://www.apachefriends.org/index.html) - Bundles Apache, MariaDB, PHP and Perl for local development.
