@@ -379,6 +379,7 @@ More information in CLAUDE.md and llms.txt.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
 * [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
+* [NeckCure](https://neckcure.easyfox.org/) - Webcam posture reminder that gradually dims the screen when you slouch and restores it when you sit upright.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [OpenHabitTracker](https://openhabittracker.net) - Take notes, plan tasks, and track habits. [![Open-Source Software][oss]](https://github.com/Jinjinov/OpenHabitTracker)
 * [PhraseVault](https://phrasevault.app/) - Expands text snippets with fuzzy search, usage-based prioritization, and local-only data storage. ![paid]
