@@ -455,6 +455,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Tor Project](https://www.torproject.org/) - Anonymous communication network. [![Open-Source Software][oss]](https://github.com/TheTorProject)
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software][oss]](https://github.com/veracrypt/VeraCrypt)
 * [Viscosity](https://www.sparklabs.com/viscosity/) - Enterprise-ready OpenVPN client.
+* [Windows 11 Hardening Kit](https://github.com/Nico1091/kit-blindaje-windows) - Hardening and telemetry reduction for Windows 11 with backups and automatic revert.
 
 ## System Utilities
 
