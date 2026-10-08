@@ -408,6 +408,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 ## Remote Access
 
 * [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
+* [Conexa Remote](https://conexaremote.com/) - Remote desktop and IT support software with sub-50ms peer-to-peer WebRTC streaming and permanent device addressing.
 * [Moonlight](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software][oss]](https://github.com/moonlight-stream/moonlight-qt) ![star]
 * [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. ![star]
 * [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
