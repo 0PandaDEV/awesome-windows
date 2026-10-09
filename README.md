@@ -119,6 +119,7 @@ More information in CLAUDE.md and llms.txt.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube)
 * [Nora](https://noramusic.netlify.app/) - Plays and manages music. [![Open-Source Software][oss]](https://github.com/Sandakan/Nora)
+* [OpenSoundPad](https://github.com/Pomidor8639/OpenSoundPad) - Real-time voice changer and soundpad with direct virtual microphone routing. [![Open-Source Software][oss]](https://github.com/Pomidor8639/OpenSoundPad)
 * [Tenacity](https://tenacityaudio.org/) - A variant of Audacity without telemetry. [![Open-Source Software][oss]](https://codeberg.org/tenacityteam/tenacity)
 
 ## Backup
