@@ -344,6 +344,7 @@ More information in CLAUDE.md and llms.txt.
 * [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
 * [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
 * [Standard Notes](https://standardnotes.com/) - A free, secure note-taking app with powerful end-to-end encryption, unparalleled privacy features, and seamless cross-platform syncing on unlimited devices from the creators of ProtonVPN.
+* [Cozy](https://cozyjournal.app) - A local journal app for Windows, bought once, with no AI and no subscriptions. ![paid]
 
 ## Office Suites
 
