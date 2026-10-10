@@ -327,6 +327,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Networking
 
+* [Agrus Scanner](https://github.com/NYBaywatch/AgrusScanner) - Native network scanner with ping sweep, port scan and DNS that also identifies 70+ AI/ML services and MCP servers on the network, with model, GPU and container details; signed, self-updating detection signatures. [![Open-Source Software][oss]](https://github.com/NYBaywatch/AgrusScanner)
 * [Fiddler](https://www.telerik.com/fiddler) - Web debugging proxy.
 * [MoonProxy](https://moonproxy.app) - An open-source cross-platform FRP desktop GUI client for macOS and Windows. [![Open-Source Software][oss]](https://github.com/MoonProxyHQ/moonproxy-desktop)
 * [Nmap](https://nmap.org/) - A free, open-source network scanner used for discovering hosts, services, and vulnerabilities on computer networks through advanced port scanning and OS detection techniques. [![Open-Source Software][oss]](https://github.com/nmap/nmap)
