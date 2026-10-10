@@ -201,6 +201,7 @@ More information in CLAUDE.md and llms.txt.
 * [OpenShell](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](/assets/opensource.svg)
 * [EarTrumpet](https://eartrumpet.app/) - Controls volume per application. [![Open-Source Software][oss]](https://github.com/File-New-Project/EarTrumpet)
 * [FluentFlyout](https://fluentflyout.com/) - Displays media controls, lock key status and taskbar widgets in native-looking Fluent 2 flyouts. [![Open-Source Software][oss]](https://github.com/unchihugo/FluentFlyout)
+* [MultiTaskbar](https://github.com/Creahive/MultiTaskbar) - Puts a complete taskbar, with pinned apps, window previews and a clock, on every secondary monitor. [![Open-Source Software][oss]](https://github.com/Creahive/MultiTaskbar)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 * [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
 * [Shell](https://nilesoft.org) - Powerful, free, open source context menu manager ![oss]
