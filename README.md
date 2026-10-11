@@ -398,6 +398,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 * [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud.
 * [Cloudflare WARP](https://1.1.1.1) - Fast, free VPN and DNS.
+* [Game-TCP-Speed](https://github.com/fun3588/game-tcp-speed) - Process-level TCP game accelerator for Windows without virtual network adapters. [![Open-Source Software][oss]](https://github.com/fun3588/game-tcp-speed)
 * [Mullvad VPN](https://mullvad.net) - No-logs Sweden VPN service.
 * [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. ![star]
 * [Tailscale](https://tailscale.com/) - Zero config VPN for building secure networks. ![star]
