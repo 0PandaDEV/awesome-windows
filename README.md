@@ -533,6 +533,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client.
 * [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss]](https://github.com/tortoisegit/tortoisegit/)
 * [Tower](https://www.git-tower.com/windows) - Professional Git client with advanced features.
+* [WinMerge](https://winmerge.org/) - Visual diff and merge tool for files and folders. [![Open-Source Software][oss]](https://github.com/WinMerge/winmerge)
 
 ## Video Utilities
 
