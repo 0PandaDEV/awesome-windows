@@ -237,6 +237,7 @@ More information in CLAUDE.md and llms.txt.
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
 * [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
+* [Translate for Developers](https://github.com/SimplestBOT/translate-for-developers) - Hotkey translation for developers: clipboard + UIA dual-channel selection capture (works in MATLAB and terminals, never sends Ctrl+C there), DeepL/Baidu/OpenAI-compatible LLM backends with code masking, screenshot OCR, portable. [![Open-Source Software][oss]](https://github.com/SimplestBOT/translate-for-developers)
 * [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
 * [Xampp](https://www.apachefriends.org/index.html) - Bundles Apache, MariaDB, PHP and Perl for local development.
 
