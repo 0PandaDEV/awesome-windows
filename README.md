@@ -212,6 +212,7 @@ More information in CLAUDE.md and llms.txt.
 * [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk)
 * [YASB](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](/assets/opensource.svg)
 * [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - Manages taskbars across multiple monitors.
+* [Desktop Cat](https://github.com/wt0812/desktop-cat) - Single-file desktop pixel cat that walks, naps and reacts to being petted; no installer, no network access. [![Open-Source Software][oss]](https://github.com/wt0812/desktop-cat)
 
 ## Data Recovery
 
