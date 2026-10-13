@@ -548,6 +548,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software][oss]](https://github.com/NickeManarin/ScreenToGif/)
 * [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software][oss]](https://github.com/mltframework/shotcut)
 * [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
+* [Video Dehydrator](https://github.com/philipvern-dot/video-dehydrator) - Finds videos that are too big for their picture size and shrinks them with HandBrake CLI, keeping originals until you delete them. [![Open-Source Software][oss]](https://github.com/philipvern-dot/video-dehydrator)
 * [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software][oss]](https://github.com/videolan/vlc)
 
 ## Virtualization
