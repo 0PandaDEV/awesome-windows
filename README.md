@@ -348,14 +348,15 @@ More information in CLAUDE.md and llms.txt.
 ## Office Suites
 
 * [FreeOffice](https://www.freeoffice.com/en/) - Reads and writes Microsoft Office file formats with high compatibility.
+* [[InkIt](https://yeib.cl/InkIt) - Ultra-lightweight and offline PDF signer, reader, and annotation tool. [![Open-Source Software][oss]](https://github.com/yeib/InkIt)](https://apps.microsoft.com/detail/9ph8kk70mk9m)
 * [LibreOffice](https://www.libreoffice.org/) - Handles complex document formatting and supports extensive file formats. [![Open-Source Software][oss]](https://www.libreoffice.org/about-us/source-code/) ![star]
 * [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
 * [NitroPDF](https://www.gonitro.com/pdf-reader) - Converts and edits PDFs with OCR capabilities.
 * [OnlyOffice](https://www.onlyoffice.com/) - Enables document co-editing with version control. [![Open-Source Software][oss]](https://github.com/ONLYOFFICE/DesktopEditors)
 * [OpenOffice](https://www.openoffice.org/) - Focuses on stability and legacy format support. [![Open-Source Software][oss]](https://openoffice.apache.org/source.html)
+* [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf)
 * [WPS Office](https://www.wps.com/office-free) - Offers mobile-desktop sync with built-in PDF tools.
-* [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 
 ## Password Managers
 
