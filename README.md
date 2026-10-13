@@ -393,6 +393,7 @@ More information in CLAUDE.md and llms.txt.
 * [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 * [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us&gl=JO&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
+* [BetterMagnifier](https://github.com/kaikimax/better-magnifier) - Lightweight, smooth, cursor-following screen zoom/magnifier and pan for Windows, controlled by hotkeys.
 
 ## Proxy and VPN Tools
 
