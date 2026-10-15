@@ -437,12 +437,11 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX) ![star]
 
 ## Security
-
 * [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Removal tool for adware, PUP/LPI, toolbars and hijackers.
 * [Bitdefender](https://www.bitdefender.com/) - Comprehensive malware protection suite.
 * [capyknock](https://plinioseniore.github.io/capyknock/) - Single Packet Authorization in fwknop style [![Open-Source Software][oss]](https://github.com/plinioseniore/capyknock)
 * [Certificate Ripper](https://github.com/Hakky54/certificate-ripper) - A CLI tool to extract server certificates from a URL. [![Open-Source Software][oss]](https://github.com/Hakky54/certificate-ripper)
-* [cppcryptfs](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows  
+* [cppcryptfs](https://github.com/bailey27/cppcryptfs) - cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows
 * [Cryptomator](https://cryptomator.org/) - Client-side encryption for cloud files. [![Open-Source Software][oss]](https://github.com/cryptomator/cryptomator)
 * [ENCRYPTO](https://macpaw.com/encrypto) - File encryption utility.
 * [Ente Auth](https://ente.io/auth/) - Open source 2FA authenticator, with E2EE backups. [![Open-Source Software][oss]](https://github.com/ente-io/ente)
@@ -451,6 +450,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Malwarebytes](https://www.malwarebytes.org/) - Advanced threat protection and removal.
 * [NetLimiter](https://www.netlimiter.com) - Internet traffic control and monitoring tool.
 * [SpyBot](https://www.safer-networking.org/) - Malware and spyware detection and removal.
+* [SysPulse](https://syspulse.pro/) - Lightweight Windows security monitor that detects new processes, USB connections, startup changes, and CPU/RAM/disk anomalies with Telegram alerts.
 * [System Explorer](https://systemexplorer.net) - Enhanced task manager with advanced system monitoring.
 * [Tor Project](https://www.torproject.org/) - Anonymous communication network. [![Open-Source Software][oss]](https://github.com/TheTorProject)
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - Disk encryption software for multiple platforms. [![Open-Source Software][oss]](https://github.com/veracrypt/VeraCrypt)
