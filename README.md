@@ -429,6 +429,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 
 ## Screenshot
 
+* [BaseShot](https://baseshot.io/) - Screenshot and screen recording tool with scrolling capture, annotation, OCR and recordings with automatic zoom.
 * [Capter](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
 * [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot)
 * [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
