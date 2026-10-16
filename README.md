@@ -239,6 +239,7 @@ More information in CLAUDE.md and llms.txt.
 * [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
 * [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
 * [Xampp](https://www.apachefriends.org/index.html) - Bundles Apache, MariaDB, PHP and Perl for local development.
+* [Codayak](https://www.technichelabs.com.au/codayak.aspx) - Free AI coding workbench that builds, tests and verifies its own work. Seven LLM providers or a local model.
 
 ## Email
 
