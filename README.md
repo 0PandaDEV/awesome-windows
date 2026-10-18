@@ -499,6 +499,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Cmder](https://cmder.app) - Console emulator with clink shell integration. [![Open-Source Software][oss]](https://github.com/cmderdev/cmder)
 * [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
 * [FluentTerminal](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
+* [Giverny](https://github.com/y0av/giverny) - GPU-accelerated terminal for running Claude Code and Codex sessions side by side, with live agent state on each tab and rate-limit meters for each account. [![Open-Source Software][oss]](https://github.com/y0av/giverny)
 * [Kitty](https://www.9bis.net/kitty/) - Enhanced PuTTY with additional features.
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
