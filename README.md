@@ -233,6 +233,7 @@ More information in CLAUDE.md and llms.txt.
 ## Developer Utilities
 
 * [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
+* [Claude Account Switcher](https://github.com/SnlperStripes/claude-account-switcher) - Switches the Claude desktop app between accounts without an email code, carries Claude Code chats across and shows the usage of every account. [![Open-Source Software][oss]](https://github.com/SnlperStripes/claude-account-switcher)
 * [Git](https://git-scm.com) - Git a distributed version control system that can manage source code reposistories including versioning, syncing, and cloning. [![Open-Source Software][oss]](https://github.com/git/git)
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
 * [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
