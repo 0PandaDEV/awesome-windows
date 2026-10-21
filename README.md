@@ -94,6 +94,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Application Launchers
 
+* [ALTRun](https://github.com/zhugecaomao/ALTRun) - Lightweight Alfred-style launcher for apps, files, web search, calculations and clipboard history. ![oss]
 * [Flow Launcher](https://flowlauncher.com/) - Searches files and launches apps with plugin extensibility. [![Open-Source Software][oss]](https://github.com/Flow-Launcher/Flow.Launcher) ![star]
 * [Keypirinha](https://keypirinha.com/) - Launches apps through fuzzy search and keyboard shortcuts.
 * [kunkun](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss]
