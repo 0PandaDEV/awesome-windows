@@ -232,6 +232,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Developer Utilities
 
+* [Agent TPS HUD](https://github.com/tcwhvi/agent-tps-hud) - Always-on-top desktop widget that shows real-time tokens/sec of your AI coding agents (ZCode, Qoder, WorkBuddy, MiMo). Local-only: no proxy, no API keys. [![Open-Source Software][oss]](https://github.com/tcwhvi/agent-tps-hud)
 * [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
 * [Git](https://git-scm.com) - Git a distributed version control system that can manage source code reposistories including versioning, syncing, and cloning. [![Open-Source Software][oss]](https://github.com/git/git)
 * [Kunobi](https://kunobi.ninja) - Kubernetes management app written in Rust with MCP integration.
