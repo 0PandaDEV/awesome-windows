@@ -243,7 +243,7 @@ More information in CLAUDE.md and llms.txt.
 ## Email
 
 * [BlueMail](https://www.bluemail.me/desktop/) - Cross-platform email client with modern interface.
-* [Kanmail](https://kanmail.io/) - Turns your inbox into a kanban board.
+* [Kanmail](https://kanmail.io/) - Turns your inbox into a kanban board. ![paid]
 * [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support.
 * [Mailspring](https://getmailspring.com/) - Modern email client built on web technologies. [![Open-Source Software][oss]](https://github.com/Foundry376/Mailspring) ![star]
 * [Nubo Email](https://nubo.email) - Privacy-first email platform with calendar, drive, video meetings, and team chat. Built on JMAP protocol.
