@@ -426,6 +426,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Built-in Windows screenshot utility.
 * [YAKC](https://github.com/iammodev/YAKC) - Keystroke and mouse-click visualizer for screencasts, streaming and presentations. [![Open-Source Software][oss]](https://github.com/iammodev/YAKC)
 * [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - Screen zoom and annotation tool for presentations.
+* [YUVision](https://github.com/k1gs/YUVision) - Lightweight low-latency capture card viewer for Windows with HDMI audio and improved YUY2 chroma reconstruction.
 
 ## Screenshot
 
