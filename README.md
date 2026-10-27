@@ -296,6 +296,7 @@ More information in CLAUDE.md and llms.txt.
 * [Figma](https://www.figma.com/) - Collaborative interface design tool. ![star]
 * [GIMP](https://www.gimp.org/) - Feature-rich image editor. [![Open-Source Software][oss]](https://www.gimp.org/source/)
 * [Inkscape](https://inkscape.org/en/) - Professional vector graphics editor. [![Open-Source Software][oss]](https://gitlab.com/inkscape/inkscape)
+* [Klaruvo](https://www.powersoftware.app/en-US/product/detail/klaruvo) - Local, offline AI image editor for watermark and object removal, cutout and upscaling.
 * [Krita](https://krita.org/) - Professional digital painting program. [![Open-Source Software][oss]](https://krita.org/en/download/krita-desktop/)
 * [Lunacy](https://icons8.com/lunacy) - Free design tool with built-in resources.
 * [Oculante](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](/assets/opensource.svg) ![star]
