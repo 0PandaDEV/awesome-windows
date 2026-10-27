@@ -268,6 +268,7 @@ More information in CLAUDE.md and llms.txt.
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
 * [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid]
 * [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss]](https://github.com/files-community/Files)
+* [SortSage](https://enlightpixel.com/products/sortsage) - A lightweight, local-first rules-based file organizer for Windows. ![paid]
 
 ## Game Stores
 
@@ -393,6 +394,7 @@ More information in CLAUDE.md and llms.txt.
 * [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 * [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us&gl=JO&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
+* [SortSage](https://enlightpixel.com/products/sortsage) - A lightweight, local-first rules-based file organizer for Windows. ![paid]
 
 ## Proxy and VPN Tools
 
