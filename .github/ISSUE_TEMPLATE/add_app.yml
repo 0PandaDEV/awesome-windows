@@ -10,6 +10,10 @@ body:
       value: |
         Thanks for taking the time to suggest an application for the Awesome Windows list!
         Please fill out the form below to provide details about the application.
+        Before submitting, make sure the project meets our minimum criteria:
+        - At least **50 GitHub stars**
+        - At least a month old: 30+ days since the first commit, or a commit within the last 30 days
+        Note: this is an **awesome** list, not a generic app listing. An app has to be awesome to be included, and not every submission gets accepted.
 
   - type: input
     id: app-name
@@ -99,6 +103,17 @@ body:
       placeholder: https://github.com/example/awesome-app
     validations:
       required: false
+
+  - type: checkboxes
+    id: eligibility
+    attributes:
+      label: Eligibility Criteria
+      description: Confirm the project meets the minimum requirements for this list
+      options:
+        - label: The repository has at least 50 GitHub stars
+          required: true
+        - label: The first commit is 30+ days old, or there has been a commit within the last 30 days
+          required: true
 
   - type: textarea
     id: additional-info
