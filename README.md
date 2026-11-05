@@ -23,7 +23,7 @@ More information in CLAUDE.md and llms.txt.
 
 > [!NOTE]
 >
-> **Submission criteria:** A project must have at least **50 GitHub stars** and either be at least a month old (30+ days since the first commit) or have had a commit within the last 30 days. Projects that don't meet this are not accepted.
+> **Submission criteria:** A project must have at least **50 GitHub stars** and either be at least a month old (30+ days since the first commit) or have had a commit within the last 30 days. Projects that don't meet this are not accepted. Some exceptions are made for paid closed source software but generally opensource is encuraged.
 
 > [!NOTE]
 >
