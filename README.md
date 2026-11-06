@@ -588,3 +588,4 @@ Please, consider supporting me as it is a lot of work to maintain this list! Tha
 [oss]: /assets/opensource.svg
 [paid]: /assets/paid.svg
 [star]: /assets/star.svg
+- [pc-diag](https://github.com/progerman666/pc-diag) - Portable Windows diagnostics: SMART health, Event Log, network. Read-only, no install.
