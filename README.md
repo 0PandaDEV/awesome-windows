@@ -331,6 +331,7 @@ More information in CLAUDE.md and llms.txt.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
 * [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a user-friendly interface.
 * [Ollama](https://ollama.com/) - Get up and running with large language models locally via command line. [![Open-Source Software][oss]](https://github.com/ollama/ollama)
+* [OneMira AI](https://onemira.com/products/c1) - Standalone AI voice recorder (C1) and local Windows/macOS context system with local speech-to-text, speaker diarization, Markdown Wiki, and MCP server. [![Open-Source Software][oss]](https://github.com/onemira-space/onemira-mcp)
 
 ## Networking
 
