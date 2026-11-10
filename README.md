@@ -338,6 +338,7 @@ More information in CLAUDE.md and llms.txt.
 * [MoonProxy](https://moonproxy.app) - An open-source cross-platform FRP desktop GUI client for macOS and Windows. [![Open-Source Software][oss]](https://github.com/MoonProxyHQ/moonproxy-desktop)
 * [Nmap](https://nmap.org/) - A free, open-source network scanner used for discovering hosts, services, and vulnerabilities on computer networks through advanced port scanning and OS detection techniques. [![Open-Source Software][oss]](https://github.com/nmap/nmap)
 * [Sniffnet](https://sniffnet.net/) - Network monitoring tool to help you easily keep track of your Internet traffic. [![Open-Source Software][oss]](https://github.com/GyulyVGC/sniffnet)
+* [TapMap](https://tip.no/tapmap/) - Visualizes your computer’s internet connections in real time on an interactive world map, with local activity history to help you explore connection patterns. [![Open-Source Software][oss]](https://github.com/olalie/tapmap)
 * [Wireshark](https://www.wireshark.org/) - Network protocol analyzer. [![Open-Source Software][oss]](https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html)
 
 ## Note-taking
