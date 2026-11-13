@@ -481,6 +481,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
 * [LightBulb](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 * [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software][oss]](https://github.com/localsend/localsend)
+* [Mole](https://github.com/tw93/Mole/tree/windows) - Open-source CLI to deep clean, remove uninstall leftovers and analyze disk usage, with an optional native app. [![Open-Source Software][oss]](https://github.com/tw93/Mole/tree/windows)
 * [MultiDrive](https://multidrive.io/) - Free app to clone, erase, backup drives.
 * [neohtop](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](/assets/opensource.svg) ![star]
 * [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
