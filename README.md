@@ -396,6 +396,7 @@ More information in CLAUDE.md and llms.txt.
 * [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription with privacy-first approach. System-wide dictation via global hotkey. [![Open-Source Software][oss]](https://github.com/TypeWhisper/typewhisper-win)
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 * [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
+* [WorkTimer](https://zddhhh.github.io/worktimer-subscribe/) - Always-on-top Windows countdown for flexible work hours (log arrival, count down to leave). [![Open-Source Software][oss]](https://github.com/zddhhh/work-timer)
 * [Saga Reader](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
 * [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
