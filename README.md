@@ -131,6 +131,7 @@ More information in CLAUDE.md and llms.txt.
 ## Backup
 
 * [Duplicati](https://www.duplicati.com/) - Stores encrypted backups online. [![Open-Source Software][oss]](https://github.com/duplicati/duplicati)
+* [iphone-backup-sync](https://github.com/mahdis24/iphone-backup-sync) - Lightweight, open-source utility for fast, incremental local backup of iPhone DCIM photos and videos via USB.
 * [Kopia](https://kopia.io/) - Creates incremental backups with client-side encryption and cloud support. [![Open-Source Software][oss]](https://github.com/kopia/kopia)
 * [Restic](https://restic.net/) - Backs up data to various storage types. [![Open-Source Software][oss]](https://github.com/restic/restic/tree/master)
 
