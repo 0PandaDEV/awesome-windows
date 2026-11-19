@@ -537,6 +537,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform Git client with intuitive interface.
 * [GitLight](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](/assets/opensource.svg)
 * [Meld](https://meldmerge.org/) - Visual diff and merge tool. [![Open-Source Software][oss]](https://gitlab.gnome.org/GNOME/meld/)
+* [MoonGit](https://moongit.app/) - A visual Git client that shows all your worktrees in one commit graph. ![paid]
 * [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client.
 * [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][oss]](https://github.com/tortoisegit/tortoisegit/)
 * [Tower](https://www.git-tower.com/windows) - Professional Git client with advanced features.
