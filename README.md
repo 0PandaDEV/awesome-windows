@@ -560,6 +560,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 ## Virtualization
 
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/) - Containerization for Desktop, built on top of WSL2.
+* [GNDROiD](https://gnonymous1.github.io/GNDROiD/) - Next-gen Android hypervisor & virtual machine for Windows with hardware-bridged router DHCP networking, multi-instance isolation, and 120 FPS phone mirroring. [![Open-Source Software][oss]](https://github.com/gnonymous1/GNDROiD)
 * [Podman Desktop](https://podman.io/) - Open source desktop containerization alternative to Docker. [![Open-Source Software][oss]](https://github.com/containers/podman-desktop)
 * [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization.
 * [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop.
