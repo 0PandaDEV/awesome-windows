@@ -125,6 +125,7 @@ More information in CLAUDE.md and llms.txt.
 * [Mp3tag](https://www.mp3tag.de/en/) - Edits music metadata and tags.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube)
+* [motu-ui](https://github.com/dvinerlove/motu-ui) - Unofficial control panel for MOTU M2/M4/M6 audio interfaces: live meters, buffer and latency controls, presets. [![Open-Source Software][oss]](https://github.com/dvinerlove/motu-ui)
 * [Nora](https://noramusic.netlify.app/) - Plays and manages music. [![Open-Source Software][oss]](https://github.com/Sandakan/Nora)
 * [Tenacity](https://tenacityaudio.org/) - A variant of Audacity without telemetry. [![Open-Source Software][oss]](https://codeberg.org/tenacityteam/tenacity)
 
