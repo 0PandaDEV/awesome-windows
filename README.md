@@ -125,6 +125,7 @@ More information in CLAUDE.md and llms.txt.
 * [Mp3tag](https://www.mp3tag.de/en/) - Edits music metadata and tags.
 * [MusicBrainz Picard](https://picard.musicbrainz.org/) - Identifies and tags music files. [![Open-Source Software][oss]](https://github.com/metabrainz/picard)
 * [musikcube](https://musikcube.com/) - Plays music through terminal. [![Open-Source Software][oss]](https://github.com/clangen/musikcube)
+* [MySpotify](https://margbug01.github.io/MySpotify/en.html) - Lightweight native Go desktop client for Spotify with floating desktop lyrics, music videos, video podcasts, 6-band equalizer, and crossfade. [![Open-Source Software][oss]](https://github.com/margbug01/MySpotify)
 * [Nora](https://noramusic.netlify.app/) - Plays and manages music. [![Open-Source Software][oss]](https://github.com/Sandakan/Nora)
 * [Tenacity](https://tenacityaudio.org/) - A variant of Audacity without telemetry. [![Open-Source Software][oss]](https://codeberg.org/tenacityteam/tenacity)
 
