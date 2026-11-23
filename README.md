@@ -494,6 +494,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [SpeedCrunch](https://speedcrunch.org/) - Powerful scientific calculator. [![Open-Source Software][oss]](https://bitbucket.org/heldercorreia/speedcrunch/)
 * [SyncThing](https://syncthing.net/) - Peer-to-peer file synchronization tool. [![Open-Source Software][oss]](https://github.com/syncthing/syncthing)
 * [TaskSlinger](https://taskslinger.net/) - A fast, native Windows Task Manager replacement with process monitoring, performance graphs, services, startup apps, and network connections. ![paid]
+* [Tools3000](https://github.com/yuan278501381/Tools3000) - Native C++20/Rust 12-in-1 Windows utility suite combining instant NTFS & document search (with 350 KB Rust CLI/MCP), persistent clipboard, screenshots with 8-language offline OCR/translation, file dialog jump, File Locksmith, mouse gestures, screen recorder, and a standalone Picasa-style viewer. [![Open-Source Software][oss]](https://github.com/yuan278501381/Tools3000)
 * [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software][oss]](https://github.com/xanderfrangos/twinkle-tray)
 * [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid]
 * [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
