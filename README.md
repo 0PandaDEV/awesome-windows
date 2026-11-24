@@ -510,6 +510,7 @@ every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 sec
 * [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
 * [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 * [Tabby](https://tabby.sh/) - Configurable terminal built on web technologies. [![Open-Source Software][oss]](https://github.com/Eugeny/tabby)
+* [TernaryCode](https://ilhamnadhif.github.io/ternarycode/) - Native Rust terminal workspace for managing multiple projects and AI coding agents (Claude Code, Codex, OpenCode, Antigravity CLI) with hook-backed status, git worktrees, and an embedded browser. [![Open-Source Software][oss]](https://github.com/ilhamnadhif/ternarycode)
 * [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
 * [Warp](https://www.warp.dev/) - AI-powered terminal with IDE-like features and team collaboration.
 * [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated terminal emulator and multiplexer. [![Open-Source Software][oss]](https://github.com/wez/wezterm)
