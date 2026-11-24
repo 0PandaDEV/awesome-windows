@@ -354,6 +354,7 @@ More information in CLAUDE.md and llms.txt.
 
 ## Office Suites
 
+* [Eddocu](https://eddocu.com) - Edits PDF, Word and PowerPoint files in one app, including the PDF's own text, with OCR, signatures and forms; works offline.
 * [FreeOffice](https://www.freeoffice.com/en/) - Reads and writes Microsoft Office file formats with high compatibility.
 * [LibreOffice](https://www.libreoffice.org/) - Handles complex document formatting and supports extensive file formats. [![Open-Source Software][oss]](https://www.libreoffice.org/about-us/source-code/) ![star]
 * [Microsoft Office](https://www.office.com) - Provides real-time collaboration and cloud integration across apps.
