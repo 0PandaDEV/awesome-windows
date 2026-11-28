@@ -268,6 +268,7 @@ More information in CLAUDE.md and llms.txt.
 * [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
 * [fselect](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
 * [One Commander](https://onecommander.com/) - Modern file manager with miller columns.
+* [rustyfiles](https://rustyfiles.com/) - Fast file manager written in Rust, with tabs, dual pane, archives and built-in previews. [![Open-Source Software][oss]](https://github.com/gelenmedya/rustyfiles)
 * [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive)
 * [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
